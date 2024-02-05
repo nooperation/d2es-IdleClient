@@ -10,6 +10,7 @@ namespace IdleClient.Game
 	partial class GameServer : ClientBase
 	{
 		List<Item> items = new List<Item>();
+		uint itemInHand = 0;
 
 		/// <summary>
 		/// Handles packets sent from the game server
@@ -26,8 +27,12 @@ namespace IdleClient.Game
 					OnInformationMessage(packet);
 					break;
 				case GameServerInPacketType.WorldItemAction:
+				case GameServerInPacketType.OwnedItemAction:
 					OnWorldItemAction(packet);
 					break;
+				case GameServerInPacketType.UpdateItemUI:
+					OnUpdateItemUI(packet);
+					break;				
 				case GameServerInPacketType.PlayerInGame:
 					OnPlayerInGame(packet);
 					break;
@@ -159,7 +164,25 @@ namespace IdleClient.Game
 			catch (Exception)
 			{
 				LogError("Failed to parse item: " + Util.GetPacketDump(packet.Data, true));
+				return;
 			}
+
+			Console.WriteLine("Item packet: " + fromServer.item);
+			if (fromServer.item.Location == Item.ItemLocation.Tohand)
+			{
+				Say("Item picked up");
+				itemInHand = fromServer.item.ItemID;
+				SendPacket(new DropItemOut(itemInHand));
+			}
+			else if (fromServer.item.Location == Item.ItemLocation.Dropping)
+			{
+				if (fromServer.item.ItemID == itemInHand)
+				{
+					Say("Item dropped");
+				}
+			}
+
+			items.Add(fromServer.item);
 
 			//StringBuilder sb = new StringBuilder();
 			//
@@ -301,6 +324,47 @@ namespace IdleClient.Game
 			toServer = new PingOut((uint)DateTime.Now.Ticks, 0x35);
 
 			SendPacket(toServer);
+		}
+
+		private void OnUpdateItemUI(GameServerPacket packet)
+		{
+			UpdateItemUIIn fromServer;
+
+			try
+			{
+				fromServer = new UpdateItemUIIn(packet);
+			}
+			catch (Exception)
+			{
+				LogError("Failed to UpdateItemUIIn packet: " + Util.GetPacketDump(packet.Data, true));
+				return;
+			}
+
+			if (fromServer.Id == UpdateItemUIIn.IdTypes.OpenStash)
+			{
+				Say("Stash opened");
+			}
+		}
+
+		internal List<Item> GetItems()
+		{
+			return items;
+		}
+		internal void PickupItem(uint p)
+		{
+			SendPacket(new PickItemFromContainerOut(p));
+		}
+
+		internal void DropItem(uint p)
+		{
+			DropItemOut dropItemPacket = new DropItemOut(p);
+			SendPacket(dropItemPacket);
+		}
+
+		internal void InteractWithObject(uint objectType, uint objectId)
+		{
+			UnitInteractOut unitInteractPacket = new UnitInteractOut(objectType, objectId);
+			SendPacket(unitInteractPacket);
 		}
 	}
 }

@@ -424,5 +424,24 @@ namespace IdleClient
 		{
 			return "MAIN";
 		}
-	}
+
+		public List<Item> GetItems()
+		{
+			return gameServer.GetItems();
+		}
+		public void DebugPickupItem(uint p)
+		{
+			gameServer.PickupItem(p);
+		}
+
+		public void DebugDropItem(uint p)
+		{
+			gameServer.DropItem(p);
+		}
+
+		public void InteractWithObject(uint objectType, uint objectId)
+		{
+			gameServer.InteractWithObject(objectType, objectId);
+		}
+    }
 }

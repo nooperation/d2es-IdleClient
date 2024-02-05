@@ -1,1228 +1,4 @@
-gb9 Arrows token
-gb8 Belt token
-gb7 Boots token
-gb6 Gloves token
-gb5 Shield token
-gb4 Body Armor token
-gb3 Helm token
-gb2 Bow token
-gb1 Sword 1h token
-gb0 Sword 2h token
-gd9 Knuckles token
-gd8 Bolts token
-gd7 Crossbow token
-gd6 Paladin Shield token
-gd5 Necro Head token
-gd4 Wolf Helm token
-gd3 Barb Helm token
-gd2 Eagle Orb token
-gd1 Katar token
-gd0 Staff token
-gc9 Polearm token
-gc8 Spear token
-gc7 Javelin token
-gc6 Throwing Weapon token
-gc5 Dagger token
-gc4 Maul token
-gc3 Mace token
-gc2 Wand token
-gc1 Axe 2h token
-gc0 Axe 1h token
-xhm Winged Helm
-r16 ˇc9Yu Rune
-r13 ˇc1Tsu Rune
-r31 ˇc2Se Rune
-neg Hellspawn Skull
-uhf Legendary Mallet
-7wa Berserker Axe
-xhg War Gauntlets
-9bl Stiletto
-yap Hood
-ykp Fedora
-ylm Guardian Helm
-yhl Gladiator Helm
-yhm Tusk Helm
-yrn Royal Crown
-ysk Devil Mask
-yui Padded Armor
-yea Viper Skin
-yla Demon Carapace
-ytu Gemstoned Armor
-yng Heavy Mail
-ycl Dragon Scale
-yhn Chain Shirt
-yrs Chest Guard
-ypl Demon Fleece
-ylt Plated Cuirass
-yld Combat Plate
-yth Royal Armor
-yul Ceremonial Armor
-yar Archaic Armor
-ytp Archmage Plate
-yuc Petrified Buckler
-yml Desert Shield
-yrg Giant Buckler
-yit Military Shield
-yow Imperial Shield
-yts Body Shield
-ylg Spellcaster Gloves
-yvg Viper Hands
-ymg Sepulcher Gloves
-ytg Gladiator Gauntlets
-yhg Titan Gauntlets
-ylb Rogue Boots
-yvb Viper Boots
-ymb Sepulcher Boots
-ytb Gladiator Boots
-yhb Titan Boots
-alb Hemp Band
-avb Rogue Belt
-bmb Merchant Belt
-atb Gladiator Belt
-ahb Titan Belt
-yh9 Demon Skull
-ysh Demon Shield
-ypk Thorned Shield
-cix Hachigane
-dwc Dwarven Circlet
-xdw Dwarven Faceguard
-ydw Dwarven Faceplate
-elv Elven Chain
-xlv Drow Adamantite Chain
-ylv Sylvan Chain
-fts Fortress Shield
-xft Reflection Shield
-yft Ceremonial Shield
-irg Iron Guards
-xig Military Guards
-yig Royal Guards
-dbt Crystal Boots
-xbt Dimensional Boots
-ybt Phase Boots
-msb Muscle Wrap
-xms Giant Wrap
-yms Herculean Wrap
-shl Spiked Shoulder
-xhh Thorned Armor
-yhh Spiked Armor
-clk Cloak
-xlk Shadow Cloak
-ylk Shinobi Cloak
-rob Robe
-xrb Mage Robe
-yrb Archmage Robe
-eht Spirit Crown
-xht Ethereal Crown
-yht Titania Crown
-map ˇc4Maple Leaf
-sss ˇc5Spider's Silk
-ggg ˇc3Crushed Gem
-eee ˇc1Blackmoor
-hly ˇc/Holy Symbol
-hh2 ˇc7Forging Hammer
-ttt ˇc5Tyranium Ore
-ppp ˇc;Dragon Stone
-ddd ˇc4Ancient Decipherer
-sdo ˇc8Socket Donut
-rnd ˇc0Randomize
-an0 ˇc4Unique Stone (nor)
-an1 ˇc4Unique Stone (exc)
-an2 ˇc4Unique Stone (eli)
-an3 ˇc2Green Aura Stone
-an4 ˇc1Red Aura Stone
-an5 ˇc;Violet Aura Stone
-an6 ˇc9Yellow Aura Stone
-an7 ˇc5Black Aura Stone
-an8 ˇc/White Aura Stone
-an9 ˇc3Blue Aura Stone
-yyy ˇc9Cookbook
-zzz ˇc1Steak
-hrt ˇc1Heart
-brz ˇc1Brain
-jaw ˇc7Jawbone
-eyz ˇc9Eye
-hrn ˇc:Horn
-tal ˇc8Tail
-flg ˇc1Flag
-fng ˇc5Fang
-qll ˇc5Quill
-sol ˇc3Soul
-scz ˇc:Scalp
-spe ˇc;Spleen
-00g Griswold's Hand
-00t Treehead WoodFist's Arm
-00r Radament's Head
-00h Hephasto's Hand
-fkn Fake Note
-po1 Potion of Heroism
-po2 Potion of Super-Heroism
-po3 Mountain Dew
-po4 Nirvana Grass
-zrn Amazonian Loop
-srn Sorcerer's Band
-nrn Necromancer's Stone
-prn Paladic Halo
-brg Barbaric Hoop
-drn Druid's Seal
-arn Assassin's Spiral
-zam Amazonian Pin
-sam Sorcerer's Talisman
-nam Death's Locket
-pam Holy Pendant
-bam Totemic Pebble
-dam Druidic Necklace
-aam Assassin's Choker
-cm4 Odd Charm
-cm5 Square Charm
-gcv ˇc;Chipped Amethyst
-gfv ˇc;Flawed Amethyst
-gsv ˇc;Amethyst
-gzv ˇc;Flawless Amethyst
-gpv ˇc;Blemished Amethyst
-gcy ˇc9Chipped Topaz
-gfy ˇc9Flawed Topaz
-gsy ˇc9Topaz
-gly ˇc9Flawless Topaz
-gpy ˇc9Blemished Topaz
-gcb ˇc3Chipped Sapphire
-gfb ˇc3Flawed Sapphire
-gsb ˇc3Sapphire
-glb ˇc3Flawless Sapphire
-gpb ˇc3Blemished Sapphire
-gcg ˇc2Chipped Emerald
-gfg ˇc2Flawed Emerald
-gsg ˇc2Emerald
-glg ˇc2Flawless Emerald
-gpg ˇc2Blemished Emerald
-gcr ˇc1Chipped Ruby
-gfr ˇc1Flawed Ruby
-gsr ˇc1Ruby
-glr ˇc1Flawless Ruby
-gpr ˇc1Blemished Ruby
-gcw ˇc/Chipped Diamond
-gfw ˇc/Flawed Diamond
-gsw ˇc/Diamond
-glw ˇc/Flawless Diamond
-gpw ˇc/Blemished Diamond
-skc ˇc0Chipped Skull
-skf ˇc0Flawed Skull
-sku ˇc0Skull
-skl ˇc0Flawless Skull
-skz ˇc0Blemished Skull
-gvb ˇc;Perfect Amethyst
-gyb ˇc9Perfect Topaz
-gbb ˇc3Perfect Sapphire
-ggb ˇc2Perfect Emerald
-grb ˇc1Perfect Ruby
-gwb ˇc/Perfect Diamond
-skb ˇc0Perfect Skull
-gck ˇc5Chipped Obsidian
-gfk ˇc5Flawed Obsidian
-gsk ˇc5Obsidian
-gzk ˇc5Flawless Obsidian
-gpk ˇc5Blemished Obsidian
-gbk ˇc5Perfect Obsidian
-r01 ˇc/I Rune
-r02 ˇc/U Rune
-r03 ˇc/Shi Rune
-r04 ˇc/Ka Rune
-r05 ˇc/N Rune
-r06 ˇc/Ku Rune
-r07 ˇc/Yo Rune
-r08 ˇc1Ki Rune
-r09 ˇc1Ri Rune
-r10 ˇc1Mi Rune
-r11 ˇc1Ya Rune
-r12 ˇc1A Rune
-r14 ˇc1Chi Rune
-r15 ˇc9Sa Rune
-r17 ˇc9Ke Rune
-r18 ˇc9E Rune
-r19 ˇc9Ko Rune
-r20 ˇc9Ra Rune
-r21 ˇc9O Rune
-r22 ˇc8Ho Rune
-r23 ˇc8Me Rune
-r24 ˇc8Ru Rune
-r25 ˇc8Ta Rune
-r26 ˇc8To Rune
-r27 ˇc8Wa Rune
-r28 ˇc8Ha Rune
-r29 ˇc2Na Rune
-r30 ˇc2Ni Rune
-r32 ˇc2Fu Rune
-r33 ˇc2Ma Rune
-r34 ˇc2Hi Rune
-r35 ˇc2Mo Rune
-r36 ˇc4No Rune
-r37 ˇc4Te Rune
-r38 ˇc4Ro Rune
-r39 ˇc4So Rune
-r40 ˇc4Mu Rune
-r41 ˇc4Ne Rune
-r42 ˇc4Re Rune
-r43 ˇc;Su Rune
-r44 ˇc;He Rune
-r45 ˇc;Nu Rune
-r46 ˇc;Wo Rune
-r47 Ka Rune
-r51 El Rune
-r52 Eld Rune
-r53 Tir Rune
-r54 Nef Rune
-r55 Eth Rune
-r56 Ith Rune
-r57 Tal Rune
-r58 Ral Rune
-r59 Ort Rune
-r60 Thul Rune
-r61 Amn Rune
-r62 Sol Rune
-r63 Shael Rune
-r64 Dol Rune
-r65 Hel Rune
-r66 Io Rune
-r67 Lum Rune
-r68 Ko Rune
-r69 Fal Rune
-r70 Lem Rune
-r71 Pul Rune
-r72 Um Rune
-r73 Mal Rune
-r74 Ist Rune
-r75 Gul Rune
-r76 Vex Rune
-r77 Ohm Rune
-r78 Lo Rune
-r79 Sur Rune
-r80 Ber Rune
-r81 Jah Rune
-r82 Cham Rune
-r83 Zod Rune
-01l (I -> El) ˇc4Ancient Decal
-02l (U -> Eld) ˇc4Ancient Decal
-03l (Shi -> Tir) ˇc4Ancient Decal
-04l (Ka -> Nef) ˇc4Ancient Decal
-05l (N -> Eth) ˇc4Ancient Decal
-06l (Ku -> Ith) ˇc4Ancient Decal
-07l (Yo -> Tal) ˇc4Ancient Decal
-08l (Ki -> Ral) ˇc4Ancient Decal
-09l (Ri -> Ort) ˇc4Ancient Decal
-10l (Mi -> Thul) ˇc4Ancient Decal
-11l (Ya -> Amn) ˇc4Ancient Decal
-12l (A -> Sol) ˇc4Ancient Decal
-13l (Tsu -> Shael) ˇc4Ancient Decal
-14l (Chi -> Dol) ˇc4Ancient Decal
-15l (Sa -> Hel) ˇc4Ancient Decal
-16l (Yu -> Io) ˇc4Ancient Decal
-17l (Ke -> Lum) ˇc4Ancient Decal
-18l (E -> Ko) ˇc4Ancient Decal
-19l (Ko -> Fal) ˇc4Ancient Decal
-20l (Ra -> Lem) ˇc4Ancient Decal
-21l (Ho -> Pul) ˇc4Ancient Decal
-22l (Ru -> Um) ˇc4Ancient Decal
-23l (To -> Mal) ˇc4Ancient Decal
-24l (Ha -> Ist) ˇc4Ancient Decal
-25l (Ni -> Gul) ˇc4Ancient Decal
-26l (Fu -> Vex) ˇc4Ancient Decal
-27l (Hi -> Ohm) ˇc4Ancient Decal
-28l (No -> Lo) ˇc4Ancient Decal
-29l (Ro -> Sur) ˇc4Ancient Decal
-30l (Mu -> Ber) ˇc4Ancient Decal
-31l (Re -> Jah) ˇc4Ancient Decal
-32l (He -> Cham) ˇc4Ancient Decal
-33l (Wo -> Zod) ˇc4Ancient Decal
-00a ˇc4Ancient Scroll
-01a ˇc4Ancient Scroll 1
-02a ˇc4Ancient Scroll 2
-03a ˇc4Ancient Scroll 3
-04a ˇc4Ancient Scroll 4
-05a ˇc4Ancient Scroll 5
-06a ˇc4Ancient Scroll 6
-07a ˇc4Ancient Scroll 7
-08a ˇc4Ancient Scroll 8
-09a ˇc4Ancient Scroll 9
-10a ˇc4Ancient Scroll 10
-11a ˇc4Ancient Scroll 11
-12a ˇc4Ancient Scroll 12
-13a ˇc4Ancient Scroll 13
-14a ˇc4Ancient Scroll 14
-15a ˇc4Ancient Scroll 15
-16a ˇc4Ancient Scroll 16
-17a ˇc4Ancient Scroll 17
-18a ˇc4Ancient Scroll 18
-19a ˇc4Ancient Scroll 19
-20a ˇc4Ancient Scroll 20
-21a ˇc4Ancient Scroll 21
-22a ˇc4Ancient Scroll 22
-23a ˇc4Ancient Scroll 23
-24a ˇc4Ancient Scroll 24
-25a ˇc4Ancient Scroll 25
-26a ˇc4Ancient Scroll 26
-27a ˇc4Ancient Scroll 27
-28a ˇc4Ancient Scroll 28
-29a ˇc4Ancient Scroll 29
-30a ˇc4Ancient Scroll 30
-31a ˇc4Ancient Scroll 31
-32a ˇc4Ancient Scroll 32
-33a ˇc4Ancient Scroll 33
-34a ˇc4Ancient Scroll 34
-35a ˇc4Ancient Scroll 35
-36a ˇc4Ancient Scroll 36
-37a ˇc4Ancient Scroll 37
-38a ˇc4Ancient Scroll 38
-39a ˇc4Ancient Scroll 39
-40a ˇc4Ancient Scroll 40
-41a ˇc4Ancient Scroll 41
-42a ˇc4Ancient Scroll 42
-43a ˇc4Ancient Scroll 43
-44a ˇc4Ancient Scroll 44
-45a ˇc4Ancient Scroll 45
-46a ˇc4Ancient Scroll 46
-47a ˇc4Ancient Scroll 47
-48a ˇc4Ancient Scroll 48
-49a ˇc4Ancient Scroll 49
-50a ˇc4Ancient Scroll 50
-00b ˇc4Ancient Scroll
-01b ˇc4Ancient Scroll 1
-02b ˇc4Ancient Scroll 2
-03b ˇc4Ancient Scroll 3
-04b ˇc4Ancient Scroll 4
-05b ˇc4Ancient Scroll 5
-06b ˇc4Ancient Scroll 6
-07b ˇc4Ancient Scroll 7
-08b ˇc4Ancient Scroll 8
-09b ˇc4Ancient Scroll 9
-10b ˇc4Ancient Scroll 10
-11b ˇc4Ancient Scroll 11
-12b ˇc4Ancient Scroll 12
-13b ˇc4Ancient Scroll 13
-14b ˇc4Ancient Scroll 14
-15b ˇc4Ancient Scroll 15
-16b ˇc4Ancient Scroll 16
-17b ˇc4Ancient Scroll 17
-18b ˇc4Ancient Scroll 18
-19b ˇc4Ancient Scroll 19
-20b ˇc4Ancient Scroll 20
-21b ˇc4Ancient Scroll 21
-22b ˇc4Ancient Scroll 22
-23b ˇc4Ancient Scroll 23
-24b ˇc4Ancient Scroll 24
-25b ˇc4Ancient Scroll 25
-26b ˇc4Ancient Scroll 26
-27b ˇc4Ancient Scroll 27
-28b ˇc4Ancient Scroll 28
-29b ˇc4Ancient Scroll 29
-30b ˇc4Ancient Scroll 30
-31b ˇc4Ancient Scroll 31
-32b ˇc4Ancient Scroll 32
-33b ˇc4Ancient Scroll 33
-34b ˇc4Ancient Scroll 34
-35b ˇc4Ancient Scroll 35
-36b ˇc4Ancient Scroll 36
-37b ˇc4Ancient Scroll 37
-38b ˇc4Ancient Scroll 38
-39b ˇc4Ancient Scroll 39
-40b ˇc4Ancient Scroll 40
-41b ˇc4Ancient Scroll 41
-42b ˇc4Ancient Scroll 42
-43b ˇc4Ancient Scroll 43
-44b ˇc4Ancient Scroll 44
-45b ˇc4Ancient Scroll 45
-46b ˇc4Ancient Scroll 46
-47b ˇc4Ancient Scroll 47
-48b ˇc4Ancient Scroll 48
-49b ˇc4Ancient Scroll 49
-50b ˇc4Ancient Scroll 50
-01c ˇc4(Buckler) Ancient Coupon
-02c ˇc4(Cap) Ancient Coupon
-03c ˇc4(Leather Gloves) Ancient Coupon
-04c ˇc4(Boots) Ancient Coupon
-05c ˇc4(Quilted Armor) Ancient Coupon
-06c ˇc4(Sash) Ancient Coupon
-07c ˇc4(Small Shield) Ancient Coupon
-08c ˇc4(Heavy Gloves) Ancient Coupon
-09c ˇc4(Heavy Boots) Ancient Coupon
-10c ˇc4(Leather Armor) Ancient Coupon
-11c ˇc4(Light Belt) Ancient Coupon
-12c ˇc4(Large Shield) Ancient Coupon
-13c ˇc4(Hard Leather Armor) Ancient Coupon
-14c ˇc4(Helm) Ancient Coupon
-15c ˇc4(Ring Mail) Ancient Coupon
-16c ˇc4(Skull Cap) Ancient Coupon
-17c ˇc4(Spiked Shield) Ancient Coupon
-18c ˇc4(Chain Gloves) Ancient Coupon
-19c ˇc4(Chain Boots) Ancient Coupon
-20c ˇc4(Scale Mail) Ancient Coupon
-21c ˇc4(Studded Leather) Ancient Coupon
-22c ˇc4(Full Helm) Ancient Coupon
-23c ˇc4(Kite Shield) Ancient Coupon
-24c ˇc4(Chain Mail) Ancient Coupon
-25c ˇc4(Tower Shield) Ancient Coupon
-26c ˇc4(Mask) Ancient Coupon
-27c ˇc4(Breast Plate) Ancient Coupon
-28c ˇc4(Bone Shield) Ancient Coupon
-29c ˇc4(Belt) Ancient Coupon
-30c ˇc4(Bone Helm) Ancient Coupon
-31c ˇc4(Splint Mail) Ancient Coupon
-32c ˇc4(Light Gauntlets) Ancient Coupon
-33c ˇc4(Light Plated Boots) Ancient Coupon
-34c ˇc4(Heavy Belt) Ancient Coupon
-35c ˇc4(Great Helm) Ancient Coupon
-36c ˇc4(Plate Mail) Ancient Coupon
-37c ˇc4(Gauntlets) Ancient Coupon
-38c ˇc4(Greaves) Ancient Coupon
-39c ˇc4(Plated Belt) Ancient Coupon
-40c ˇc4(Crown) Ancient Coupon
-41c ˇc4(Field Plate) Ancient Coupon
-42c ˇc4(Gothic Shield) Ancient Coupon
-43c ˇc4(Gothic Plate) Ancient Coupon
-44c ˇc4(Light Plate) Ancient Coupon
-45c ˇc4(Full Plate Mail) Ancient Coupon
-46c ˇc4(Ancient Armor) Ancient Coupon
-01d ˇc4(War Hat) Ancient Coupon
-02d ˇc4(Ghost Armor) Ancient Coupon
-03d ˇc4(Defender) Ancient Coupon
-04d ˇc4(Demonhide Gloves) Ancient Coupon
-05d ˇc4(Demonhide Boots) Ancient Coupon
-06d ˇc4(Demonhide Sash) Ancient Coupon
-07d ˇc4(Serpentskin Armor) Ancient Coupon
-08d ˇc4(Sallet) Ancient Coupon
-09d ˇc4(Demonhide Armor) Ancient Coupon
-10d ˇc4(Round Shield) Ancient Coupon
-11d ˇc4(Sharkskin Gloves) Ancient Coupon
-12d ˇc4(Sharkskin Belt) Ancient Coupon
-13d ˇc4(Sharkskin Boots) Ancient Coupon
-14d ˇc4(Trellised Armor) Ancient Coupon
-15d ˇc4(Casque) Ancient Coupon
-16d ˇc4(Linked Mail) Ancient Coupon
-17d ˇc4(Scutum) Ancient Coupon
-18d ˇc4(Barbed Shield) Ancient Coupon
-19d ˇc4(Heavy Bracers) Ancient Coupon
-20d ˇc4(Mesh Boots) Ancient Coupon
-21d ˇc4(Tigulated Mail) Ancient Coupon
-22d ˇc4(Mesh Belt) Ancient Coupon
-23d ˇc4(Basinet) Ancient Coupon
-24d ˇc4(Mesh Armor) Ancient Coupon
-25d ˇc4(Dragon Shield) Ancient Coupon
-26d ˇc4(Death Mask) Ancient Coupon
-27d ˇc4(Cuirass) Ancient Coupon
-28d ˇc4(Grim Shield) Ancient Coupon
-29d ˇc4(Battle Belt) Ancient Coupon
-30d ˇc4(Grim Helm) Ancient Coupon
-31d ˇc4(Russet Armor) Ancient Coupon
-32d ˇc4(Battle Gauntlets) Ancient Coupon
-33d ˇc4(Battle Boots) Ancient Coupon
-34d ˇc4(Slayer Guard) Ancient Coupon
-35d ˇc4(Heirophant Trophy) Ancient Coupon
-36d ˇc4(Gilded Shield) Ancient Coupon
-37d ˇc4(Totemic Mask) Ancient Coupon
-38d ˇc4(Winged Helm) Ancient Coupon
-39d ˇc4(Pavise) Ancient Coupon
-40d ˇc4(Templar Coat) Ancient Coupon
-41d ˇc4(War Gauntlets) Ancient Coupon
-42d ˇc4(War Boots) Ancient Coupon
-43d ˇc4(War Belt) Ancient Coupon
-44d ˇc4(Sharktooth Armor) Ancient Coupon
-45d ˇc4(Grand Crown) Ancient Coupon
-46d ˇc4(Ancient Shield) Ancient Coupon
-47d ˇc4(Embossed Plate) Ancient Coupon
-48d ˇc4(Mage Plate) Ancient Coupon
-49d ˇc4(Chaos Armor) Ancient Coupon
-50d ˇc4(Ornate Armor) Ancient Coupon
-01e ˇc4(Luna) Ancient Coupon
-02e ˇc4(Vampirefang Belt) Ancient Coupon
-03e ˇc4(Shako) Ancient Coupon
-04e ˇc4(Destroyer Helm) Ancient Coupon
-05e ˇc4(Armet) Ancient Coupon
-06e ˇc4(Mithril Coil) Ancient Coupon
-07e ˇc4(Blood Spirit) Ancient Coupon
-08e ˇc4(Scarabshell Boots) Ancient Coupon
-09e ˇc4(Bloodlord Skull) Ancient Coupon
-10e ˇc4(Bone Visage) Ancient Coupon
-11e ˇc4(Kraken Shell) Ancient Coupon
-12e ˇc4(Shadow Plate) Ancient Coupon
-13e ˇc4(Boneweave Boots) Ancient Coupon
-14e ˇc4(Spired Helm ii) Ancient Coupon
-15e ˇc4(Earth Spirit) Ancient Coupon
-16e ˇc4(Ward) Ancient Coupon
-17e ˇc4(Spired Helm i) Ancient Coupon
-18e ˇc4(Monarch) Ancient Coupon
-19e ˇc4(Blade Barrier) Ancient Coupon
-20e ˇc4(Ogre Gauntlets) Ancient Coupon
-21e ˇc4(Myrmidon Greaves) Ancient Coupon
-22e ˇc4(Succubus Skull) Ancient Coupon
-23e ˇc4(Sacred Armor i) Ancient Coupon
-24e ˇc4(Vambraces) Ancient Coupon
-25e ˇc4(Sky Spirit) Ancient Coupon
-26e ˇc4(Dusk Shroud) Ancient Coupon
-27e ˇc4(Troll Nest) Ancient Coupon
-28e ˇc4(Vampirebone Gloves) Ancient Coupon
-29e ˇc4(Aegis) Ancient Coupon
-30e ˇc4(Diadem) Ancient Coupon
-31e ˇc4(Zakarum Shield) Ancient Coupon
-32e ˇc4(Demonhead) Ancient Coupon
-33e ˇc4(Wire Fleece) Ancient Coupon
-34e ˇc4(Balrog Skin) Ancient Coupon
-35e ˇc4(Tiara) Ancient Coupon
-36e ˇc4(Fury Visor) Ancient Coupon
-37e ˇc4(Conqueror Crown) Ancient Coupon
-38e ˇc4(Sacred Rondache) Ancient Coupon
-39e ˇc4(Corona) Ancient Coupon
-40e ˇc4(Sacred Armor ii) Ancient Coupon
-41e ˇc4(Spiderweb Sash) Ancient Coupon
-01f ˇc4(Short Sword) Ancient Coupon
-02f ˇc4(Club) Ancient Coupon
-03f ˇc4(Dagger) Ancient Coupon
-04f ˇc4(Wand) Ancient Coupon
-05f ˇc4(Short Staff) Ancient Coupon
-06f ˇc4(Hand Axe) Ancient Coupon
-07f ˇc4(Spiked Club) Ancient Coupon
-08f ˇc4(Scepter) Ancient Coupon
-09f ˇc4(Short Bow) Ancient Coupon
-10f ˇc4(Scimitar) Ancient Coupon
-11f ˇc4(Spear) Ancient Coupon
-12f ˇc4(Large Axe) Ancient Coupon
-13f ˇc4(Bardiche) Ancient Coupon
-14f ˇc4(Axe) Ancient Coupon
-15f ˇc4(Light Crossbow) Ancient Coupon
-16f ˇc4(Mace) Ancient Coupon
-17f ˇc4(Long Staff) Ancient Coupon
-18f ˇc4(Sabre) Ancient Coupon
-19f ˇc4(Dirk) Ancient Coupon
-20f ˇc4(Two-Handed Sword) Ancient Coupon
-21f ˇc4(Trident) Ancient Coupon
-22f ˇc4(Falchion) Ancient Coupon
-23f ˇc4(Hunter's Bow) Ancient Coupon
-24f ˇc4(Crystal Sword) Ancient Coupon
-25f ˇc4(Voulge) Ancient Coupon
-26f ˇc4(Broad Axe) Ancient Coupon
-27f ˇc4(Yew Wand) Ancient Coupon
-28f ˇc4(Long Bow) Ancient Coupon
-29f ˇc4(Morning Star) Ancient Coupon
-30f ˇc4(Double Axe) Ancient Coupon
-31f ˇc4(Broad Sword) Ancient Coupon
-32f ˇc4(Brandistock) Ancient Coupon
-33f ˇc4(Grand Scepter) Ancient Coupon
-34f ˇc4(Gnarled Staff) Ancient Coupon
-35f ˇc4(Crossbow) Ancient Coupon
-36f ˇc4(Claymore) Ancient Coupon
-37f ˇc4(Scythe) Ancient Coupon
-38f ˇc4(Kris) Ancient Coupon
-39f ˇc4(Battle Axe) Ancient Coupon
-40f ˇc4(Composite Bow) Ancient Coupon
-41f ˇc4(Bone Wand) Ancient Coupon
-42f ˇc4(Battle Staff) Ancient Coupon
-43f ˇc4(Flail) Ancient Coupon
-44f ˇc4(Military Pick) Ancient Coupon
-45f ˇc4(Spetum) Ancient Coupon
-46f ˇc4(Long Sword) Ancient Coupon
-47f ˇc4(War Scepter) Ancient Coupon
-48f ˇc4(Giant Sword) Ancient Coupon
-49f ˇc4(Maul) Ancient Coupon
-50f ˇc4(Short Battle Bow) Ancient Coupon
-51f ˇc4(Blade) Ancient Coupon
-52f ˇc4(Poleaxe) Ancient Coupon
-53f ˇc4(Great Axe) Ancient Coupon
-54f ˇc4(Flamberge) Ancient Coupon
-55f ˇc4(Bastard Sword) Ancient Coupon
-56f ˇc4(Long Battle Bow) Ancient Coupon
-57f ˇc4(Heavy Crossbow) Ancient Coupon
-58f ˇc4(Pike) Ancient Coupon
-59f ˇc4(Short War Bow) Ancient Coupon
-60f ˇc4(War Hammer) Ancient Coupon
-61f ˇc4(War Axe) Ancient Coupon
-62f ˇc4(Long War Bow) Ancient Coupon
-63f ˇc4(Repeating Crossbow) Ancient Coupon
-64f ˇc4(Halberd) Ancient Coupon
-65f ˇc4(Grim Wand) Ancient Coupon
-66f ˇc4(War Staff) Ancient Coupon
-67f ˇc4(Giant Axe) Ancient Coupon
-68f ˇc4(War Sword) Ancient Coupon
-69f ˇc4(War Scythe) Ancient Coupon
-70f ˇc4(Great Maul) Ancient Coupon
-71f ˇc4(Great Sword) Ancient Coupon
-01g ˇc4(Jo Staff) Ancient Coupon
-02g ˇc4(Edge Bow) Ancient Coupon
-03g ˇc4(Gladius) Ancient Coupon
-04g ˇc4(Razor Bow) Ancient Coupon
-05g ˇc4(War Spear) Ancient Coupon
-06g ˇc4(Quarterstaff) Ancient Coupon
-07g ˇc4(Cutlass) Ancient Coupon
-08g ˇc4(Poignard) Ancient Coupon
-09g ˇc4(Arbalest) Ancient Coupon
-10g ˇc4(Fuscina) Ancient Coupon
-11g ˇc4(Burnt Wand) Ancient Coupon
-12g ˇc4(Cedar Bow) Ancient Coupon
-13g ˇc4(Shamshir) Ancient Coupon
-14g ˇc4(Cudgel) Ancient Coupon
-15g ˇc4(Military Axe) Ancient Coupon
-16g ˇc4(Cedar Staff) Ancient Coupon
-17g ˇc4(War Fork) Ancient Coupon
-18g ˇc4(Petrified Wand) Ancient Coupon
-19g ˇc4(Tulwar) Ancient Coupon
-20g ˇc4(Siege Crossbow) Ancient Coupon
-21g ˇc4(Rondel) Ancient Coupon
-22g ˇc4(Hatchet) Ancient Coupon
-23g ˇc4(Tomb Wand) Ancient Coupon
-24g ˇc4(Double Bow) Ancient Coupon
-25g ˇc4(Yari) Ancient Coupon
-26g ˇc4(Dimensional Blade) Ancient Coupon
-27g ˇc4(Rune Scepter) Ancient Coupon
-28g ˇc4(Cinquedeas) Ancient Coupon
-29g ˇc4(Barbed Club) Ancient Coupon
-30g ˇc4(Holy Water Sprinkler) Ancient Coupon
-31g ˇc4(Lance) Ancient Coupon
-32g ˇc4(Short Siege Bow) Ancient Coupon
-33g ˇc4(Gothic Staff) Ancient Coupon
-34g ˇc4(Cleaver) Ancient Coupon
-35g ˇc4(Battle Sword) Ancient Coupon
-36g ˇc4(Bearded Axe) Ancient Coupon
-37g ˇc4(Flanged Mace) Ancient Coupon
-38g ˇc4(Lochaber Axe) Ancient Coupon
-39g ˇc4(Tabar) Ancient Coupon
-40g ˇc4(Rune Sword) Ancient Coupon
-41g ˇc4(Rune Staff) Ancient Coupon
-42g ˇc4(Long Siege Bow) Ancient Coupon
-43g ˇc4(Stilleto) Ancient Coupon
-44g ˇc4(Grave Wand) Ancient Coupon
-45g ˇc4(Ceremonial Javelin) Ancient Coupon
-46g ˇc4(Jagged Star) Ancient Coupon
-47g ˇc4(Swirling Crystal) Ancient Coupon
-48g ˇc4(Divine Scepter) Ancient Coupon
-49g ˇc4(Ancient Sword) Ancient Coupon
-50g ˇc4(Bill) Ancient Coupon
-51g ˇc4(Battle Scythe) Ancient Coupon
-52g ˇc4(Ceremonial Pike) Ancient Coupon
-53g ˇc4(Ceremonial Bow) Ancient Coupon
-54g ˇc4(Espandon) Ancient Coupon
-55g ˇc4(Gothic Axe) Ancient Coupon
-56g ˇc4(Greater Talons) Ancient Coupon
-57g ˇc4(Rune Bow) Ancient Coupon
-58g ˇc4(Partizan) Ancient Coupon
-59g ˇc4(Dacian Falx) Ancient Coupon
-60g ˇc4(Battle Hammer) Ancient Coupon
-61g ˇc4(Twin Axe) Ancient Coupon
-62g ˇc4(Battle Dart) Ancient Coupon
-63g ˇc4(Grim Scythe) Ancient Coupon
-64g ˇc4(Bec-de-Corbin) Ancient Coupon
-65g ˇc4(Tusk Sword) Ancient Coupon
-66g ˇc4(Gothic Sword) Ancient Coupon
-67g ˇc4(Crowbill) Ancient Coupon
-68g ˇc4(Ancient Axe) Ancient Coupon
-69g ˇc4(Martel de Fer) Ancient Coupon
-70g ˇc4(Knout) Ancient Coupon
-71g ˇc4(Gothic Bow) Ancient Coupon
-72g ˇc4(Zweihander) Ancient Coupon
-73g ˇc4(Executioner Sword) Ancient Coupon
-74g ˇc4(Naga) Ancient Coupon
-75g ˇc4(War Club) Ancient Coupon
-76g ˇc4(Chu-Ko-Nu) Ancient Coupon
-77g ˇc4(Ballista) Ancient Coupon
-78g ˇc4(Francisca) Ancient Coupon
-01h ˇc4(Phase Blade i) Ancient Coupon
-02k ˇc4(Caduceus) Ancient Coupon
-03h ˇc4(Bone Knife) Ancient Coupon
-04h ˇc4(Mighty Scepter i) Ancient Coupon
-05h ˇc4(Elegant Blade) Ancient Coupon
-06h ˇc4(Legend Spike) Ancient Coupon
-07h ˇc4(Devil Star) Ancient Coupon
-08h ˇc4(Decapitator) Ancient Coupon
-09h ˇc4(Tyrant Club) Ancient Coupon
-10h ˇc4(War Spike) Ancient Coupon
-11h ˇc4(Matriarchal Spear) Ancient Coupon
-12k ˇc4(Ogre Axe) Ancient Coupon
-13h ˇc4(Scourge i) Ancient Coupon
-14h ˇc4(Ataghan) Ancient Coupon
-15h ˇc4(Ward Bow) Ancient Coupon
-16h ˇc4(Wrist Sword) Ancient Coupon
-17h ˇc4(Unearthed Wand) Ancient Coupon
-18h ˇc4(Elder Staff) Ancient Coupon
-19h ˇc4(Champion Sword) Ancient Coupon
-20h ˇc4(Tomahawk) Ancient Coupon
-21h ˇc4(Champion Axe) Ancient Coupon
-22k ˇc4(Feral Claws) Ancient Coupon
-23h ˇc4(Winged Axe) Ancient Coupon
-24h ˇc4(Legendary Mallet i) Ancient Coupon
-25h ˇc4(Truncheon) Ancient Coupon
-26h ˇc4(Fanged Knife) Ancient Coupon
-27h ˇc4(Ogre Maul) Ancient Coupon
-28h ˇc4(Balrog Spear) Ancient Coupon
-29h ˇc4(Thunder Maul i) Ancient Coupon
-30h ˇc4(Matriarchal Javelin) Ancient Coupon
-31h ˇc4(War Pike) Ancient Coupon
-32k ˇc4(Crusader Bow) Ancient Coupon
-33h ˇc4(Flying Axe) Ancient Coupon
-34h ˇc4(Cryptic Sword) Ancient Coupon
-35h ˇc4(Berserker Axe) Ancient Coupon
-36h ˇc4(Giant Thresher) Ancient Coupon
-37h ˇc4(Winged Harpoon) Ancient Coupon
-38h ˇc4(Demon Crossbow) Ancient Coupon
-39h ˇc4(Matriarchal Bow) Ancient Coupon
-40h ˇc4(Balrog Blade) Ancient Coupon
-41h ˇc4(Mancatcher) Ancient Coupon
-42k ˇc4(Ettin Axe) Ancient Coupon
-43h ˇc4(Hydra Bow) Ancient Coupon
-44h ˇc4(Mighty Scepter ii) Ancient Coupon
-45h ˇc4(Eldritch Orb) Ancient Coupon
-46h ˇc4(Dimensional Shard) Ancient Coupon
-47h ˇc4(Silver-edged Axe) Ancient Coupon
-48h ˇc4(Legendary Mallet ii) Ancient Coupon
-49h ˇc4(Winged Knife) Ancient Coupon
-50h ˇc4(Glorious Axe) Ancient Coupon
-51h ˇc4(Thresher) Ancient Coupon
-52k ˇc4(Lich Wand) Ancient Coupon
-53h ˇc4(Colossus Crossbow) Ancient Coupon
-54h ˇc4(Ghost Glaive) Ancient Coupon
-55h ˇc4(Thunder Maul ii) Ancient Coupon
-56h ˇc4(Battle Cestus) Ancient Coupon
-57h ˇc4(Colossus Blade) Ancient Coupon
-58h ˇc4(Hyperion Spear) Ancient Coupon
-59h ˇc4(Cryptic Axe) Ancient Coupon
-60h ˇc4(Scourge ii) Ancient Coupon
-61h ˇc4(Archon Staff) Ancient Coupon
-62k ˇc4(Phase Blade ii) Ancient Coupon
-01i ˇc4(Amulet i) Ancient Coupon
-02i ˇc4(Amulet ii) Ancient Coupon
-03i ˇc4(Amulet iii) Ancient Coupon
-04i ˇc4(Amulet iv) Ancient Coupon
-05i ˇc4(Amulet v) Ancient Coupon
-06i ˇc4(Amulet vi) Ancient Coupon
-07i ˇc4(Amulet vii) Ancient Coupon
-08i ˇc4(Amulet viii) Ancient Coupon
-09i ˇc4(Amulet ix) Ancient Coupon
-10i ˇc4(Amulet x) Ancient Coupon
-11i ˇc4(Amulet xi) Ancient Coupon
-12i ˇc4(Amulet xii) Ancient Coupon
-01j ˇc4(Ring i) Ancient Coupon
-02j ˇc4(Ring ii) Ancient Coupon
-03j ˇc4(Ring iii) Ancient Coupon
-04j ˇc4(Ring iv) Ancient Coupon
-05j ˇc4(Ring v) Ancient Coupon
-06j ˇc4(Ring vi) Ancient Coupon
-07j ˇc4(Ring vii) Ancient Coupon
-08j ˇc4(Ring viii) Ancient Coupon
-09j ˇc4(Ring ix) Ancient Coupon
-10j ˇc4(Ring x) Ancient Coupon
-99j ˇc4(Wild Card) Ancient Coupon
-jr1 ˇc3Ring Point
-jr2 ˇc3Amulet Point
-jr3 ˇc3Jewel Point
-jr4 ˇc3SC Point
-jr5 ˇc3LC Point
-jr6 ˇc3GC Point
-0ha Barbarian Tomahawk
-0ax Precision Cleaver
-82a Duo-Axe
-0mp Razor Axe
-0wa Viking Axe
-0la Brawn Axe
-0ba Heavy Axe
-0bt Split Axe
-0ga Guillotine Axe
-0gi Slayer Axe
-1sb Spiderwoven Bow
-1hb Sharp Bow
-1lb Shade Bow
-1cb Dark Bow
-1s8 Rogue Bow
-1l8 Marksman Bow
-1sw Arcane Bow
-1lw Ancient Bow
-1lx Choice Crossbow
-1mx Marksman Crossbow
-1hx Odysseus Crossbow
-1rx Assassin Crossbow
-0dg Carved Bone
-0di Mithril Knife
-0kr Fang Knife
-0bl Ancient Spike
-0ja Ancient Shards
-0pi Dire Pilum
-0s9 Lissom Spear
-0gl Ahab Spear
-0ts Whale Hunter
-0cl Cranium Basher
-0sp Thorned Club
-0ma Arcane Mace
-0mt Serrated Star
-0fl Dire Flail
-0wh Military Hammer
-0m0 Ancient Maul
-0gm Titan's Maul
-0b7 Urgrosh
-0vo Pole Gauche
-0s8 Shadow Scythe
-0pa Royal Partizan
-0h0 Guardian
-0wc Death Reaper
-5sc Celestial Scepter
-0qs Holy Scepter
-0ws Blessed Scepter
-0sr Guisarme
-0tr Grapnel
-0br Dragon Spear
-0st Ranseur
-0p0 Impaler
-1ss Elder Cane
-1ls Mystic Staff
-1cs Petrified Staff
-1bs Mage Staff
-1ws Arcane Staff
-0ss Gladiator Blade
-0sm Desert Sword
-0sb Rapier
-0fc Okrist
-0cr Jeweled Edge
-0bs Viking Sword
-0ls Arcane Sword
-0wd Trojan Sword
-02h Judgement Blade
-0cm Titan's Dagger
-0gs Lithe Blade
-0b0 Dark Sword
-0fb Hellfire Sword
-0gd Death Blade
-0tk Throwing Dagger
-0ta Throwing Hatchet
-0bk Balanced Dagger
-0b6 Balanced Hatchet
-0wn Sacred Wand
-0yw Sepulcher Wand
-0bw Callous Wand
-0gw Demonic Wand
-aq2 Magic Arrows
-cq2 Magic Bolts
-gsp Great Scepter
-9gp Consecrated Scepter
-0gp Seraphic Scepter
-apb Precision Bow
-9pb Tuigan Bow
-0pb Elven Bow
-nin Ninja To
-9nn Wakizashi
-0nn Katana
-bts Tribal Hatchet
-9xb Highland Hatchet
-0xb Arreat's Hatchet
-shc Oak Branch
-9sh Shaman Wand
-0sh Shillelagh
-nrd Ritualistic Dagger
-9rd Sacrificial Dagger
-0rd Ceremonial Dagger
-nsy Wretched Scythe
-9ns Dire Scythe
-0ns Demonic Scythe
-syn Soul Hunter
-9sy Soul Burner
-0sy Soul Destroyer
-pbe Blessed Edge
-9be Divine Blade
-0be Celestial Blade
-mnb Mana Blade
-9mn Energy Blade
-0mn Wizard Blade
-fq0 ˇc9FAQ Scroll 1
-fq1 ˇc9FAQ Scroll 2
-fq2 ˇc9FAQ Scroll 3
-fq3 ˇc9FAQ Scroll 4
-fq4 ˇc9FAQ Scroll 5
-fq5 ˇc9FAQ Scroll 6
-fq6 ˇc9FAQ Scroll 7
-fq7 ˇc9FAQ Scroll 8
-fq8 ˇc9FAQ Scroll 9
-fq9 ˇc9FAQ Scroll 10
-96j ˇc4(Normal) Ancient Coupon
-97j ˇc4(Exceptional) Ancient Coupon
-98j ˇc4(Elite) Ancient Coupon
-jr7 ˇc3Arrow Point
-jr8 ˇc3Bolt Point
-tkn Token
-tkz Tokenizer
-ba4 Assault Helm
-ba9 Savage Helm
-mc0 ˇc2Diablo's Heart
-mc1 ˇc2Wave's Heart
-mc2 ˇc2Ihsan's Heart
-mc3 ˇc2Lich's Heart
-mc4 ˇc2Angel's Heart
-mc5 ˇc2Kain's Heart
-mc6 ˇc2Sarevok's Heart
-mc7 ˇc2Jade's Heart
-mc8 ˇc2Arion's Heart
-mc9 ˇc2Danarak's Heart
-nc0 ˇc2Nature's Heart
-nc1 ˇc2Cow King's Heart
-nc2 ˇc2Broken Small Charm
-ci4 Faceguard
-a00 ˇc4(Hand Axe) Gambling
-a01 ˇc4(Axe) Gambling
-a02 ˇc4(Double Axe) Gambling
-a03 ˇc4(Military Pick) Gambling
-a04 ˇc4(War Axe) Gambling
-a05 ˇc4(Large Axe) Gambling
-a06 ˇc4(Broad Axe) Gambling
-a07 ˇc4(Battle Axe) Gambling
-a08 ˇc4(Great Axe) Gambling
-a09 ˇc4(Giant Axe) Gambling
-a10 ˇc4(Short Bow) Gambling
-a11 ˇc4(Hunter's Bow) Gambling
-a12 ˇc4(Long Bow) Gambling
-a13 ˇc4(Composite Bow) Gambling
-a14 ˇc4(Short Battle Bow) Gambling
-a15 ˇc4(Long Battle Bow) Gambling
-a16 ˇc4(Short War Bow) Gambling
-a17 ˇc4(Long War Bow) Gambling
-a18 ˇc4(Light Crossbow) Gambling
-a19 ˇc4(Crossbow) Gambling
-a20 ˇc4(Heavy Crossbow) Gambling
-a21 ˇc4(Repeating Crossbow) Gambling
-a22 ˇc4(Dagger) Gambling
-a23 ˇc4(Dirk) Gambling
-a24 ˇc4(Kris) Gambling
-a25 ˇc4(Blade) Gambling
-a26 ˇc4(Javelin) Gambling
-a27 ˇc4(Pilum) Gambling
-a28 ˇc4(Short Spear) Gambling
-a29 ˇc4(Glaive) Gambling
-a30 ˇc4(Throwing Spear) Gambling
-a31 ˇc4(Club) Gambling
-a32 ˇc4(Spiked Club) Gambling
-a33 ˇc4(Mace) Gambling
-a34 ˇc4(Morning Star) Gambling
-a35 ˇc4(Flail) Gambling
-a36 ˇc4(War Hammer) Gambling
-a37 ˇc4(Maul) Gambling
-a38 ˇc4(Great Maul) Gambling
-a39 ˇc4(Bardiche) Gambling
-a40 ˇc4(Voulge) Gambling
-a41 ˇc4(Scythe) Gambling
-a42 ˇc4(Poleaxe) Gambling
-a43 ˇc4(Halberd) Gambling
-a44 ˇc4(War Scythe) Gambling
-a45 ˇc4(Scepter) Gambling
-a46 ˇc4(Grand Scepter) Gambling
-a47 ˇc4(War Scepter) Gambling
-a48 ˇc4(Great Scepter) Gambling
-a49 ˇc4(Spear) Gambling
-a50 ˇc4(Trident) Gambling
-a51 ˇc4(Brandistock) Gambling
-a52 ˇc4(Spetum) Gambling
-a53 ˇc4(Pike) Gambling
-a54 ˇc4(Short Staff) Gambling
-a55 ˇc4(Long Staff) Gambling
-a56 ˇc4(Gnarled Staff) Gambling
-a57 ˇc4(Battle Staff) Gambling
-a58 ˇc4(War Staff) Gambling
-a59 ˇc4(Short Sword) Gambling
-a60 ˇc4(Scimitar) Gambling
-a61 ˇc4(Sabre) Gambling
-a62 ˇc4(Falchion) Gambling
-a63 ˇc4(Crystal Sword) Gambling
-a64 ˇc4(Broad Sword) Gambling
-a65 ˇc4(Long Sword) Gambling
-a66 ˇc4(War Sword) Gambling
-a67 ˇc4(Two-Handed Sword) Gambling
-a68 ˇc4(Claymore) Gambling
-a69 ˇc4(Giant Sword) Gambling
-a70 ˇc4(Bastard Sword) Gambling
-a71 ˇc4(Flamberge) Gambling
-a72 ˇc4(Great Sword) Gambling
-a73 ˇc4(Throwing Knife) Gambling
-a74 ˇc4(Throwing Axe) Gambling
-a75 ˇc4(Balanced Knife) Gambling
-a76 ˇc4(Balanced Axe) Gambling
-a77 ˇc4(Wand) Gambling
-a78 ˇc4(Yew Wand) Gambling
-a79 ˇc4(Bone Wand) Gambling
-a80 ˇc4(Grim Wand) Gambling
-a81 ˇc4(Stag Bow) Gambling
-a82 ˇc4(Reflex Bow) Gambling
-a83 ˇc4(Precision Bow) Gambling
-a84 ˇc4(Maiden Spear) Gambling
-a85 ˇc4(Maiden Pike) Gambling
-a86 ˇc4(Maiden Javelin) Gambling
-a87 ˇc4(Katar) Gambling
-a88 ˇc4(Wrist Blade) Gambling
-a89 ˇc4(Hatchet Hands) Gambling
-a90 ˇc4(Cestus) Gambling
-a91 ˇc4(Claws) Gambling
-a92 ˇc4(Blade Talons) Gambling
-a93 ˇc4(Scissors Katar) Gambling
-a94 ˇc4(Ninja To) Gambling
-a95 ˇc4(Tribal Spear) Gambling
-a96 ˇc4(Oak Branch) Gambling
-a97 ˇc4(Ritualistic Dagger) Gambling
-a98 ˇc4(Wretched Scythe) Gambling
-a99 ˇc4(Soul Hunter) Gambling
-b00 ˇc4(Blessed Edge) Gambling
-b01 ˇc4(Eagle Orb) Gambling
-b02 ˇc4(Sacred Globe) Gambling
-b03 ˇc4(Smoked Sphere) Gambling
-b04 ˇc4(Clasped Orb) Gambling
-b05 ˇc4(Jared's Stone) Gambling
-b06 ˇc4(Mana Blade) Gambling
-b07 ˇc4(Cap) Gambling
-b08 ˇc4(Skull Cap) Gambling
-b09 ˇc4(Helm) Gambling
-b10 ˇc4(Full Helm) Gambling
-b11 ˇc4(Great Helm) Gambling
-b12 ˇc4(Mask) Gambling
-b13 ˇc4(Crown) Gambling
-b14 ˇc4(Bone Helm) Gambling
-b15 ˇc4(Spirit Crown) Gambling
-b16 ˇc4(Dwarven Circlet) Gambling
-b17 ˇc4(Hachigane) Gambling
-b18 ˇc4(Circlet) Gambling
-b19 ˇc4(Quilted Armor) Gambling
-b20 ˇc4(Leather Armor) Gambling
-b21 ˇc4(Hard Leather Armor) Gambling
-b22 ˇc4(Studded Leather) Gambling
-b23 ˇc4(Ring Mail) Gambling
-b24 ˇc4(Scale Mail) Gambling
-b25 ˇc4(Chain Mail) Gambling
-b26 ˇc4(Breast Plate) Gambling
-b27 ˇc4(Splint Mail) Gambling
-b28 ˇc4(Plate Mail) Gambling
-b29 ˇc4(Field Plate) Gambling
-b30 ˇc4(Gothic Plate) Gambling
-b31 ˇc4(Full Plate Mail) Gambling
-b32 ˇc4(Ancient Armor) Gambling
-b33 ˇc4(Light Plate) Gambling
-b34 ˇc4(Spiked Shoulder) Gambling
-b35 ˇc4(Elven Chain) Gambling
-b36 ˇc4(Cloak) Gambling
-b37 ˇc4(Robe) Gambling
-b38 ˇc4(Buckler) Gambling
-b39 ˇc4(Small Shield) Gambling
-b40 ˇc4(Large Shield) Gambling
-b41 ˇc4(Kite Shield) Gambling
-b42 ˇc4(Tower Shield) Gambling
-b43 ˇc4(Gothic Shield) Gambling
-b44 ˇc4(Bone Shield) Gambling
-b45 ˇc4(Spiked Shield) Gambling
-b46 ˇc4(Fortress Shield) Gambling
-b47 ˇc4(Leather Gloves) Gambling
-b48 ˇc4(Heavy Gloves) Gambling
-b49 ˇc4(Chain Gloves) Gambling
-b50 ˇc4(Light Gauntlets) Gambling
-b51 ˇc4(Gauntlets) Gambling
-b52 ˇc4(Iron Guards) Gambling
-b53 ˇc4(Boots) Gambling
-b54 ˇc4(Heavy Boots) Gambling
-b55 ˇc4(Chain Boots) Gambling
-b56 ˇc4(Light Plated Boots) Gambling
-b57 ˇc4(Greaves) Gambling
-b58 ˇc4(Crystal Boots) Gambling
-b59 ˇc4(Sash) Gambling
-b60 ˇc4(Light Belt) Gambling
-b61 ˇc4(Belt) Gambling
-b62 ˇc4(Heavy Belt) Gambling
-b63 ˇc4(Plated Belt) Gambling
-b64 ˇc4(Muscle Wrap) Gambling
-b65 ˇc4(Wolf Head) Gambling
-b66 ˇc4(Hawk Helm) Gambling
-b67 ˇc4(Antlers) Gambling
-b68 ˇc4(Falcon Mask) Gambling
-b69 ˇc4(Spirit Mask) Gambling
-b70 ˇc4(Jawbone Cap) Gambling
-b71 ˇc4(Fanged Helm) Gambling
-b72 ˇc4(Horned Helm) Gambling
-b73 ˇc4(Assault Helm) Gambling
-b74 ˇc4(Avenger Guard) Gambling
-b75 ˇc4(Targe) Gambling
-b76 ˇc4(Rondache) Gambling
-b77 ˇc4(Heraldic Shield) Gambling
-b78 ˇc4(Aerin Shield) Gambling
-b79 ˇc4(Crown Shield) Gambling
-b80 ˇc4(Preserved Head) Gambling
-b81 ˇc4(Zombie Head) Gambling
-b82 ˇc4(Unraveller Head) Gambling
-b83 ˇc4(Gargoyle Head) Gambling
-b84 ˇc4(Demon Head) Gambling
-qqq ˇc5Anvil Stone
-cm7 ˇc2Large Charm Damage Augmenter
-dfc ˇc4Devil's Food
-jr9 ˇc4Devil's Food Point
-kkl Brass Knuckle
-9kl Tekko
-0kl Raging Knuckle
-arm Battering Arm
-9rm Rock Buster
-0rm Wrecking Arm
-b85 ˇc4(Brass Knuckle) Gambling
-b86 ˇc4(Battering Arm) Gambling
-ag0 Anya's Gift
-ag8 Adventurer's Pack
-oil Rogin Oil
-r50 ˇc;Null Rune
-r84 ˇc3Moon Rune
-r85 ˇc3Fire Rune
-r86 ˇc3Water Rune
-r87 ˇc3Wood Rune
-r88 ˇc3Metal Rune
-r89 ˇc3Earth Rune
-r90 ˇc3Sun Rune
-r91 ˇc3Thunder Rune
-r92 ˇc3Wind Rune
-r93 ˇc3Dragon Rune
-r94 ˇc3Life Rune
-r95 ˇc3Death Rune
-r96 ˇc3Heaven Rune
-r97 ˇc3God Rune
-xr0 ˇc3Chipped Frozen Soul
-xr1 ˇc5Chipped Shadow Quartz
-xr2 ˇc1Chipped Bleeding Stone
-xr3 ˇc9Chipped Burning Sulphur
-xr4 ˇc3Chipped Dark Azurite
-xr5 ˇc:Chipped Bitter Peridot
-xr6 ˇc7Chipped Pulsing Opal
-xr7 ˇc1Chipped Enigmatic Cinnabar
-xr8 ˇc2Chipped Tomb Jade
-xr9 ˇc/Chipped Solid Mercury
-xrx ˇc8Chipped Storm Amber
-xry ˇc;Chipped Tainted Tourmaline
-xt0 ˇc3Frozen Soul
-xt1 ˇc5Shadow Quartz
-xt2 ˇc1Bleeding Stone
-xt3 ˇc9Burning Sulphur
-xt4 ˇc3Dark Azurite
-xt5 ˇc:Bitter Peridot
-xt6 ˇc7Pulsing Opal
-xt7 ˇc1Enigmatic Cinnabar
-xt8 ˇc2Tomb Jade
-xt9 ˇc/Solid Mercury
-xtx ˇc8Storm Amber
-xty ˇc;Tainted Tourmaline
-ore ˇc7Ore
-6gv Perfect Amethyst (6 Pack)
-6gy Perfect Topaz (6 Pack)
-6gb Perfect Saphire (6 Pack)
-6gg Perfect Emerald (6 Pack)
-6gr Perfect Ruby (6 Pack)
-6gw Perfect Diamond (6 Pack)
-6sk Perfect Skull (6 Pack)
-6gk Perfect Obsidian (6 Pack)
-xl0 ˇc3Flawed Frozen Soul
-xl1 ˇc5Flawed Shadow Quartz
-xl2 ˇc1Flawed Bleeding Stone
-xl3 ˇc9Flawed Burning Sulphur
-xl4 ˇc3Flawed Dark Azurite
-xl5 ˇc:Flawed Bitter Peridot
-xl6 ˇc7Flawed Pulsing Opal
-xl7 ˇc1Flawed Enigmatic Cinnabar
-xl8 ˇc2Flawed Tomb Jade
-xl9 ˇc/Flawed Solid Mercury
-xlx ˇc8Flawed Storm Amber
-xly ˇc;Flawed Tainted Tourmaline
-cm8 Noob's Odd Charm
-cm9 Veteran's Odd Charm
-rib Commander's Ribbon
-md0 Medallion of Archer
-md2 Medallion of Caster
-md4 Medallion of Samurai
-hax Hand Axe
+Ôªøhax Hand Axe
 axe Axe
 2ax Double Axe
 mpi Military Pick
@@ -1249,7 +25,7 @@ mau Maul
 gma Great Maul
 ssd Short Sword
 scm Scimitar
-sbr Saber
+sbr Sabre
 flc Falchion
 crs Crystal Sword
 bsd Broad Sword
@@ -1263,7 +39,7 @@ flb Flamberge
 gsd Great Sword
 dgr Dagger
 dir Dirk
-kri Kriss
+kri Kris
 bld Blade
 tkf Throwing Knife
 tax Throwing Axe
@@ -1308,13 +84,13 @@ gpm Choking Gas Potion
 opm Exploding Potion
 gpl Strangling Gas Potion
 opl Fulminating Potion
-d33 decoy dagger
-g33 Gidbinn
+d33 Decoy Gidbinn
+g33 The Gidbinn
 leg Wirt's Leg
 hdm Horadric Malus
-hfh Hellforge Hammer
+hfh Hell Forge Hammer
 hst Horadric Staff
-msf Staff of the Kings
+msf Shaft of the Horadric Staff
 9ha Hatchet
 9ax Cleaver
 92a Twin Axe
@@ -1348,7 +124,7 @@ msf Staff of the Kings
 9bs Battle Sword
 9ls Rune Sword
 9wd Ancient Sword
-92h Espadon
+92h Espandon
 9cm Dacian Falx
 9gs Tusk Sword
 9b9 Gothic Sword
@@ -1357,6 +133,7 @@ msf Staff of the Kings
 9dg Poignard
 9di Rondel
 9kr Cinquedeas
+9bl Stiletto
 9tk Battle Dart
 9ta Francisca
 9bk War Dart
@@ -1387,15 +164,15 @@ msf Staff of the Kings
 8lb Cedar Bow
 8cb Double Bow
 8s8 Short Siege Bow
-8l8 Long Siege Bow
+8l8 Large Siege Bow
 8sw Rune Bow
 8lw Gothic Bow
 8lx Arbalest
 8mx Siege Crossbow
-8hx Balista
+8hx Ballista
 8rx Chu-Ko-Nu
-qf1 KhalimFlail
-qf2 SuperKhalimFlail
+qf1 Khalim's Flail
+qf2 Khalim's Will
 ktr Katar
 wrb Wrist Blade
 axf Hatchet Hands
@@ -1421,8 +198,9 @@ skr Scissors Katar
 7ax Small Crescent
 72a Ettin Axe
 7mp War Spike
+7wa Berserker Axe
 7la Feral Axe
-7ba Silver Edged Axe
+7ba Silver-edged Axe
 7bt Decapitator
 7ga Champion Axe
 7gi Glorious Axe
@@ -1453,10 +231,10 @@ skr Scissors Katar
 7cm Highland Blade
 7gs Balrog Blade
 7b7 Champion Sword
-7fb Colossal Sword
+7fb Colossus Sword
 7gd Colossus Blade
 7dg Bone Knife
-7di Mithral Point
+7di Mithril Point
 7kr Fanged Knife
 7bl Legend Spike
 7tk Flying Knife
@@ -1482,7 +260,7 @@ skr Scissors Katar
 6ss Walking Stick
 6ls Stalagmite
 6cs Elder Staff
-6bs Shillelah
+6bs Shillelagh
 6ws Archon Staff
 6sb Spider Bow
 6hb Blade Bow
@@ -1500,7 +278,7 @@ ob1 Eagle Orb
 ob2 Sacred Globe
 ob3 Smoked Sphere
 ob4 Clasped Orb
-ob5 Dragon Stone
+ob5 Jared's Stone
 am1 Stag Bow
 am2 Reflex Bow
 am3 Maiden Spear
@@ -1525,9 +303,121 @@ amb Matriarchal Bow
 amc Grand Matron Bow
 amd Matriarchal Spear
 ame Matriarchal Pike
-amf MatriarchalJavelin
-aq0 Magic Arrows (soc)
-cq0 Magic Bolts (soc)
+amf Matriarchal Javelin
+0ha Barbarian Tomahawk
+0ax Precision Cleaver
+82a Duo-Axe
+0mp Razor Axe
+0wa Viking Axe
+0la Brawn Axe
+0ba Heavy Axe
+0bt Split Axe
+0ga Guillotine Axe
+0gi Slayer Axe
+0wn Sacred Wand
+0yw Sepulcher Wand
+0bw Callous Wand
+0gw Demonic Wand
+0cl Cranium Basher
+5sc Celestial Scepter
+0qs Holy Scepter
+0ws Blessed Scepter
+0sp Thorned Club
+0ma Arcane Mace
+0mt Serrated Star
+0fl Dire Flail
+0wh Military Hammer
+0m0 Ancient Maul
+0gm Titan's Maul
+0ss Gladiator Blade
+0sm Desert Sword
+0sb Rapier
+0fc Okrist
+0cr Jeweled Edge
+0bs Viking Sword
+0ls Arcane Sword
+0wd Trojan Sword
+02h Judgement Blade
+0cm Titan's Dagger
+0gs Lithe Blade
+0b0 Dark Sword
+0fb Hellfire Sword
+0gd Death Blade
+0dg Carved Bone
+0di Mithril Knife
+0kr Fang Knife
+0bl Ancient Spike
+0tk Throwing Dagger
+0ta Throwing Hatchet
+0bk Balanced Dagger
+0b6 Balanced Hatchet
+0ja Ancient Shards
+0pi Dire Pilum
+0s9 Lissom Spear
+0gl Ahab Spear
+0ts Whale Hunter
+0sr Guisarme
+0tr Grapnel
+0br Dragon Spear
+0st Ranseur
+0p0 Impaler
+0b7 Urgrosh
+0vo Pole Gauche
+0s8 Shadow Scythe
+0pa Royal Partizan
+0h0 Guardian
+0wc Death Reaper
+1ss Elder Cane
+1ls Mystic Staff
+1cs Petrified Staff
+1bs Mage Staff
+1ws Arcane Staff
+1sb Spiderwoven Bow
+1hb Sharp Bow
+1lb Shade Bow
+1cb Dark Bow
+1s8 Rogue Bow
+1l8 Marksman Bow
+1sw Arcane Bow
+1lw Ancient Bow
+1lx Choice Crossbow
+1mx Marksman Crossbow
+1hx Odysseus Crossbow
+1rx Assassin Crossbow
+aq2 Arrows
+cq2 Bolts
+aq0 Arrows
+cq0 Bolts
+gsp Great Scepter
+9gp Consecrated Scepter
+0gp Seraphic Scepter
+apb Precision Bow
+9pb Tuigan Bow
+0pb Elven Bow
+nin Ninja To
+9nn Wakizashi
+0nn Katana
+bts Tribal Hatchet
+9xb Highland Hatchet
+0xb Arreat's Hatchet
+shc Oak Branch
+9sh Shaman Wand
+0sh Shillelagh
+nrd Ritualistic Dagger
+9rd Sacrificial Dagger
+0rd Ceremonial Dagger
+nsy Wretched Scythe
+9ns Dire Scythe
+0ns Demonic Scythe
+syn Soul Hunter
+9sy Soul Burner
+0sy Soul Destroyer
+pbe Blessed Edge
+9be Divine Blade
+0be Celestial Blade
+mnb Mana Blade
+9mn Energy Blade
+0mn Wizard Blade
 p01 Hand Axe
 p02 Axe
 p03 Double Axe
@@ -1555,7 +445,7 @@ p24 Maul
 p25 Great Maul
 p26 Short Sword
 p27 Scimitar
-p28 Saber
+p28 Sabre
 p29 Falchion
 p30 Crystal Sword
 p31 Broad Sword
@@ -1569,7 +459,7 @@ p38 Flamberge
 p39 Great Sword
 p40 Dagger
 p41 Dirk
-p42 Kriss
+p42 Kris
 p43 Blade
 p44 Spear
 p45 Trident
@@ -1632,7 +522,7 @@ q29 Dimensional Blade
 q30 Battle Sword
 q31 Rune Sword
 q32 Ancient Sword
-q33 Espadon
+q33 Espandon
 q34 Dacian Falx
 q35 Tusk Sword
 q36 Gothic Sword
@@ -1641,7 +531,7 @@ q38 Executioner Sword
 q39 Poignard
 q40 Rondel
 q41 Cinquedeas
-q42 Stilleto
+q42 Stiletto
 q43 War Spear
 q44 Fuscina
 q45 War Fork
@@ -1663,12 +553,12 @@ q60 Razor Bow
 q61 Cedar Bow
 q62 Double Bow
 q63 Short Siege Bow
-q64 Long Siege Bow
+q64 Large Siege Bow
 q65 Rune Bow
 q66 Gothic Bow
 q67 Arbalest
 q68 Siege Crossbow
-q69 Balista
+q69 Ballista
 q70 Chu-Ko-Nu
 q73 Greater Talons
 q74 Wrist Sword
@@ -1679,21 +569,47 @@ q78 Ceremonial Pike
 q79 Ceremonial Javelin
 q80 Matriarchal Bow
 q81 Matriarchal Spear
-q82 MatriarchalJavelin
+q82 Matriarchal Javelin
 q83 Swirling Crystal
 q84 Eldritch Orb
 q85 Dimensional Shard
 q71 Battle Dart
 q72 Francisca
+gb1 Token
+gb2 Token
+gb9 Token
 njt Ninja To
 9nj Wakizashi
+gb0 Token
+gc0 Token
+gc1 Token
+gc2 Token
+gc3 Token
+gc4 Token
+gc5 Token
+gc6 Token
+gc7 Token
+gc8 Token
+gc9 Token
+gd0 Token
+gd1 Token
+gd2 Token
+gd7 Token
+gd8 Token
+gd9 Token
+kkl Brass Knuckle
+9kl Tekko
+0kl Raging Knuckle
+arm Battering Arm
+9rm Rock Buster
+0rm Wrecking Arm
 q1a Two-Handed Sword
 q1b Claymore
 q1c Giant Sword
 q1d Bastard Sword
 q1e Flamberge
 q1f Great Sword
-q2a Espadon
+q2a Espandon
 q2b Dacian Falx
 q2c Tusk Sword
 q2d Gothic Sword
@@ -1709,320 +625,1454 @@ q4a Legend Sword
 q4b Highland Blade
 q4c Balrog Blade
 q4d Champion Sword
-q4e Colossal Sword
+q4e Colossus Sword
 q4f Colossus Blade
+v7x Chromatic Blade
+5qa Grand Edge
+5qb Grand Axe
+5qc Grand Hammer
+5qd Grand Talons
+5qf Grand Skewer
+5qg Grand Reaper
+5qh Grand Bow
+5qi Grand Arbalest
+5qj Grand Harpoon
+5qk Grand Hurlbat
+5ql Grand Spellblade
+5qm Grand Archstaff
+5qn Grand Talons
+cap Cap
+skp Skull Cap
+hlm Helm
+fhl Full Helm
+ghm Great Helm
+crn Crown
+msk Mask
+qui Quilted Armor
+lea Leather Armor
+hla Hard Leather Armor
+stu Studded Leather
+rng Ring Mail
+scl Scale Mail
+chn Chain Mail
+brs Breast Plate
+spl Splint Mail
+plt Plate Mail
+fld Field Plate
+gth Gothic Plate
+ful Full Plate Mail
+aar Ancient Armor
+ltp Light Plate
+buc Buckler
+sml Small Shield
+lrg Large Shield
+kit Kite Shield
+tow Tower Shield
+gts Gothic Shield
+lgl Leather Gloves
+vgl Heavy Gloves
+mgl Chain Gloves
+tgl Light Gauntlets
+hgl Gauntlets
+lbt Boots
+vbt Heavy Boots
+mbt Chain Boots
+tbt Light Plated Boots
+hbt Greaves
+lbl Sash
+vbl Light Belt
+mbl Belt
+tbl Heavy Belt
+hbl Plated Belt
+bhm Bone Helm
+bsh Bone Shield
+spk Spiked Shield
+xap War Hat
+xkp Sallet
+xlm Casque
+xhl Basinet
+xhm Winged Helm
+xrn Grand Crown
+xsk Death Mask
+xui Ghost Armor
+xea Serpentskin Armor
+xla Demonhide Armor
+xtu Trellised Armor
+xng Linked Mail
+xcl Tigulated Mail
+xhn Mesh Armor
+xrs Cuirass
+xpl Russet Armor
+xlt Templar Coat
+xld Sharktooth Armor
+xth Embossed Plate
+xul Chaos Armor
+xar Ornate Plate
+xtp Mage Plate
+xuc Defender
+xml Round Shield
+xrg Scutum
+xit Dragon Shield
+xow Pavise
+xts Ancient Shield
+xlg Demonhide Gloves
+xvg Sharkskin Gloves
+xmg Heavy Bracers
+xtg Battle Gauntlets
+xhg War Gauntlets
+xlb Demonhide Boots
+xvb Sharkskin Boots
+xmb Mesh Boots
+xtb Battle Boots
+xhb War Boots
+zlb Demonhide Sash
+zvb Sharkskin Belt
+zmb Mesh Belt
+ztb Battle Belt
+zhb War Belt
+xh9 Grim Helm
+xsh Grim Shield
+xpk Barbed Shield
+dr1 Wolf Head
+dr2 Hawk Helm
+dr3 Antlers
+dr4 Falcon Mask
+dr5 Spirit Mask
+ba1 Jawbone Cap
+ba2 Fanged Helm
+ba3 Horned Helm
+ba4 Assault Helm
+ba5 Avenger Guard
+pa1 Targe
+pa2 Rondache
+pa3 Heraldic Shield
+pa4 Aerin Shield
+pa5 Crown Shield
+ne1 Preserved Head
+ne2 Zombie Head
+ne3 Unraveller Head
+ne4 Gargoyle Head
+ne5 Demon Head
+ci0 Circlet
+ci1 Coronet
+ci2 Tiara
+ci3 Diadem
+uap Shako
+ukp Hydraskull
+ulm Armet
+uhl Giant Conch
+uhm Spired Helm
+urn Corona
+usk Demonhead
+uui Dusk Shroud
+uea Wyrmhide
+ula Scarab Husk
+utu Wire Fleece
+ung Diamond Mail
+ucl Loricated Mail
+uhn Boneweave
+urs Great Hauberk
+upl Balrog Skin
+ult Hellforge Plate
+uld Kraken Shell
+uth Lacquered Plate
+uul Shadow Plate
+uar Sacred Armor
+utp Archon Plate
+uuc Heater
+uml Luna
+urg Hyperion
+uit Monarch
+uow Aegis
+uts Ward
+ulg Bramble Mitts
+uvg Vampirebone Gloves
+umg Vambraces
+utg Crusader Gauntlets
+uhg Ogre Gauntlets
+ulb Wyrmhide Boots
+uvb Scarabshell Boots
+umb Boneweave Boots
+utb Mirrored Boots
+uhb Myrmidon Greaves
+ulc Spiderweb Sash
+uvc Vampirefang Belt
+umc Mithril Coil
+utc Troll Belt
+uhc Colossus Girdle
+uh9 Bone Visage
+ush Troll Nest
+upk Blade Barrier
+dr6 Alpha Helm
+dr7 Griffon Headdress
+dr8 Hunter's Guise
+dr9 Sacred Feathers
+dra Totemic Mask
+ba6 Jawbone Visor
+ba7 Lion Helm
+ba8 Rage Mask
+ba9 Savage Helm
+baa Slayer Guard
+pa6 Akaran Targe
+pa7 Akaran Rondache
+pa8 Protector Shield
+pa9 Gilded Shield
+paa Royal Shield
+ne6 Mummified Trophy
+ne7 Fetish Trophy
+ne8 Sexton Trophy
+ne9 Cantor Trophy
+nea Hierophant Trophy
+drb Blood Spirit
+drc Sun Spirit
+drd Earth Spirit
+dre Sky Spirit
+drf Dream Spirit
+bab Carnage Helm
+bac Fury Visor
+bad Destroyer Helm
+bae Conqueror Crown
+baf Guardian Crown
+pab Sacred Targe
+pac Sacred Rondache
+pad Kurast Shield
+pae Zakarum Shield
+paf Vortex Shield
+neb Minion Skull
+neg Hellspawn Skull
+ned Overseer Skull
+nee Succubus Skull
+nef Bloodlord Skull
+yap Hood
+ykp Fedora
+ylm Guardian Helm
+yhl Gladiator Helm
+yhm Tusk Helm
+yrn Royal Crown
+ysk Devil Mask
+yui Padded Armor
+yea Viper Skin
+yla Demon Carapace
+ytu Gemstoned Armor
+yng Heavy Mail
+ycl Dragon Scale
+yhn Chain Shirt
+yrs Chest Guard
+ypl Demon Fleece
+ylt Plated Cuirass
+yld Combat Plate
+yth Royal Armor
+yul Ceremonial Armor
+yar Archaic Armor
+ytp Archmage Plate
+yuc Petrified Buckler
+yml Desert Shield
+yrg Giant Buckler
+yit Military Shield
+yow Imperial Shield
+yts Body Shield
+ylg Spellcaster Gloves
+yvg Viper Hands
+ymg Sepulcher Gloves
+ytg Gladiator Gauntlets
+yhg Titan Gauntlets
+ylb Rogue Boots
+yvb Viper Boots
+ymb Sepulcher Boots
+ytb Gladiator Boots
+yhb Titan Boots
+alb Hemp Band
+avb Rogue Belt
+bmb Merchant Belt
+atb Gladiator Belt
+ahb Titan Belt
+yh9 Demon Skull
+ysh Demon Shield
+ypk Thorned Shield
+cix Hachigane
+eht Spirit Crown
+xht Ethereal Crown
+yht Titania Crown
+dwc Dwarven Circlet
+xdw Dwarven Faceguard
+ydw Dwarven Faceplate
+clk Cloak
+xlk Shadow Cloak
+ylk Shinobi Cloak
+rob Robe
+xrb Mage Robe
+yrb Archmage Robe
+shl Spiked Shoulder
+xhh Thorned Armor
+yhh Spiked Armor
+elv Elven Chain
+xlv Drow Adamantite Chain
+ylv Sylvan Chain
+fts Fortress Shield
+xft Reflection Shield
+yft Ceremonial Shield
+irg Iron Guards
+xig Military Guards
+yig Royal Guards
+dbt Crystal Boots
+xbt Dimensional Boots
+ybt Phase Boots
+msb Muscle Wrap
+xms Giant Wrap
+yms Herculean Wrap
+2ap Cap
+2kp Skull Cap
+2lm Helm
+2hl Full Helm
+2hm Great Helm
+2rn Crown
+2sk Mask
+2ui Quilted Armor
+2ea Leather Armor
+2la Hard Leather Armor
+2tu Studded Leather
+2ng Ring Mail
+2cl Scale Mail
+2hn Chain Mail
+2rs Breast Plate
+2pl Splint Mail
+2lt Plate Mail
+2ld Field Plate
+2th Gothic Plate
+2ul Full Plate Mail
+2ar Ancient Armor
+2tp Light Plate
+2uc Buckler
+2ml Small Shield
+2rg Large Shield
+2it Kite Shield
+2ow Tower Shield
+2ts Gothic Shield
+2lg Leather Gloves
+2vg Heavy Gloves
+2mg Chain Gloves
+2tg Light Gauntlets
+2hg Gauntlets
+2lb Boots
+2vb Heavy Boots
+2mb Chain Boots
+2tb Light Plated Boots
+2hb Greaves
+3lb Sash
+3vb Light Belt
+3mb Belt
+3tb Heavy Belt
+3hb Plated Belt
+2h9 Bone Helm
+2sh Bone Shield
+2pk Spiked Shield
+4ap War Hat
+4kp Sallet
+4lm Casque
+4hl Basinet
+4hm Winged Helm
+4rn Grand Crown
+4sk Death Mask
+4ui Ghost Armor
+4ea Serpentskin Armor
+4la Demonhide Armor
+4tu Trellised Armor
+4ng Linked Mail
+4cl Tigulated Mail
+4hn Mesh Armor
+4rs Cuirass
+4pl Russet Armor
+4lt Templar Coat
+4ld Sharktooth Armor
+4th Embossed Plate
+4ul Chaos Armor
+4ar Ornate Plate
+4tp Mage Plate
+4uc Defender
+4ml Round Shield
+4rg Scutum
+4it Dragon Shield
+4ow Pavise
+4ts Ancient Shield
+4lg Demonhide Gloves
+4vg Sharkskin Gloves
+4mg Heavy Bracers
+4tg Battle Gauntlets
+4hg War Gauntlets
+4lb Demonhide Boots
+4vb Sharkskin Boots
+4mb Mesh Boots
+4tb Battle Boots
+4hb War Boots
+5lb Demonhide Sash
+5vb Sharkskin Belt
+5mb Mesh Belt
+5tb Battle Belt
+5hb War Belt
+4h9 Grim Helm
+4sh Grim Shield
+4pk Barbed Shield
+qi2 Tiara
+qi3 Diadem
+qba Slayer Guard
+qda Totemic Mask
+qna Hierophant Trophy
+qp9 Gilded Shield
+qbc Fury Visor
+qbd Destroyer Helm
+qbe Conqueror Crown
+qdb Blood Spirit
+qdd Earth Spirit
+qde Sky Spirit
+qne Succubus Skull
+qnf Bloodlord Skull
+qpc Sacred Rondache
+qpe Zakarum Shield
+gb3 Token
+gb4 Token
+gb5 Token
+gb6 Token
+gb7 Token
+gb8 Token
+ci4 Faceguard
+gd3 Token
+gd4 Token
+gd5 Token
+gd6 Token
+sg1 Solar Gauntlets
+sg2 Lunar Gauntlets
+sg3 Voltaic Gauntlets
+sg4 Pox Gauntlets
+sg5 Hurricanic Gauntlets
+sg6 Aetheric Gauntlets
+sb1 Solar Greaves
+sb2 Lunar Greaves
+sb3 Voltaic Greaves
+sb4 Pox Greaves
+sb5 Hurricanic Greaves
+sb6 Aetheric Greaves
+se1 Solar Girdle
+se2 Lunar Girdle
+se3 Voltaic Girdle
+se4 Pox Girdle
+se5 Hurricanic Girdle
+se6 Aetheric Girdle
+sh1 Solar Grand Crown
+sh2 Lunar Grand Crown
+sh3 Voltaic Grand Crown
+sh4 Pox Grand Crown
+sh5 Hurricanic Grand Crown
+sh6 Aetheric Grand Crown
+5qp Grand Barrier
+5qo Grand Plate
 elx Elixir
-hpo Healing Potion
-mpo Mana Potion
-hpf Full Healing Potion
-mpf Full Mana Potion
+hpo Elixir
+mpo Elixir
+hpf Elixir
+mpf Elixir
 vps Stamina Potion
 yps Antidote Potion
-rvs Rejuv Potion
-rvl Full Rejuv Potion
+rvs Rejuvenation Potion
+rvl Full Rejuvenation Potion
 wms Thawing Potion
-tbk Town Portal Book
-ibk Identify Book
+tbk Tome of Town Portal
+ibk Tome of Identify
 amu Amulet
-vip viper amulet
+vip Top of the Horadric Staff
 rin Ring
-gld gold
-bks Bark Scroll
-bkd deciphered Bark Scroll
+gld Gold
+bks Scroll of Inifuss
+bkd Key to the Cairn Stones
 aqv Arrows
 tch Torch
 cqv Bolts
-tsc Town Portal Scroll
-isc Identify Scroll
-key Skeleton Key
-luv Mephisto Key
-xyz scroll of self resurrect
-j34 jade figurine
-g34 gold bird
-bbb lam esen's tome
+tsc Scroll of Town Portal
+isc Scroll of Identify
+hrt √øc1Heart
+brz √øc1Brain
+jaw √øc7Jawbone
+eyz √øc9Eye
+hrn √øc:Horn
+tal √øc8Tail
+flg √øc1Flag
+fng √øc5Fang
+qll √øc5Quill
+sol √øc3Soul
+scz √øc:Scalp
+spe √øc;Spleen
+key Key
+luv The Black Tower Key
+xyz Right Click to permanently add 20 to Life Potion of Life
+j34 A Jade Figurine
+g34 The Golden Bird
+bbb Lam Esen's Tome
 box Horadric Cube
-tr1 Scroll of Horadric Quest Info
-mss Mephisto SoulStone
-ass Book of Skill
-qey KhalimEye
-qhr KhalimHeart
-qbr KhalimBrain
-ear Player Ear
+tr1 Horadric Scroll
+mss Mephisto's Soulstone
+ass Right Click to learn skill of your choice Book of Skill
+qey Khalim's Eye
+qhr Khalim's Heart
+qbr Khalim's Brain
+ear Ear
 hp1 Minor Healing Potion
 hp2 Light Healing Potion
 hp3 Healing Potion
 hp4 Greater Healing Potion
-hp5 Supeer Healing Potion
+hp5 Super Healing Potion
 mp1 Minor Mana Potion
 mp2 Light Mana Potion
 mp3 Mana Potion
 mp4 Greater Mana Potion
 mp5 Super Mana Potion
-hrb herb
+gcv √øc;Chipped Amethyst
+gfv √øc;Flawed Amethyst
+gsv √øc;Amethyst
+gzv √øc;Flawless Amethyst
+gpv √øc;Blemished Amethyst
+gvb √øc;Perfect Amethyst
+gcy √øc9Chipped Topaz
+gfy √øc9Flawed Topaz
+gsy √øc9Topaz
+gly √øc9Flawless Topaz
+gpy √øc9Blemished Topaz
+gyb √øc9Perfect Topaz
+gcb √øc3Chipped Sapphire
+gfb √øc3Flawed Sapphire
+gsb √øc3Sapphire
+glb √øc3Flawless Sapphire
+gpb √øc3Blemished Sapphire
+gbb √øc3Perfect Sapphire
+gcg √øc2Chipped Emerald
+gfg √øc2Flawed Emerald
+gsg √øc2Emerald
+glg √øc2Flawless Emerald
+gpg √øc2Blemished Emerald
+ggb √øc2Perfect Emerald
+gcr √øc1Chipped Ruby
+gfr √øc1Flawed Ruby
+gsr √øc1Ruby
+glr √øc1Flawless Ruby
+gpr √øc1Blemished Ruby
+grb √øc1Perfect Ruby
+gcw √øc/Chipped Diamond
+gfw √øc/Flawed Diamond
+gsw √øc/Diamond
+glw √øc/Flawless Diamond
+gpw √øc/Blemished Diamond
+gwb √øc/Perfect Diamond
+skc √øc0Chipped Skull
+skf √øc0Flawed Skull
+sku √øc0Skull
+skl √øc0Flawless Skull
+skz √øc0Blemished Skull
+skb √øc0Perfect Skull
+gck √øc5Chipped Obsidian
+gfk √øc5Flawed Obsidian
+gsk √øc5Obsidian
+gzk √øc5Flawless Obsidian
+gpk √øc5Blemished Obsidian
+gbk √øc5Perfect Obsidian
+hrb Herb
 cm1 Small Charm
 cm2 Large Charm
 cm3 Grand Charm
-rps Small Red Potion
-rpl Large Red Potion
-bps Small Blue Potion
-bpl Large Blue Potion
-jew ˇc;Jewel
-ice Maguffin
-0sc Scroll
-tr2 Scroll of Malah - Boost Resistances
-rn2 Ring (unused)
-au2 Amulet (unused)
-rn9 LoD Ring (soc)
-au9 LoD Amulet (soc)
-rn0 Ring (soc)
-au0 Amulet (soc)
-sr0 Sor Ring (soc)
-br0 Bar Ring (soc)
-nr0 Nec Ring (soc)
-pr0 Pal Ring (soc)
-dr0 Dru Ring (soc)
-zr0 Ama Ring (soc)
-ar0 Ass Ring (soc)
-sa0 Sor Amulet (soc)
-ba0 Bar Amulet (soc)
-na0 Nec Amulet (soc)
-pa0 Pal Amulet (soc)
-da0 Dru Amulet (soc)
-za0 Ama Amulet (soc)
-aa0 Ass Amulet (soc)
-cm6 Odd Charm (soc)
-cm0 Extra Small Charm (abolished)
-u00 Set Token
-u01 Set Token
-u02 Set Token
-u03 Set Token
-u04 Set Token
-u05 Set Token
-u06 Set Token
-u07 Set Token
-u08 Set Token
-u09 Set Token
-u10 Set Token
-u11 Set Token
-u12 Set Token
-u13 Set Token
-u14 Set Token
-u15 Set Token
-u16 Set Token
-u17 Set Token
-u18 Set Token
-u19 Set Token
-u20 Set Token
-u21 Set Token
-u22 Set Token
-u23 Set Token
-u24 Set Token
-u25 Set Token
-u26 Set Token
-u27 Set Token
-u28 Set Token
-u29 Set Token
-u30 Set Token
-u31 Set Token
-u32 Set Token
-u33 Set Token
-u34 Set Token
-u35 Set Token
-u36 Set Token
-u37 Set Token
-u38 Set Token
-u39 Set Token
-u40 Set Token
-u41 Set Token
-u42 Set Token
-u43 Set Token
-u44 Set Token
-u45 Set Token
-u46 Set Token
-u47 Set Token
-u48 Set Token
-u49 Set Token
-u50 Set Token
-u51 Set Token
-u52 Set Token
-u53 Set Token
-u54 Set Token
-u55 Set Token
-u56 Set Token
-u57 Set Token
-u58 Set Token
-u59 Set Token
-u60 Set Token
-u61 Set Token
-u62 Set Token
-u63 Set Token
-u64 Set Token
-u65 Set Token
-u66 Set Token
-u67 Set Token
-u68 Set Token
-u69 Set Token
-u70 Set Token
-u71 Set Token
-u72 Set Token
-u73 Set Token
-u74 Set Token
-u75 Set Token
-u76 Set Token
-u77 Set Token
-u78 Set Token
-u79 Set Token
-u80 Set Token
-u81 Set Token
-u82 Set Token
-u83 Set Token
-u84 Set Token
-u85 Set Token
-u86 Set Token
-u87 Set Token
-u88 Set Token
-u89 Set Token
-u90 Set Token
-u91 Set Token
-u92 Set Token
-u93 Set Token
-u94 Set Token
-u95 Set Token
-u96 Set Token
-u97 Set Token
-u98 Set Token
-u99 Set Token
-v00 Set Token
-v01 Set Token
-v02 Set Token
-v03 Set Token
-v04 Set Token
-v05 Set Token
-v06 Set Token
-v07 Set Token
-v08 Set Token
-v09 Set Token
-v10 Set Token
-v11 Set Token
-v12 Set Token
-v13 Set Token
-v14 Set Token
-v15 Set Token
-v16 Set Token
-v17 Set Token
-v18 Set Token
-v19 Set Token
-v20 Set Token
-v21 Set Token
-v22 Set Token
-v23 Set Token
-v24 Set Token
-v25 Set Token
-v26 Set Token
-v27 Set Token
-v28 Set Token
-v29 Set Token
-v30 Set Token
-v31 Set Token
-v32 Set Token
-v33 Set Token
-v34 Set Token
-v35 Set Token
-v36 Set Token
-v37 Set Token
-v38 Set Token
-v39 Set Token
-v40 Set Token
-v41 Set Token
-v42 Set Token
-v43 Set Token
-v44 Set Token
-v45 Set Token
-v46 Set Token
-v47 Set Token
-v48 Set Token
-v49 Set Token
-v50 Set Token
-v51 Set Token
-v52 Set Token
-v53 Set Token
-v54 Set Token
-v55 Set Token
-v56 Set Token
-v57 Set Token
-v58 Set Token
-v59 Set Token
-v60 Set Token
-v61 Set Token
-v62 Set Token
-v63 Set Token
-v64 Set Token
-v65 Set Token
-v66 Set Token
-v67 Set Token
-v68 Set Token
-v69 Set Token
-v70 Set Token
-v71 Set Token
-v72 Set Token
-v73 Set Token
-v74 Set Token
-v75 Set Token
-v76 Set Token
-v77 Set Token
-v78 Set Token
-v79 Set Token
-v80 Set Token
-v81 Set Token
-v82 Set Token
-v83 Set Token
-v84 Set Token
-v85 Set Token
-v86 Set Token
-v87 Set Token
-v88 Set Token
-v89 Set Token
-v90 Set Token
-v91 Set Token
-v92 Set Token
-v93 Set Token
-v94 Set Token
-v95 Set Token
-v96 Set Token
-v97 Set Token
-v98 Set Token
-v99 Set Token
-w00 Set Token
-w01 Set Token
-w02 Set Token
-w03 Set Token
-w04 Set Token
-w05 Set Token
-w06 Set Token
-w07 Set Token
-w08 Set Token
-w09 Set Token
-w10 Set Token
-w11 Set Token
-w12 Set Token
-w13 Set Token
-w14 Set Token
-w15 Set Token
-w16 Set Token
-w17 Set Token
-w18 Set Token
-w19 Set Token
-w20 Set Token
-w21 Set Token
-w22 Set Token
-kv0 Gem Can 
-ky0 Gem Can 
-kb0 Gem Can 
-kg0 Gem Can 
-kr0 Gem Can 
-kw0 Gem Can 
-ks0 Gem Can 
-kk0 Gem Can 
+rps Elixir
+rpl Elixir
+bps Elixir
+bpl Elixir
+r51 El Rune
+r52 Eld Rune
+r53 Tir Rune
+r54 Nef Rune
+r55 Eth Rune
+r56 Ith Rune
+r57 Tal Rune
+r58 Ral Rune
+r59 Ort Rune
+r60 Thul Rune
+r61 Amn Rune
+r62 Sol Rune
+r63 Shael Rune
+r64 Dol Rune
+r65 Hel Rune
+r66 Io Rune
+r67 Lum Rune
+r68 Ko Rune
+r69 Fal Rune
+r70 Lem Rune
+r71 Pul Rune
+r72 Um Rune
+r73 Mal Rune
+r74 Ist Rune
+r75 Gul Rune
+r76 Vex Rune
+r77 Ohm Rune
+r78 Lo Rune
+r79 Sur Rune
+r80 Ber Rune
+r81 Jah Rune
+r82 Cham Rune
+r83 Zod Rune
+jew Jewel
+ice Keep it to thaw Anya Malah's Potion
+0sc Scroll of Knowledge
+tr2 Right Click to Cast Scroll of Resistance
+map √øc4Maple Leaf
+sss √øc5Spider's Silk
+ggg √øc3Crushed Gem
+eee √øc1Blackmoor
+hly √øc/Holy Symbol
+hh2 √øc7Forging Hammer
+ttt √øc5Tyranium Ore
+ppp √øc;Dragon Stone
+ddd √øc4Ancient Decipherer
+sdo √øc8Socket Donut
+rnd √øc0Randomize
+an0 √øc4Unique Stone (nor)
+an1 √øc4Unique Stone (exc)
+an2 √øc4Unique Stone (eli)
+an3 √øc2Green Aura Stone
+an4 √øc1Red Aura Stone
+an5 √øc;Violet Aura Stone
+an6 √øc9Yellow Aura Stone
+an7 √øc5Black Aura Stone
+an8 √øc/White Aura Stone
+an9 √øc3Blue Aura Stone
+yyy √øc9Cookbook
+zzz √øc1Steak
+00g Griswold's Hand
+00t Treehead WoodFist's Arm
+00r Radament's Head
+00h Hephasto's Hand
+fkn Fake Note
+po1 Potion of Heroism
+po2 Potion of Super-Heroism
+po3 Mountain Dew
+po4 Nirvana Grass
+rn2 Ring
+au2 Amulet
+rn9 Ring
+au9 Amulet
+zrn Amazonian Loop
+srn Sorcerer's Band
+nrn Necromancer's Stone
+prn Paladic Halo
+brg Barbaric Hoop
+drn Druid's Seal
+arn Assassin's Spiral
+zam Amazonian Pin
+sam Sorcerer's Talisman
+nam Death's Locket
+pam Holy Pendant
+bam Totemic Pebble
+dam Druidic Necklace
+aam Assassin's Choker
+rn0 Ring
+au0 Amulet
+sr0 Sorcerer's Band
+br0 Barbaric Hoop
+nr0 Necromancer's Stone
+pr0 Paladic Halo
+dr0 Druid's Seal
+zr0 Amazonian Loop
+ar0 Assassin's Spiral
+sa0 Sorcerer's Talisman
+ba0 Totemic Pebble
+na0 Death's Locket
+pa0 Holy Pendant
+da0 Druidic Necklace
+za0 Amazonian Pin
+aa0 Assassin's Choker
+cm4 Odd Charm
+cm5 Square Charm
+cm6 Odd Charm
+cm9 Veteran's Odd Charm
+cm0 Small Charm
+r01 √øc/I Rune
+r02 √øc/U Rune
+r03 √øc/Shi Rune
+r04 √øc/Ka Rune
+r05 √øc/N Rune
+r06 √øc/Ku Rune
+r07 √øc/Yo Rune
+r08 √øc1Ki Rune
+r09 √øc1Ri Rune
+r10 √øc1Mi Rune
+r11 √øc1Ya Rune
+r12 √øc1A Rune
+r13 √øc1Tsu Rune
+r14 √øc1Chi Rune
+r15 √øc9Sa Rune
+r16 √øc9Yu Rune
+r17 √øc9Ke Rune
+r18 √øc9E Rune
+r19 √øc9Ko Rune
+r20 √øc9Ra Rune
+r21 √øc9O Rune
+r22 √øc8Ho Rune
+r23 √øc8Me Rune
+r24 √øc8Ru Rune
+r25 √øc8Ta Rune
+r26 √øc8To Rune
+r27 √øc8Wa Rune
+r28 √øc8Ha Rune
+r29 √øc2Na Rune
+r30 √øc2Ni Rune
+r31 √øc2Se Rune
+r32 √øc2Fu Rune
+r33 √øc2Ma Rune
+r34 √øc2Hi Rune
+r35 √øc2Mo Rune
+r36 √øc4No Rune
+r37 √øc4Te Rune
+r38 √øc4Ro Rune
+r39 √øc4So Rune
+r40 √øc4Mu Rune
+r41 √øc4Ne Rune
+r42 √øc4Re Rune
+r43 √øc;Su Rune
+r44 √øc;He Rune
+r45 √øc;Nu Rune
+r46 √øc;Wo Rune
+r47 Ka Rune
+01l (I -> El) √øc4Ancient Decal
+02l (U -> Eld) √øc4Ancient Decal
+03l (Shi -> Tir) √øc4Ancient Decal
+04l (Ka -> Nef) √øc4Ancient Decal
+05l (N -> Eth) √øc4Ancient Decal
+06l (Ku -> Ith) √øc4Ancient Decal
+07l (Yo -> Tal) √øc4Ancient Decal
+08l (Ki -> Ral) √øc4Ancient Decal
+09l (Ri -> Ort) √øc4Ancient Decal
+10l (Mi -> Thul) √øc4Ancient Decal
+11l (Ya -> Amn) √øc4Ancient Decal
+12l (A -> Sol) √øc4Ancient Decal
+13l (Tsu -> Shael) √øc4Ancient Decal
+14l (Chi -> Dol) √øc4Ancient Decal
+15l (Sa -> Hel) √øc4Ancient Decal
+16l (Yu -> Io) √øc4Ancient Decal
+17l (Ke -> Lum) √øc4Ancient Decal
+18l (E -> Ko) √øc4Ancient Decal
+19l (Ko -> Fal) √øc4Ancient Decal
+20l (Ra -> Lem) √øc4Ancient Decal
+21l (Ho -> Pul) √øc4Ancient Decal
+22l (Ru -> Um) √øc4Ancient Decal
+23l (To -> Mal) √øc4Ancient Decal
+24l (Ha -> Ist) √øc4Ancient Decal
+25l (Ni -> Gul) √øc4Ancient Decal
+26l (Fu -> Vex) √øc4Ancient Decal
+27l (Hi -> Ohm) √øc4Ancient Decal
+28l (No -> Lo) √øc4Ancient Decal
+29l (Ro -> Sur) √øc4Ancient Decal
+30l (Mu -> Ber) √øc4Ancient Decal
+31l (Re -> Jah) √øc4Ancient Decal
+32l (He -> Cham) √øc4Ancient Decal
+33l (Wo -> Zod) √øc4Ancient Decal
+01a √øc4Ancient Scroll 1
+02a √øc4Ancient Scroll 2
+03a √øc4Ancient Scroll 3
+04a √øc4Ancient Scroll 4
+05a √øc4Ancient Scroll 5
+06a √øc4Ancient Scroll 6
+07a √øc4Ancient Scroll 7
+08a √øc4Ancient Scroll 8
+09a √øc4Ancient Scroll 9
+10a √øc4Ancient Scroll 10
+11a √øc4Ancient Scroll 11
+12a √øc4Ancient Scroll 12
+13a √øc4Ancient Scroll 13
+14a √øc4Ancient Scroll 14
+15a √øc4Ancient Scroll 15
+16a √øc4Ancient Scroll 16
+17a √øc4Ancient Scroll 17
+18a √øc4Ancient Scroll 18
+19a √øc4Ancient Scroll 19
+20a √øc4Ancient Scroll 20
+21a √øc4Ancient Scroll 21
+22a √øc4Ancient Scroll 22
+23a √øc4Ancient Scroll 23
+24a √øc4Ancient Scroll 24
+25a √øc4Ancient Scroll 25
+26a √øc4Ancient Scroll 26
+27a √øc4Ancient Scroll 27
+28a √øc4Ancient Scroll 28
+29a √øc4Ancient Scroll 29
+30a √øc4Ancient Scroll 30
+31a √øc4Ancient Scroll 31
+32a √øc4Ancient Scroll 32
+33a √øc4Ancient Scroll 33
+34a √øc4Ancient Scroll 34
+35a √øc4Ancient Scroll 35
+36a √øc4Ancient Scroll 36
+37a √øc4Ancient Scroll 37
+38a √øc4Ancient Scroll 38
+39a √øc4Ancient Scroll 39
+40a √øc4Ancient Scroll 40
+41a √øc4Ancient Scroll 41
+42a √øc4Ancient Scroll 42
+43a √øc4Ancient Scroll 43
+44a √øc4Ancient Scroll 44
+45a √øc4Ancient Scroll 45
+46a √øc4Ancient Scroll 46
+47a √øc4Ancient Scroll 47
+48a √øc4Ancient Scroll 48
+49a √øc4Ancient Scroll 49
+50a √øc4Ancient Scroll 50
+01b √øc4Ancient Scroll
+02b √øc4Ancient Scroll
+03b √øc4Ancient Scroll
+04b √øc4Ancient Scroll
+05b √øc4Ancient Scroll
+06b √øc4Ancient Scroll
+07b √øc4Ancient Scroll
+08b √øc4Ancient Scroll
+09b √øc4Ancient Scroll
+10b √øc4Ancient Scroll
+11b √øc4Ancient Scroll
+12b √øc4Ancient Scroll
+13b √øc4Ancient Scroll
+14b √øc4Ancient Scroll
+15b √øc4Ancient Scroll
+16b √øc4Ancient Scroll
+17b √øc4Ancient Scroll
+18b √øc4Ancient Scroll
+19b √øc4Ancient Scroll
+20b √øc4Ancient Scroll
+21b √øc4Ancient Scroll
+22b √øc4Ancient Scroll
+23b √øc4Ancient Scroll
+24b √øc4Ancient Scroll
+25b √øc4Ancient Scroll
+26b √øc4Ancient Scroll
+27b √øc4Ancient Scroll
+28b √øc4Ancient Scroll
+29b √øc4Ancient Scroll
+30b √øc4Ancient Scroll
+31b √øc4Ancient Scroll
+32b √øc4Ancient Scroll
+33b √øc4Ancient Scroll
+34b √øc4Ancient Scroll
+35b √øc4Ancient Scroll
+36b √øc4Ancient Scroll
+37b √øc4Ancient Scroll
+38b √øc4Ancient Scroll
+39b √øc4Ancient Scroll
+40b √øc4Ancient Scroll
+41b √øc4Ancient Scroll
+42b √øc4Ancient Scroll
+43b √øc4Ancient Scroll
+44b √øc4Ancient Scroll
+45b √øc4Ancient Scroll
+46b √øc4Ancient Scroll
+47b √øc4Ancient Scroll
+48b √øc4Ancient Scroll
+49b √øc4Ancient Scroll
+50b √øc4Ancient Scroll
+01c √øc4(Buckler) Ancient Coupon
+02c √øc4(Cap) Ancient Coupon
+03c √øc4(Leather Gloves) Ancient Coupon
+04c √øc4(Boots) Ancient Coupon
+05c √øc4(Quilted Armor) Ancient Coupon
+06c √øc4(Sash) Ancient Coupon
+07c √øc4(Small Shield) Ancient Coupon
+08c √øc4(Heavy Gloves) Ancient Coupon
+09c √øc4(Heavy Boots) Ancient Coupon
+10c √øc4(Leather Armor) Ancient Coupon
+11c √øc4(Light Belt) Ancient Coupon
+12c √øc4(Large Shield) Ancient Coupon
+13c √øc4(Hard Leather Armor) Ancient Coupon
+14c √øc4(Helm) Ancient Coupon
+15c √øc4(Ring Mail) Ancient Coupon
+16c √øc4(Skull Cap) Ancient Coupon
+17c √øc4(Spiked Shield) Ancient Coupon
+18c √øc4(Chain Gloves) Ancient Coupon
+19c √øc4(Chain Boots) Ancient Coupon
+20c √øc4(Scale Mail) Ancient Coupon
+21c √øc4(Studded Leather) Ancient Coupon
+22c √øc4(Full Helm) Ancient Coupon
+23c √øc4(Kite Shield) Ancient Coupon
+24c √øc4(Chain Mail) Ancient Coupon
+25c √øc4(Tower Shield) Ancient Coupon
+26c √øc4(Mask) Ancient Coupon
+27c √øc4(Breast Plate) Ancient Coupon
+28c √øc4(Bone Shield) Ancient Coupon
+29c √øc4(Belt) Ancient Coupon
+30c √øc4(Bone Helm) Ancient Coupon
+31c √øc4(Splint Mail) Ancient Coupon
+32c √øc4(Light Gauntlets) Ancient Coupon
+33c √øc4(Light Plated Boots) Ancient Coupon
+34c √øc4(Heavy Belt) Ancient Coupon
+35c √øc4(Great Helm) Ancient Coupon
+36c √øc4(Plate Mail) Ancient Coupon
+37c √øc4(Gauntlets) Ancient Coupon
+38c √øc4(Greaves) Ancient Coupon
+39c √øc4(Plated Belt) Ancient Coupon
+40c √øc4(Crown) Ancient Coupon
+41c √øc4(Field Plate) Ancient Coupon
+42c √øc4(Gothic Shield) Ancient Coupon
+43c √øc4(Gothic Plate) Ancient Coupon
+44c √øc4(Light Plate) Ancient Coupon
+45c √øc4(Full Plate Mail) Ancient Coupon
+46c √øc4(Ancient Armor) Ancient Coupon
+01d √øc4(War Hat) Ancient Coupon
+02d √øc4(Ghost Armor) Ancient Coupon
+03d √øc4(Defender) Ancient Coupon
+04d √øc4(Demonhide Gloves) Ancient Coupon
+05d √øc4(Demonhide Boots) Ancient Coupon
+06d √øc4(Demonhide Sash) Ancient Coupon
+07d √øc4(Serpentskin Armor) Ancient Coupon
+08d √øc4(Sallet) Ancient Coupon
+09d √øc4(Demonhide Armor) Ancient Coupon
+10d √øc4(Round Shield) Ancient Coupon
+11d √øc4(Sharkskin Gloves) Ancient Coupon
+12d √øc4(Sharkskin Belt) Ancient Coupon
+13d √øc4(Sharkskin Boots) Ancient Coupon
+14d √øc4(Trellised Armor) Ancient Coupon
+15d √øc4(Casque) Ancient Coupon
+16d √øc4(Linked Mail) Ancient Coupon
+17d √øc4(Scutum) Ancient Coupon
+18d √øc4(Barbed Shield) Ancient Coupon
+19d √øc4(Heavy Bracers) Ancient Coupon
+20d √øc4(Mesh Boots) Ancient Coupon
+21d √øc4(Tigulated Mail) Ancient Coupon
+22d √øc4(Mesh Belt) Ancient Coupon
+23d √øc4(Basinet) Ancient Coupon
+24d √øc4(Mesh Armor) Ancient Coupon
+25d √øc4(Dragon Shield) Ancient Coupon
+26d √øc4(Death Mask) Ancient Coupon
+27d √øc4(Cuirass) Ancient Coupon
+28d √øc4(Grim Shield) Ancient Coupon
+29d √øc4(Battle Belt) Ancient Coupon
+30d √øc4(Grim Helm) Ancient Coupon
+31d √øc4(Russet Armor) Ancient Coupon
+32d √øc4(Battle Gauntlets) Ancient Coupon
+33d √øc4(Battle Boots) Ancient Coupon
+34d √øc4(Slayer Guard) Ancient Coupon
+35d √øc4(Heirophant Trophy) Ancient Coupon
+36d √øc4(Gilded Shield) Ancient Coupon
+37d √øc4(Totemic Mask) Ancient Coupon
+38d √øc4(Winged Helm) Ancient Coupon
+39d √øc4(Pavise) Ancient Coupon
+40d √øc4(Templar Coat) Ancient Coupon
+41d √øc4(War Gauntlets) Ancient Coupon
+42d √øc4(War Boots) Ancient Coupon
+43d √øc4(War Belt) Ancient Coupon
+44d √øc4(Sharktooth Armor) Ancient Coupon
+45d √øc4(Grand Crown) Ancient Coupon
+46d √øc4(Ancient Shield) Ancient Coupon
+47d √øc4(Embossed Plate) Ancient Coupon
+48d √øc4(Mage Plate) Ancient Coupon
+49d √øc4(Chaos Armor) Ancient Coupon
+50d √øc4(Ornate Armor) Ancient Coupon
+01e √øc4(Luna) Ancient Coupon
+02e √øc4(Vampirefang Belt) Ancient Coupon
+03e √øc4(Shako) Ancient Coupon
+04e √øc4(Destroyer Helm) Ancient Coupon
+05e √øc4(Armet) Ancient Coupon
+06e √øc4(Mithril Coil) Ancient Coupon
+07e √øc4(Blood Spirit) Ancient Coupon
+08e √øc4(Scarabshell Boots) Ancient Coupon
+09e √øc4(Bloodlord Skull) Ancient Coupon
+10e √øc4(Bone Visage) Ancient Coupon
+11e √øc4(Kraken Shell) Ancient Coupon
+12e √øc4(Shadow Plate) Ancient Coupon
+13e √øc4(Boneweave Boots) Ancient Coupon
+14e √øc4(Spired Helm ii) Ancient Coupon
+15e √øc4(Earth Spirit) Ancient Coupon
+16e √øc4(Ward) Ancient Coupon
+17e √øc4(Spired Helm i) Ancient Coupon
+18e √øc4(Monarch) Ancient Coupon
+19e √øc4(Blade Barrier) Ancient Coupon
+20e √øc4(Ogre Gauntlets) Ancient Coupon
+21e √øc4(Myrmidon Greaves) Ancient Coupon
+22e √øc4(Succubus Skull) Ancient Coupon
+23e √øc4(Sacred Armor i) Ancient Coupon
+24e √øc4(Vambraces) Ancient Coupon
+25e √øc4(Sky Spirit) Ancient Coupon
+26e √øc4(Dusk Shroud) Ancient Coupon
+27e √øc4(Troll Nest) Ancient Coupon
+28e √øc4(Vampirebone Gloves) Ancient Coupon
+29e √øc4(Aegis) Ancient Coupon
+30e √øc4(Diadem) Ancient Coupon
+31e √øc4(Zakarum Shield) Ancient Coupon
+32e √øc4(Demonhead) Ancient Coupon
+33e √øc4(Wire Fleece) Ancient Coupon
+34e √øc4(Balrog Skin) Ancient Coupon
+35e √øc4(Tiara) Ancient Coupon
+36e √øc4(Fury Visor) Ancient Coupon
+37e √øc4(Conqueror Crown) Ancient Coupon
+38e √øc4(Sacred Rondache) Ancient Coupon
+39e √øc4(Corona) Ancient Coupon
+40e √øc4(Sacred Armor ii) Ancient Coupon
+41e √øc4(Spiderweb Sash) Ancient Coupon
+01f √øc4(Short Sword) Ancient Coupon
+02f √øc4(Club) Ancient Coupon
+03f √øc4(Dagger) Ancient Coupon
+04f √øc4(Wand) Ancient Coupon
+05f √øc4(Short Staff) Ancient Coupon
+06f √øc4(Hand Axe) Ancient Coupon
+07f √øc4(Spiked Club) Ancient Coupon
+08f √øc4(Scepter) Ancient Coupon
+09f √øc4(Short Bow) Ancient Coupon
+10f √øc4(Scimitar) Ancient Coupon
+11f √øc4(Spear) Ancient Coupon
+12f √øc4(Large Axe) Ancient Coupon
+13f √øc4(Bardiche) Ancient Coupon
+14f √øc4(Axe) Ancient Coupon
+15f √øc4(Light Crossbow) Ancient Coupon
+16f √øc4(Mace) Ancient Coupon
+17f √øc4(Long Staff) Ancient Coupon
+18f √øc4(Sabre) Ancient Coupon
+19f √øc4(Dirk) Ancient Coupon
+20f √øc4(Two-Handed Sword) Ancient Coupon
+21f √øc4(Trident) Ancient Coupon
+22f √øc4(Falchion) Ancient Coupon
+23f √øc4(Hunter's Bow) Ancient Coupon
+24f √øc4(Crystal Sword) Ancient Coupon
+25f √øc4(Voulge) Ancient Coupon
+26f √øc4(Broad Axe) Ancient Coupon
+27f √øc4(Yew Wand) Ancient Coupon
+28f √øc4(Long Bow) Ancient Coupon
+29f √øc4(Morning Star) Ancient Coupon
+30f √øc4(Double Axe) Ancient Coupon
+31f √øc4(Broad Sword) Ancient Coupon
+32f √øc4(Brandistock) Ancient Coupon
+33f √øc4(Grand Scepter) Ancient Coupon
+34f √øc4(Gnarled Staff) Ancient Coupon
+35f √øc4(Crossbow) Ancient Coupon
+36f √øc4(Claymore) Ancient Coupon
+37f √øc4(Scythe) Ancient Coupon
+38f √øc4(Kris) Ancient Coupon
+39f √øc4(Battle Axe) Ancient Coupon
+40f √øc4(Composite Bow) Ancient Coupon
+41f √øc4(Bone Wand) Ancient Coupon
+42f √øc4(Battle Staff) Ancient Coupon
+43f √øc4(Flail) Ancient Coupon
+44f √øc4(Military Pick) Ancient Coupon
+45f √øc4(Spetum) Ancient Coupon
+46f √øc4(Long Sword) Ancient Coupon
+47f √øc4(War Scepter) Ancient Coupon
+48f √øc4(Giant Sword) Ancient Coupon
+49f √øc4(Maul) Ancient Coupon
+50f √øc4(Short Battle Bow) Ancient Coupon
+51f √øc4(Blade) Ancient Coupon
+52f √øc4(Poleaxe) Ancient Coupon
+53f √øc4(Great Axe) Ancient Coupon
+54f √øc4(Flamberge) Ancient Coupon
+55f √øc4(Bastard Sword) Ancient Coupon
+56f √øc4(Long Battle Bow) Ancient Coupon
+57f √øc4(Heavy Crossbow) Ancient Coupon
+58f √øc4(Pike) Ancient Coupon
+59f √øc4(Short War Bow) Ancient Coupon
+60f √øc4(War Hammer) Ancient Coupon
+61f √øc4(War Axe) Ancient Coupon
+62f √øc4(Long War Bow) Ancient Coupon
+63f √øc4(Repeating Crossbow) Ancient Coupon
+64f √øc4(Halberd) Ancient Coupon
+65f √øc4(Grim Wand) Ancient Coupon
+66f √øc4(War Staff) Ancient Coupon
+67f √øc4(Giant Axe) Ancient Coupon
+68f √øc4(War Sword) Ancient Coupon
+69f √øc4(War Scythe) Ancient Coupon
+70f √øc4(Great Maul) Ancient Coupon
+71f √øc4(Great Sword) Ancient Coupon
+01g √øc4(Jo Staff) Ancient Coupon
+02g √øc4(Edge Bow) Ancient Coupon
+03g √øc4(Gladius) Ancient Coupon
+04g √øc4(Razor Bow) Ancient Coupon
+05g √øc4(War Spear) Ancient Coupon
+06g √øc4(Quarterstaff) Ancient Coupon
+07g √øc4(Cutlass) Ancient Coupon
+08g √øc4(Poignard) Ancient Coupon
+09g √øc4(Arbalest) Ancient Coupon
+10g √øc4(Fuscina) Ancient Coupon
+11g √øc4(Burnt Wand) Ancient Coupon
+12g √øc4(Cedar Bow) Ancient Coupon
+13g √øc4(Shamshir) Ancient Coupon
+14g √øc4(Cudgel) Ancient Coupon
+15g √øc4(Military Axe) Ancient Coupon
+16g √øc4(Cedar Staff) Ancient Coupon
+17g √øc4(War Fork) Ancient Coupon
+18g √øc4(Petrified Wand) Ancient Coupon
+19g √øc4(Tulwar) Ancient Coupon
+20g √øc4(Siege Crossbow) Ancient Coupon
+21g √øc4(Rondel) Ancient Coupon
+22g √øc4(Hatchet) Ancient Coupon
+23g √øc4(Tomb Wand) Ancient Coupon
+24g √øc4(Double Bow) Ancient Coupon
+25g √øc4(Yari) Ancient Coupon
+26g √øc4(Dimensional Blade) Ancient Coupon
+27g √øc4(Rune Scepter) Ancient Coupon
+28g √øc4(Cinquedeas) Ancient Coupon
+29g √øc4(Barbed Club) Ancient Coupon
+30g √øc4(Holy Water Sprinkler) Ancient Coupon
+31g √øc4(Lance) Ancient Coupon
+32g √øc4(Short Siege Bow) Ancient Coupon
+33g √øc4(Gothic Staff) Ancient Coupon
+34g √øc4(Cleaver) Ancient Coupon
+35g √øc4(Battle Sword) Ancient Coupon
+36g √øc4(Bearded Axe) Ancient Coupon
+37g √øc4(Flanged Mace) Ancient Coupon
+38g √øc4(Lochaber Axe) Ancient Coupon
+39g √øc4(Tabar) Ancient Coupon
+40g √øc4(Rune Sword) Ancient Coupon
+41g √øc4(Rune Staff) Ancient Coupon
+42g √øc4(Long Siege Bow) Ancient Coupon
+43g √øc4(Stilleto) Ancient Coupon
+44g √øc4(Grave Wand) Ancient Coupon
+45g √øc4(Ceremonial Javelin) Ancient Coupon
+46g √øc4(Jagged Star) Ancient Coupon
+47g √øc4(Swirling Crystal) Ancient Coupon
+48g √øc4(Divine Scepter) Ancient Coupon
+49g √øc4(Ancient Sword) Ancient Coupon
+50g √øc4(Bill) Ancient Coupon
+51g √øc4(Battle Scythe) Ancient Coupon
+52g √øc4(Ceremonial Pike) Ancient Coupon
+53g √øc4(Ceremonial Bow) Ancient Coupon
+54g √øc4(Espandon) Ancient Coupon
+55g √øc4(Gothic Axe) Ancient Coupon
+56g √øc4(Greater Talons) Ancient Coupon
+57g √øc4(Rune Bow) Ancient Coupon
+58g √øc4(Partizan) Ancient Coupon
+59g √øc4(Dacian Falx) Ancient Coupon
+60g √øc4(Battle Hammer) Ancient Coupon
+61g √øc4(Twin Axe) Ancient Coupon
+62g √øc4(Battle Dart) Ancient Coupon
+63g √øc4(Grim Scythe) Ancient Coupon
+64g √øc4(Bec-de-Corbin) Ancient Coupon
+65g √øc4(Tusk Sword) Ancient Coupon
+66g √øc4(Gothic Sword) Ancient Coupon
+67g √øc4(Crowbill) Ancient Coupon
+68g √øc4(Ancient Axe) Ancient Coupon
+69g √øc4(Martel de Fer) Ancient Coupon
+70g √øc4(Knout) Ancient Coupon
+71g √øc4(Gothic Bow) Ancient Coupon
+72g √øc4(Zweihander) Ancient Coupon
+73g √øc4(Executioner Sword) Ancient Coupon
+74g √øc4(Naga) Ancient Coupon
+75g √øc4(War Club) Ancient Coupon
+76g √øc4(Chu-Ko-Nu) Ancient Coupon
+77g √øc4(Ballista) Ancient Coupon
+78g √øc4(Francisca) Ancient Coupon
+01h √øc4(Phase Blade i) Ancient Coupon
+02k √øc4(Caduceus) Ancient Coupon
+03h √øc4(Bone Knife) Ancient Coupon
+04h √øc4(Mighty Scepter i) Ancient Coupon
+05h √øc4(Elegant Blade) Ancient Coupon
+06h √øc4(Legend Spike) Ancient Coupon
+07h √øc4(Devil Star) Ancient Coupon
+08h √øc4(Decapitator) Ancient Coupon
+09h √øc4(Tyrant Club) Ancient Coupon
+10h √øc4(War Spike) Ancient Coupon
+11h √øc4(Matriarchal Spear) Ancient Coupon
+12k √øc4(Ogre Axe) Ancient Coupon
+13h √øc4(Scourge i) Ancient Coupon
+14h √øc4(Ataghan) Ancient Coupon
+15h √øc4(Ward Bow) Ancient Coupon
+16h √øc4(Wrist Sword) Ancient Coupon
+17h √øc4(Unearthed Wand) Ancient Coupon
+18h √øc4(Elder Staff) Ancient Coupon
+19h √øc4(Champion Sword) Ancient Coupon
+20h √øc4(Tomahawk) Ancient Coupon
+21h √øc4(Champion Axe) Ancient Coupon
+22k √øc4(Feral Claws) Ancient Coupon
+23h √øc4(Winged Axe) Ancient Coupon
+24h √øc4(Legendary Mallet i) Ancient Coupon
+25h √øc4(Truncheon) Ancient Coupon
+26h √øc4(Fanged Knife) Ancient Coupon
+27h √øc4(Ogre Maul) Ancient Coupon
+28h √øc4(Balrog Spear) Ancient Coupon
+29h √øc4(Thunder Maul i) Ancient Coupon
+30h √øc4(Matriarchal Javelin) Ancient Coupon
+31h √øc4(War Pike) Ancient Coupon
+32k √øc4(Crusader Bow) Ancient Coupon
+33h √øc4(Flying Axe) Ancient Coupon
+34h √øc4(Cryptic Sword) Ancient Coupon
+35h √øc4(Berserker Axe) Ancient Coupon
+36h √øc4(Giant Thresher) Ancient Coupon
+37h √øc4(Winged Harpoon) Ancient Coupon
+38h √øc4(Demon Crossbow) Ancient Coupon
+39h √øc4(Matriarchal Bow) Ancient Coupon
+40h √øc4(Balrog Blade) Ancient Coupon
+41h √øc4(Mancatcher) Ancient Coupon
+42k √øc4(Ettin Axe) Ancient Coupon
+43h √øc4(Hydra Bow) Ancient Coupon
+44h √øc4(Mighty Scepter ii) Ancient Coupon
+45h √øc4(Eldritch Orb) Ancient Coupon
+46h √øc4(Dimensional Shard) Ancient Coupon
+47h √øc4(Silver-edged Axe) Ancient Coupon
+48h √øc4(Legendary Mallet ii) Ancient Coupon
+49h √øc4(Winged Knife) Ancient Coupon
+50h √øc4(Glorious Axe) Ancient Coupon
+51h √øc4(Thresher) Ancient Coupon
+52k √øc4(Lich Wand) Ancient Coupon
+53h √øc4(Colossus Crossbow) Ancient Coupon
+54h √øc4(Ghost Glaive) Ancient Coupon
+55h √øc4(Thunder Maul ii) Ancient Coupon
+56h √øc4(Battle Cestus) Ancient Coupon
+57h √øc4(Colossus Blade) Ancient Coupon
+58h √øc4(Hyperion Spear) Ancient Coupon
+59h √øc4(Cryptic Axe) Ancient Coupon
+60h √øc4(Scourge ii) Ancient Coupon
+61h √øc4(Archon Staff) Ancient Coupon
+62k √øc4(Phase Blade ii) Ancient Coupon
+01i √øc4(Amulet i) Ancient Coupon
+02i √øc4(Amulet ii) Ancient Coupon
+03i √øc4(Amulet iii) Ancient Coupon
+04i √øc4(Amulet iv) Ancient Coupon
+05i √øc4(Amulet v) Ancient Coupon
+06i √øc4(Amulet vi) Ancient Coupon
+07i √øc4(Amulet vii) Ancient Coupon
+08i √øc4(Amulet viii) Ancient Coupon
+09i √øc4(Amulet ix) Ancient Coupon
+10i √øc4(Amulet x) Ancient Coupon
+11i √øc4(Amulet xi) Ancient Coupon
+12i √øc4(Amulet xii) Ancient Coupon
+01j √øc4(Ring i) Ancient Coupon
+02j √øc4(Ring ii) Ancient Coupon
+03j √øc4(Ring iii) Ancient Coupon
+04j √øc4(Ring iv) Ancient Coupon
+05j √øc4(Ring v) Ancient Coupon
+06j √øc4(Ring vi) Ancient Coupon
+07j √øc4(Ring vii) Ancient Coupon
+08j √øc4(Ring viii) Ancient Coupon
+09j √øc4(Ring ix) Ancient Coupon
+10j √øc4(Ring x) Ancient Coupon
+96j √øc4(Normal) Ancient Coupon
+97j √øc4(Exceptional) Ancient Coupon
+98j √øc4(Elite) Ancient Coupon
+99j √øc4(Wild Card) Ancient Coupon
+u00 √øc2Token Autolycus' Robes
+u01 √øc2Token Autolycus' Thieving Tools
+u02 √øc2Token Boots of Sneaking
+u03 √øc2Token Achilles' Force
+u04 √øc2Token Achilles' Girdle
+u05 √øc2Token Achilles' Heel
+u06 √øc2Token Helm of Spirits
+u07 √øc2Token Armor of Gloom
+u08 √øc2Token Stormshield
+u09 √øc2Token Tharn's Ward
+u10 √øc2Token Bard's Graceful Hand
+u11 √øc2Token Root's Banded Restraint
+u12 √øc2Token Wanderer's Waltz
+u13 √øc2Token Band of Famine
+u14 √øc2Token Crook of the Darkest Valley
+u15 √øc2Token Shepherd's Blessing
+u16 √øc2Token Shepherd's Invocation
+u17 √øc2Token Tasselhoff's Jerkin
+u18 √øc2Token Tasselhoff's Pouches
+u19 √øc2Token Tasselhoff's Breaches
+u20 √øc2Token Arctic Horn
+u21 √øc2Token Arctic Mitts
+u22 √øc2Token Arctic Binding
+u23 √øc2Token Gabrielle's Pointed Staff
+u24 √øc2Token Gabrielle's Defense
+u25 √øc2Token Gabrielle's Revelation
+u26 √øc2Token Lixo's Flight
+u27 √øc2Token Lixo's Harp
+u28 √øc2Token Lixo's Coat
+u29 √øc2Token Aanna's Touch
+u30 √øc2Token Aanna's Dress
+u31 √øc2Token Aanna's Skill
+u32 √øc2Token Aanna's March
+u33 √øc2Token Alaziel's Point
+u34 √øc2Token Alaziel's Protector
+u35 √øc2Token Alaziel's Buckler
+u36 √øc2Token Alaziel's Grip
+u37 √øc2Token Noir's Anticipation
+u38 √øc2Token Noir's Focus
+u39 √øc2Token Noir's Tenacity
+u40 √øc2Token Noir's Stride
+u41 √øc2Token Milea's Crown
+u42 √øc2Token Milea's Maim
+u43 √øc2Token Milea's Mail
+u44 √øc2Token Death's Touch
+u45 √øc2Token Death's Hand
+u46 √øc2Token Death's Guard
+u47 √øc2Token Vega's Beauty
+u48 √øc2Token Grace
+u49 √øc2Token Power
+u50 √øc2Token Vega's Sash
+u51 √øc2Token Motoko's Power
+u52 √øc2Token Motoko's Kimono
+u53 √øc2Token Alora's Veil
+u54 √øc2Token Alora's Silent Assault
+u55 √øc2Token Alora's Silhouette
+u56 √øc2Token Alora's Vestige
+u57 √øc2Token Sascha's Deadly Point
+u58 √øc2Token Sascha's Bosom
+u59 √øc2Token Sascha's Jagged Strike
+u60 √øc2Token Sascha's Black Slipper
+u61 √øc2Token Ihsan's Gaze
+u62 √øc2Token Ihsan's Spine
+u63 √øc2Token Ihsan's Clutch
+u64 √øc2Token Ihsan's Coil
+u65 √øc2Token Borik's Nightblade
+u66 √øc2Token Borik's Dark Binding
+u67 √øc2Token Borik's Black Hand
+u68 √øc2Token Infernal Cranium
+u69 √øc2Token Infernal Torch
+u70 √øc2Token Infernal Sign
+u71 √øc2Token Rathol's Gaze
+u72 √øc2Token Rathol's Touch
+u73 √øc2Token Rathol's Fear
+u74 √øc2Token Wrathamon's Skull
+u75 √øc2Token Wrathamon's Scythe of Doom
+u76 √øc2Token Wrathamon's Cloak of Night
+u77 √øc2Token The Hands of Wier
+u78 √øc2Token The Lich's Pate
+u79 √øc2Token The Lich's Curse
+u80 √øc2Token The Lich's Cage
+u81 √øc2Token The Lich's Clutch
+u82 √øc2Token The Lich's Wrap
+u83 √øc2Token Nupraptor's Skull
+u84 √øc2Token Nupraptor's Eradicator
+u85 √øc2Token Nupraptor's Servant
+u86 √øc2Token Lim-Dul's Hex
+u87 √øc2Token Lim-Dul's High Guardian
+u88 √øc2Token Lim-Dul's Vault
+u89 √øc2Token Lim-Dul's Oath
+u90 √øc2Token Mask of the Angel of Death
+u91 √øc2Token Flesh of the Angel of Chaos
+u92 √øc2Token Reaver of the Angel of Annihilation
+u93 √øc2Token Berserker's Headgear
+u94 √øc2Token Berserker's Hatchet
+u95 √øc2Token Berserker's Hauberk
+u96 √øc2Token Messerschmidt's Reaver
+u97 √øc2Token Messerschmidt's Burning Palm
+u98 √øc2Token Messerschmidt's Rush
+u99 √øc2Token Blood Baron
+v00 √øc2Token Kain's Fear
+v01 √øc2Token Kain's Sentinel
+v02 √øc2Token Kain's Wings
+v03 √øc2Token Krakerag's Point
+v04 √øc2Token Krakerag's Chestplate
+v05 √øc2Token Krakerag's Slay
+v06 √øc2Token Darkshade's Haze
+v07 √øc2Token Darkshade's Skewer
+v08 √øc2Token Darkshade's Spined Sheath
+v09 √øc2Token Darkshade's Evisceration
+v10 √øc2Token Darkshade's Binding
+v11 √øc2Token Sarevok's Malicious Stare
+v12 √øc2Token Sarevok's Master
+v13 √øc2Token Sarevok's Savage Heart
+v14 √øc2Token Crown of the Northern Tribes
+v15 √øc2Token Harrogath's Heirloom
+v16 √øc2Token Milabrega's Ironsoles
+v17 √øc2Token Milabrega's Rod
+v18 √øc2Token Milabrega's Orb
+v19 √øc2Token Tyrael's Fort
+v20 √øc2Token Tyrael's Virtue
+v21 √øc2Token Tyrael's Faith
+v22 √øc2Token Anduin's Vision
+v23 √øc2Token Anduin's Vanquisher
+v24 √øc2Token Anduin's Protector
+v25 √øc2Token Malek's Sight
+v26 √øc2Token Malek's Strike
+v27 √øc2Token Malek's Pride
+v28 √øc2Token Malek's Defense
+v29 √øc2Token Malek's Girdle
+v30 √øc2Token Lancelot's Prediction
+v31 √øc2Token Lancelot's Security
+v32 √øc2Token Lancelot's Heraldic Lion
+v33 √øc2Token Griffith's Stare
+v34 √øc2Token Griffith's Parry
+v35 √øc2Token Griffith's Protection
+v36 √øc2Token Darien's Wit
+v37 √øc2Token Darien's Faith
+v38 √øc2Token Darien's Band
+v39 √øc2Token Arcanna's Deathwand
+v40 √øc2Token Arcanna's Flesh
+v41 √øc2Token Tara's Vision
+v42 √øc2Token Tara's Eye
+v43 √øc2Token Tara's Gown
+v44 √øc2Token Tara's Mirror
+v45 √øc2Token Naj's Puzzler
+v46 √øc2Token Naj's Light Plate
+v47 √øc2Token Naj's Fireward
+v48 √øc2Token Divada's Tiara
+v49 √øc2Token Divada's Focus
+v50 √øc2Token Divada's Shawl
+v51 √øc2Token Divada's Screen
+v52 √øc2Token Raistlin's Glance
+v53 √øc2Token The Staff of the Magius
+v54 √øc2Token Robes of the Arch-Magi
+v55 √øc2Token Jade Wrap
+v56 √øc2Token Jade Slipper
+v57 √øc2Token Arion's Eye
+v58 √øc2Token Arion's Heart
+v59 √øc2Token Arion's Hand
+v60 √øc2Token Hsarus' Iron Arm
+v61 √øc2Token Hsarus' Iron Fist
+v62 √øc2Token Hsarus' Iron Heel
+v63 √øc2Token Blackwing's Will
+v64 √øc2Token Blackwing's Force
+v65 √øc2Token Blackwing's Clench
+v66 √øc2Token Blackwing's Footprint
+v67 √øc2Token Danarak's Spirit
+v68 √øc2Token Danarak's Mallet
+v69 √øc2Token Danarak's Wrap
+v70 √øc2Token Horns of Power
+v71 √øc2Token Keeper of the Fire
+v72 √øc2Token Robes of Earth and Water
+v73 √øc2Token Sandals of the Wind
+v74 √øc2Token Terra's Clairvoyance
+v75 √øc2Token Fyrre's Deception
+v76 √øc2Token Gaia's Carapace
+v77 √øc2Token Persephone's Heel
+v78 √øc2Token Jaheira's Volition
+v79 √øc2Token Jaheira's Caress
+v80 √øc2Token Jaheira's Girdle
+v81 √øc2Token Branch of the Ents
+v82 √øc2Token Hide of the Tarrasque
+v83 √øc2Token Claws of the Dragon
+v84 √øc2Token Rogue's Bow-N
+v85 √øc2Token Rogue's Suit-N
+v86 √øc2Token Rogue's Cap-N
+v87 √øc2Token Mercenary's Pike-N
+v88 √øc2Token Mercenary's Wraps-N
+v89 √øc2Token Mercenary's Shiek-N
+v90 √øc2Token Iron Wolf's Broad Sword-N
+v91 √øc2Token Iron Wolf's Robes-N
+v92 √øc2Token Iron Wolf's Coif-N
+v93 √øc2Token Iron Wolf's Guard-N
+v94 √øc2Token Barbarian's Point-N
+v95 √øc2Token Barbarian's Shelter-N
+v96 √øc2Token Barbarian's Visage-N
+v97 √øc2Token Rogue's Bow-NM
+v98 √øc2Token Rogue's Suit-NM
+v99 √øc2Token Rogue's Cap-NM
+w00 √øc2Token Mercenary's Pike-NM
+w01 √øc2Token Mercenary's Wraps-NM
+w02 √øc2Token Mercenary's Shiek-NM
+w03 √øc2Token Iron Wolf's Broad Sword-NM
+w04 √øc2Token Iron Wolf's Robes-NM
+w05 √øc2Token Iron Wolf's Coif-NM
+w06 √øc2Token Iron Wolf's Guard-NM
+w07 √øc2Token Barbarian's Point-NM
+w08 √øc2Token Barbarian's Shelter-NM
+w09 √øc2Token Barbarian's Visage-NM
+w10 √øc2Token Rogue's Bow-H
+w11 √øc2Token Rogue's Suit-H
+w12 √øc2Token Rogue's Cap-H
+w13 √øc2Token Mercenary's Pike-H
+w14 √øc2Token Mercenary's Wraps-H
+w15 √øc2Token Mercenary's Shiek-H
+w16 √øc2Token Iron Wolf's Broad Sword-H
+w17 √øc2Token Iron Wolf's Robes-H
+w18 √øc2Token Iron Wolf's Coif-H
+w19 √øc2Token Iron Wolf's Guard-H
+w20 √øc2Token Barbarian's Point-H
+w21 √øc2Token Barbarian's Shelter-H
+w22 √øc2Token Barbarian's Visage-H
+kv0 Gem Can
+ky0 Gem Can
+kb0 Gem Can
+kg0 Gem Can
+kr0 Gem Can
+kw0 Gem Can
+ks0 Gem Can
+kk0 Gem Can
 xu0 Crystal Can
 xu1 Crystal Can
 xu2 Crystal Can
@@ -2035,59 +2085,59 @@ xu8 Crystal Can
 xu9 Crystal Can
 xux Crystal Can
 xuy Crystal Can
-ko0 Opener
-ko1 Opener
-ko2 Opener
-ko3 Opener
-ko4 Opener
-ko5 Opener
-s01 Rune Stocker Low
-s02 Rune Stocker Low
-s03 Rune Stocker Low
-s04 Rune Stocker Low
-s05 Rune Stocker Low
-s06 Rune Stocker Low
-s07 Rune Stocker Low
-s08 Rune Stocker Low
-s09 Rune Stocker Low
-s10 Rune Stocker Low
-s11 Rune Stocker Low
-s12 Rune Stocker Low
-s13 Rune Stocker Low
-s14 Rune Stocker Low
-s15 Rune Stocker Low
-s16 Rune Stocker Low
-s17 Rune Stocker Low
-s18 Rune Stocker Low
-s19 Rune Stocker Low
-s20 Rune Stocker Low
-s21 Rune Stocker Low
-s22 Rune Stocker High
-s23 Rune Stocker High
-s24 Rune Stocker High
-s25 Rune Stocker High
-s26 Rune Stocker High
-s27 Rune Stocker High
-s28 Rune Stocker High
-s29 Rune Stocker High
-s30 Rune Stocker High
-s31 Rune Stocker High
-s32 Rune Stocker High
-s33 Rune Stocker High
-s34 Rune Stocker High
-s35 Rune Stocker High
-s36 Rune Stocker High
-s37 Rune Stocker High
-s38 Rune Stocker High
-s39 Rune Stocker High
-s40 Rune Stocker High
-s41 Rune Stocker High
-s42 Rune Stocker High
-s43 Rune Stocker High
-s44 Rune Stocker High
-s45 Rune Stocker High
-s46 Rune Stocker High
-s50 Rune Stocker High
+ko0 Can Opener
+ko1 Can Opener
+ko2 Can Opener
+ko3 Can Opener
+ko4 Can Opener
+ko5 Can Opener
+s01 Rune Stocker (1-21)
+s02 Rune Stocker (1-21)
+s03 Rune Stocker (1-21)
+s04 Rune Stocker (1-21)
+s05 Rune Stocker (1-21)
+s06 Rune Stocker (1-21)
+s07 Rune Stocker (1-21)
+s08 Rune Stocker (1-21)
+s09 Rune Stocker (1-21)
+s10 Rune Stocker (1-21)
+s11 Rune Stocker (1-21)
+s12 Rune Stocker (1-21)
+s13 Rune Stocker (1-21)
+s14 Rune Stocker (1-21)
+s15 Rune Stocker (1-21)
+s16 Rune Stocker (1-21)
+s17 Rune Stocker (1-21)
+s18 Rune Stocker (1-21)
+s19 Rune Stocker (1-21)
+s20 Rune Stocker (1-21)
+s21 Rune Stocker (1-21)
+s22 Rune Stocker (22-47)
+s23 Rune Stocker (22-47)
+s24 Rune Stocker (22-47)
+s25 Rune Stocker (22-47)
+s26 Rune Stocker (22-47)
+s27 Rune Stocker (22-47)
+s28 Rune Stocker (22-47)
+s29 Rune Stocker (22-47)
+s30 Rune Stocker (22-47)
+s31 Rune Stocker (22-47)
+s32 Rune Stocker (22-47)
+s33 Rune Stocker (22-47)
+s34 Rune Stocker (22-47)
+s35 Rune Stocker (22-47)
+s36 Rune Stocker (22-47)
+s37 Rune Stocker (22-47)
+s38 Rune Stocker (22-47)
+s39 Rune Stocker (22-47)
+s40 Rune Stocker (22-47)
+s41 Rune Stocker (22-47)
+s42 Rune Stocker (22-47)
+s43 Rune Stocker (22-47)
+s44 Rune Stocker (22-47)
+s45 Rune Stocker (22-47)
+s46 Rune Stocker (22-47)
+s50 Rune Stocker (22-47)
 s51 Decal Stocker
 s52 Decal Stocker
 s53 Decal Stocker
@@ -2121,56 +2171,56 @@ s80 Decal Stocker
 s81 Decal Stocker
 s82 Decal Stocker
 s83 Decal Stocker
-w31 Secret Tome 1
-w32 Secret Tome 1
-w33 Secret Tome 1
-w34 Secret Tome 1
-w35 Secret Tome 1
-w36 Secret Tome 1
-w37 Secret Tome 1
-w38 Secret Tome 1
-w39 Secret Tome 1
-w40 Secret Tome 1
-w41 Secret Tome 1
-w42 Secret Tome 1
-w43 Secret Tome 1
-w44 Secret Tome 1
-w45 Secret Tome 1
-w46 Secret Tome 1
-w47 Secret Tome 1
-w48 Secret Tome 1
-w49 Secret Tome 1
-w50 Secret Tome 1
-w51 Secret Tome 1
-w52 Secret Tome 1
-w53 Secret Tome 1
-w54 Secret Tome 1
-w55 Secret Tome 1
-w56 Secret Tome 2
-w57 Secret Tome 2
-w58 Secret Tome 2
-w59 Secret Tome 2
-w60 Secret Tome 2
-w61 Secret Tome 2
-w62 Secret Tome 2
-w63 Secret Tome 2
-w64 Secret Tome 2
-w65 Secret Tome 2
-w66 Secret Tome 2
-w67 Secret Tome 2
-w68 Secret Tome 2
-w69 Secret Tome 2
-w70 Secret Tome 2
-w71 Secret Tome 2
-w72 Secret Tome 2
-w73 Secret Tome 2
-w74 Secret Tome 2
-w75 Secret Tome 2
-w76 Secret Tome 2
-w77 Secret Tome 2
-w78 Secret Tome 2
-w79 Secret Tome 2
-w80 Secret Tome 2
+w31 √øc4Ancient Tome (1-25)
+w32 √øc4Ancient Tome (1-25)
+w33 √øc4Ancient Tome (1-25)
+w34 √øc4Ancient Tome (1-25)
+w35 √øc4Ancient Tome (1-25)
+w36 √øc4Ancient Tome (1-25)
+w37 √øc4Ancient Tome (1-25)
+w38 √øc4Ancient Tome (1-25)
+w39 √øc4Ancient Tome (1-25)
+w40 √øc4Ancient Tome (1-25)
+w41 √øc4Ancient Tome (1-25)
+w42 √øc4Ancient Tome (1-25)
+w43 √øc4Ancient Tome (1-25)
+w44 √øc4Ancient Tome (1-25)
+w45 √øc4Ancient Tome (1-25)
+w46 √øc4Ancient Tome (1-25)
+w47 √øc4Ancient Tome (1-25)
+w48 √øc4Ancient Tome (1-25)
+w49 √øc4Ancient Tome (1-25)
+w50 √øc4Ancient Tome (1-25)
+w51 √øc4Ancient Tome (1-25)
+w52 √øc4Ancient Tome (1-25)
+w53 √øc4Ancient Tome (1-25)
+w54 √øc4Ancient Tome (1-25)
+w55 √øc4Ancient Tome (1-25)
+w56 √øc4Ancient Tome (26-50)
+w57 √øc4Ancient Tome (26-50)
+w58 √øc4Ancient Tome (26-50)
+w59 √øc4Ancient Tome (26-50)
+w60 √øc4Ancient Tome (26-50)
+w61 √øc4Ancient Tome (26-50)
+w62 √øc4Ancient Tome (26-50)
+w63 √øc4Ancient Tome (26-50)
+w64 √øc4Ancient Tome (26-50)
+w65 √øc4Ancient Tome (26-50)
+w66 √øc4Ancient Tome (26-50)
+w67 √øc4Ancient Tome (26-50)
+w68 √øc4Ancient Tome (26-50)
+w69 √øc4Ancient Tome (26-50)
+w70 √øc4Ancient Tome (26-50)
+w71 √øc4Ancient Tome (26-50)
+w72 √øc4Ancient Tome (26-50)
+w73 √øc4Ancient Tome (26-50)
+w74 √øc4Ancient Tome (26-50)
+w75 √øc4Ancient Tome (26-50)
+w76 √øc4Ancient Tome (26-50)
+w77 √øc4Ancient Tome (26-50)
+w78 √øc4Ancient Tome (26-50)
+w79 √øc4Ancient Tome (26-50)
+w80 √øc4Ancient Tome (26-50)
 t01 Rerolling Orb
 t02 Rerolling Orb
 t03 Rerolling Orb
@@ -2211,411 +2261,673 @@ t71 Multi Stocker
 t72 Multi Stocker
 t73 Multi Stocker
 t74 Multi Stocker
+fq0 √øc9FAQ Scroll 1
+fq1 √øc9FAQ Scroll 2
+fq2 √øc9FAQ Scroll 3
+fq3 √øc9FAQ Scroll 4
+fq4 √øc9FAQ Scroll 5
+fq5 √øc9FAQ Scroll 6
+fq6 √øc9FAQ Scroll 7
+fq7 √øc9FAQ Scroll 8
+fq8 √øc9FAQ Scroll 9
+fq9 √øc9FAQ Scroll 10
+tkz Tokenizer
 cx1 Small Charm
 cx2 Large Charm
 cx3 Grand Charm
-nc3 Broken Charm
-nc4 Broken Charm
-nc5 Broken Charm
-nc6 Broken Charm
-nc7 Broken Charm
-nc8 Broken Charm
-nc9 Broken Charm
-jwe Jewel (Old, Token)
-b87 Gambling Chit Weapon 2
-b88 Gambling Chit Weapon 2
-b89 Gambling Chit Weapon 2
-b90 Gambling Chit Weapon 2
-b91 Gambling Chit Weapon 2
-b92 Gambling Chit Weapon 2
-b93 Gambling Chit Weapon 2
-b94 Gambling Chit Weapon 2
-b95 Gambling Chit Weapon 2
-b96 Gambling Chit Weapon 2
-b97 Gambling Chit Weapon 2
-b98 Gambling Chit Weapon 2
-b99 Gambling Chit Weapon 2
-c00 Gambling Chit Weapon 2
-c01 Gambling Chit Weapon 2
-c02 Gambling Chit Weapon 2
-c03 Gambling Chit Weapon 2
-c04 Gambling Chit Weapon 2
-c05 Gambling Chit Weapon 2
-c06 Gambling Chit Weapon 2
-c07 Gambling Chit Weapon 2
-c08 Gambling Chit Weapon 2
-c09 Gambling Chit Weapon 2
-c10 Gambling Chit Weapon 2
-c11 Gambling Chit Weapon 2
-c12 Gambling Chit Weapon 2
-c13 Gambling Chit Weapon 2
-c14 Gambling Chit Weapon 2
-c15 Gambling Chit Weapon 2
-c16 Gambling Chit Weapon 2
-c17 Gambling Chit Weapon 2
-c18 Gambling Chit Weapon 2
-c19 Gambling Chit Weapon 2
-c20 Gambling Chit Weapon 2
-c21 Gambling Chit Weapon 2
-c22 Gambling Chit Weapon 2
-c23 Gambling Chit Weapon 2
-c24 Gambling Chit Weapon 2
-c25 Gambling Chit Weapon 2
-c26 Gambling Chit Weapon 2
-c27 Gambling Chit Weapon 2
-c28 Gambling Chit Weapon 2
-c29 Gambling Chit Weapon 2
-c30 Gambling Chit Weapon 2
-c31 Gambling Chit Weapon 2
-c32 Gambling Chit Weapon 2
-c33 Gambling Chit Weapon 2
-c34 Gambling Chit Weapon 2
-c35 Gambling Chit Weapon 2
-c36 Gambling Chit Weapon 2
-c37 Gambling Chit Weapon 2
-c38 Gambling Chit Weapon 2
-c39 Gambling Chit Weapon 2
-c40 Gambling Chit Weapon 2
-c41 Gambling Chit Weapon 2
-c42 Gambling Chit Weapon 2
-c43 Gambling Chit Weapon 2
-c44 Gambling Chit Weapon 2
-c45 Gambling Chit Weapon 2
-c46 Gambling Chit Weapon 2
-c47 Gambling Chit Weapon 2
-c48 Gambling Chit Weapon 2
-c49 Gambling Chit Weapon 2
-c50 Gambling Chit Weapon 2
-c51 Gambling Chit Weapon 2
-c52 Gambling Chit Weapon 2
-c53 Gambling Chit Weapon 2
-c54 Gambling Chit Weapon 2
-c55 Gambling Chit Weapon 2
-c56 Gambling Chit Weapon 2
-c57 Gambling Chit Weapon 2
-c58 Gambling Chit Weapon 2
-c59 Gambling Chit Weapon 2
-c60 Gambling Chit Weapon 2
-c61 Gambling Chit Weapon 2
-c62 Gambling Chit Weapon 2
-c63 Gambling Chit Weapon 2
-c64 Gambling Chit Weapon 2
-c65 Gambling Chit Weapon 2
-c66 Gambling Chit Weapon 2
-c67 Gambling Chit Weapon 2
-c68 Gambling Chit Weapon 2
-c69 Gambling Chit Weapon 2
-c70 Gambling Chit Weapon 2
-c71 Gambling Chit Weapon 2
-c72 Gambling Chit Weapon 2
-c73 Gambling Chit Weapon 2
-c74 Gambling Chit Weapon 2
-c75 Gambling Chit Weapon 2
-c76 Gambling Chit Weapon 2
-c77 Gambling Chit Weapon 2
-c78 Gambling Chit Weapon 2
-c79 Gambling Chit Weapon 2
-c80 Gambling Chit Weapon 2
-c81 Gambling Chit Weapon 2
-c82 Gambling Chit Weapon 2
-c83 Gambling Chit Weapon 2
-c84 Gambling Chit Weapon 2
-c85 Gambling Chit Weapon 2
-c86 Gambling Chit Weapon 2
-c87 Gambling Chit Weapon 2
-c88 Gambling Chit Weapon 2
-c89 Gambling Chit Weapon 2
-c90 Gambling Chit Weapon 2
-c91 Gambling Chit Weapon 2
-c92 Gambling Chit Armor 2
-c93 Gambling Chit Armor 2
-c94 Gambling Chit Armor 2
-c95 Gambling Chit Armor 2
-c96 Gambling Chit Armor 2
-c97 Gambling Chit Armor 2
-c98 Gambling Chit Armor 2
-c99 Gambling Chit Armor 2
-d00 Gambling Chit Armor 2
-d01 Gambling Chit Armor 2
-d02 Gambling Chit Armor 2
-d03 Gambling Chit Armor 2
-d04 Gambling Chit Armor 2
-d05 Gambling Chit Armor 2
-d06 Gambling Chit Armor 2
-d07 Gambling Chit Armor 2
-d08 Gambling Chit Armor 2
-d09 Gambling Chit Armor 2
-d10 Gambling Chit Armor 2
-d11 Gambling Chit Armor 2
-d12 Gambling Chit Armor 2
-d13 Gambling Chit Armor 2
-d14 Gambling Chit Armor 2
-d15 Gambling Chit Armor 2
-d16 Gambling Chit Armor 2
-d17 Gambling Chit Armor 2
-d18 Gambling Chit Armor 2
-d19 Gambling Chit Armor 2
-d20 Gambling Chit Armor 2
-d21 Gambling Chit Armor 2
-d22 Gambling Chit Armor 2
-d23 Gambling Chit Armor 2
-d24 Gambling Chit Armor 2
-d25 Gambling Chit Armor 2
-d26 Gambling Chit Armor 2
-d27 Gambling Chit Armor 2
-d28 Gambling Chit Armor 2
-d29 Gambling Chit Armor 2
-d30 Gambling Chit Armor 2
-d31 Gambling Chit Armor 2
-d32 Gambling Chit Armor 2
-d34 Gambling Chit Armor 2
-d35 Gambling Chit Armor 2
-d36 Gambling Chit Armor 2
-d37 Gambling Chit Armor 2
-d38 Gambling Chit Armor 2
-d39 Gambling Chit Armor 2
-d40 Gambling Chit Armor 2
-d41 Gambling Chit Armor 2
-d42 Gambling Chit Armor 2
-d43 Gambling Chit Armor 2
-d44 Gambling Chit Armor 2
-d45 Gambling Chit Armor 2
-d46 Gambling Chit Armor 2
-d47 Gambling Chit Armor 2
-d48 Gambling Chit Armor 2
-d49 Gambling Chit Armor 2
-d50 Gambling Chit Armor 2
-d51 Gambling Chit Armor 2
-d52 Gambling Chit Armor 2
-d53 Gambling Chit Armor 2
-d54 Gambling Chit Armor 2
-d55 Gambling Chit Armor 2
-d56 Gambling Chit Armor 2
-d57 Gambling Chit Armor 2
-d58 Gambling Chit Armor 2
-d59 Gambling Chit Armor 2
-d60 Gambling Chit Armor 2
-d61 Gambling Chit Armor 2
-d62 Gambling Chit Armor 2
-d63 Gambling Chit Armor 2
-d64 Gambling Chit Armor 2
-d65 Gambling Chit Armor 2
-d66 Gambling Chit Armor 2
-d67 Gambling Chit Armor 2
-d68 Gambling Chit Armor 2
-d69 Gambling Chit Armor 2
-d70 Gambling Chit Armor 2
-d71 Gambling Chit Weapon 3
-d72 Gambling Chit Weapon 3
-d73 Gambling Chit Weapon 3
-d74 Gambling Chit Weapon 3
-d75 Gambling Chit Weapon 3
-d76 Gambling Chit Weapon 3
-d77 Gambling Chit Weapon 3
-d78 Gambling Chit Weapon 3
-d79 Gambling Chit Weapon 3
-d80 Gambling Chit Weapon 3
-d81 Gambling Chit Weapon 3
-d82 Gambling Chit Weapon 3
-d83 Gambling Chit Weapon 3
-d84 Gambling Chit Weapon 3
-d85 Gambling Chit Weapon 3
-d86 Gambling Chit Weapon 3
-d87 Gambling Chit Weapon 3
-d88 Gambling Chit Weapon 3
-d89 Gambling Chit Weapon 3
-d90 Gambling Chit Weapon 3
-d91 Gambling Chit Weapon 3
-d92 Gambling Chit Weapon 3
-d93 Gambling Chit Weapon 3
-d94 Gambling Chit Weapon 3
-d95 Gambling Chit Weapon 3
-d96 Gambling Chit Weapon 3
-d97 Gambling Chit Weapon 3
-d98 Gambling Chit Weapon 3
-d99 Gambling Chit Weapon 3
-e00 Gambling Chit Weapon 3
-e01 Gambling Chit Weapon 3
-e02 Gambling Chit Weapon 3
-e03 Gambling Chit Weapon 3
-e04 Gambling Chit Weapon 3
-e05 Gambling Chit Weapon 3
-e06 Gambling Chit Weapon 3
-e07 Gambling Chit Weapon 3
-e08 Gambling Chit Weapon 3
-e09 Gambling Chit Weapon 3
-e10 Gambling Chit Weapon 3
-e11 Gambling Chit Weapon 3
-e12 Gambling Chit Weapon 3
-e13 Gambling Chit Weapon 3
-e14 Gambling Chit Weapon 3
-e15 Gambling Chit Weapon 3
-e16 Gambling Chit Weapon 3
-e17 Gambling Chit Weapon 3
-e18 Gambling Chit Weapon 3
-e19 Gambling Chit Weapon 3
-e20 Gambling Chit Weapon 3
-e21 Gambling Chit Weapon 3
-e22 Gambling Chit Weapon 3
-e23 Gambling Chit Weapon 3
-e24 Gambling Chit Weapon 3
-e25 Gambling Chit Weapon 3
-e26 Gambling Chit Weapon 3
-e27 Gambling Chit Weapon 3
-e28 Gambling Chit Weapon 3
-e29 Gambling Chit Weapon 3
-e30 Gambling Chit Weapon 3
-e31 Gambling Chit Weapon 3
-e32 Gambling Chit Weapon 3
-e33 Gambling Chit Weapon 3
-e34 Gambling Chit Weapon 3
-e35 Gambling Chit Weapon 3
-e36 Gambling Chit Weapon 3
-e37 Gambling Chit Weapon 3
-e38 Gambling Chit Weapon 3
-e39 Gambling Chit Weapon 3
-e40 Gambling Chit Weapon 3
-e41 Gambling Chit Weapon 3
-e42 Gambling Chit Weapon 3
-e43 Gambling Chit Weapon 3
-e44 Gambling Chit Weapon 3
-e45 Gambling Chit Weapon 3
-e46 Gambling Chit Weapon 3
-e47 Gambling Chit Weapon 3
-e48 Gambling Chit Weapon 3
-e49 Gambling Chit Weapon 3
-e50 Gambling Chit Weapon 3
-e51 Gambling Chit Weapon 3
-e52 Gambling Chit Weapon 3
-e53 Gambling Chit Weapon 3
-e54 Gambling Chit Weapon 3
-e55 Gambling Chit Weapon 3
-e56 Gambling Chit Weapon 3
-e57 Gambling Chit Weapon 3
-e58 Gambling Chit Weapon 3
-e59 Gambling Chit Weapon 3
-e60 Gambling Chit Weapon 3
-e61 Gambling Chit Weapon 3
-e62 Gambling Chit Weapon 3
-e63 Gambling Chit Weapon 3
-e64 Gambling Chit Weapon 3
-e65 Gambling Chit Weapon 3
-e66 Gambling Chit Weapon 3
-e67 Gambling Chit Weapon 3
-e68 Gambling Chit Weapon 3
-e69 Gambling Chit Weapon 3
-e70 Gambling Chit Weapon 3
-e71 Gambling Chit Weapon 3
-e72 Gambling Chit Weapon 3
-e73 Gambling Chit Weapon 3
-e74 Gambling Chit Weapon 3
-e75 Gambling Chit Weapon 3
-e76 Gambling Chit Weapon 3
-e77 Gambling Chit Weapon 3
-e78 Gambling Chit Armor 3
-e79 Gambling Chit Armor 3
-e80 Gambling Chit Armor 3
-e81 Gambling Chit Armor 3
-e82 Gambling Chit Armor 3
-e83 Gambling Chit Armor 3
-e84 Gambling Chit Armor 3
-e85 Gambling Chit Armor 3
-e86 Gambling Chit Armor 3
-e87 Gambling Chit Armor 3
-e88 Gambling Chit Armor 3
-e89 Gambling Chit Armor 3
-e90 Gambling Chit Armor 3
-e91 Gambling Chit Armor 3
-e92 Gambling Chit Armor 3
-e93 Gambling Chit Armor 3
-e94 Gambling Chit Armor 3
-e95 Gambling Chit Armor 3
-e96 Gambling Chit Armor 3
-e97 Gambling Chit Armor 3
-e98 Gambling Chit Armor 3
-e99 Gambling Chit Armor 3
-f00 Gambling Chit Armor 3
-f01 Gambling Chit Armor 3
-f02 Gambling Chit Armor 3
-f03 Gambling Chit Armor 3
-f04 Gambling Chit Armor 3
-f05 Gambling Chit Armor 3
-f06 Gambling Chit Armor 3
-f07 Gambling Chit Armor 3
-f08 Gambling Chit Armor 3
-f09 Gambling Chit Armor 3
-f10 Gambling Chit Armor 3
-f11 Gambling Chit Armor 3
-f12 Gambling Chit Armor 3
-f13 Gambling Chit Armor 3
-f14 Gambling Chit Armor 3
-f15 Gambling Chit Armor 3
-f16 Gambling Chit Armor 3
-f17 Gambling Chit Armor 3
-f18 Gambling Chit Armor 3
-f19 Gambling Chit Armor 3
-f20 Gambling Chit Armor 3
-f21 Gambling Chit Armor 3
-f22 Gambling Chit Armor 3
-f23 Gambling Chit Armor 3
-f24 Gambling Chit Armor 3
-f25 Gambling Chit Armor 3
-f26 Gambling Chit Armor 3
-f27 Gambling Chit Armor 3
-f28 Gambling Chit Armor 3
-f29 Gambling Chit Armor 3
-f30 Gambling Chit Armor 3
-f31 Gambling Chit Armor 3
-f32 Gambling Chit Armor 3
-f33 Gambling Chit Armor 3
-f34 Gambling Chit Armor 3
-f35 Gambling Chit Armor 3
-f36 Gambling Chit Armor 3
-f37 Gambling Chit Armor 3
-f38 Gambling Chit Armor 3
-f39 Gambling Chit Armor 3
-f40 Gambling Chit Armor 3
-f41 Gambling Chit Armor 3
-f42 Gambling Chit Armor 3
-f43 Gambling Chit Armor 3
-f44 Gambling Chit Armor 3
-f45 Gambling Chit Armor 3
-f46 Gambling Chit Armor 3
-f47 Gambling Chit Armor 3
-f48 Gambling Chit Armor 3
-f49 Gambling Chit Armor 3
-f50 Gambling Chit Armor 3
-f51 Gambling Chit Armor 3
-f52 Gambling Chit Armor 3
-f53 Gambling Chit Armor 3
-f54 Gambling Chit Armor 3
-f55 Gambling Chit Armor 3
-f56 Gambling Chit Weapon 1
-f57 Gambling Chit Weapon 2
-f58 Gambling Chit Weapon 3
-f59 Gambling Chit Weapon 1
-f60 Gambling Chit Weapon 2
-f61 Gambling Chit Weapon 3
+mc0 √øc2Small Charm Diablo's Heart
+mc1 √øc2Small Charm Wave's Heart
+mc2 √øc2Small Charm Ihsan's Heart
+mc3 √øc2Small Charm Lich's Heart
+mc4 √øc2Small Charm Angel's Heart
+mc5 √øc2Small Charm Kain's Heart
+mc6 √øc2Small Charm Sarevok's Heart
+mc7 √øc2Small Charm Jade's Heart
+mc8 √øc2Small Charm Arion's Heart
+mc9 √øc2Small Charm Danarak's Heart
+nc0 √øc2Small Charm Nature's Heart
+nc1 √øc2Small Charm Cow King's Heart
+nc2 √øc2Broken Small Charm
+nc3 √øc2Broken Small Charm
+nc4 √øc2Broken Small Charm
+nc5 √øc2Broken Small Charm
+nc6 √øc2Broken Small Charm
+nc7 √øc2Broken Small Charm
+nc8 √øc2Broken Small Charm
+nc9 √øc2Broken Small Charm
+jwe Token
+a00 √øc4(Hand Axe) Gambling
+a01 √øc4(Axe) Gambling
+a02 √øc4(Double Axe) Gambling
+a03 √øc4(Military Pick) Gambling
+a04 √øc4(War Axe) Gambling
+a05 √øc4(Large Axe) Gambling
+a06 √øc4(Broad Axe) Gambling
+a07 √øc4(Battle Axe) Gambling
+a08 √øc4(Great Axe) Gambling
+a09 √øc4(Giant Axe) Gambling
+a10 √øc4(Short Bow) Gambling
+a11 √øc4(Hunter's Bow) Gambling
+a12 √øc4(Long Bow) Gambling
+a13 √øc4(Composite Bow) Gambling
+a14 √øc4(Short Battle Bow) Gambling
+a15 √øc4(Long Battle Bow) Gambling
+a16 √øc4(Short War Bow) Gambling
+a17 √øc4(Long War Bow) Gambling
+a18 √øc4(Light Crossbow) Gambling
+a19 √øc4(Crossbow) Gambling
+a20 √øc4(Heavy Crossbow) Gambling
+a21 √øc4(Repeating Crossbow) Gambling
+a22 √øc4(Dagger) Gambling
+a23 √øc4(Dirk) Gambling
+a24 √øc4(Kris) Gambling
+a25 √øc4(Blade) Gambling
+a26 √øc4(Javelin) Gambling
+a27 √øc4(Pilum) Gambling
+a28 √øc4(Short Spear) Gambling
+a29 √øc4(Glaive) Gambling
+a30 √øc4(Throwing Spear) Gambling
+a31 √øc4(Club) Gambling
+a32 √øc4(Spiked Club) Gambling
+a33 √øc4(Mace) Gambling
+a34 √øc4(Morning Star) Gambling
+a35 √øc4(Flail) Gambling
+a36 √øc4(War Hammer) Gambling
+a37 √øc4(Maul) Gambling
+a38 √øc4(Great Maul) Gambling
+a39 √øc4(Bardiche) Gambling
+a40 √øc4(Voulge) Gambling
+a41 √øc4(Scythe) Gambling
+a42 √øc4(Poleaxe) Gambling
+a43 √øc4(Halberd) Gambling
+a44 √øc4(War Scythe) Gambling
+a45 √øc4(Scepter) Gambling
+a46 √øc4(Grand Scepter) Gambling
+a47 √øc4(War Scepter) Gambling
+a48 √øc4(Great Scepter) Gambling
+a49 √øc4(Spear) Gambling
+a50 √øc4(Trident) Gambling
+a51 √øc4(Brandistock) Gambling
+a52 √øc4(Spetum) Gambling
+a53 √øc4(Pike) Gambling
+a54 √øc4(Short Staff) Gambling
+a55 √øc4(Long Staff) Gambling
+a56 √øc4(Gnarled Staff) Gambling
+a57 √øc4(Battle Staff) Gambling
+a58 √øc4(War Staff) Gambling
+a59 √øc4(Short Sword) Gambling
+a60 √øc4(Scimitar) Gambling
+a61 √øc4(Sabre) Gambling
+a62 √øc4(Falchion) Gambling
+a63 √øc4(Crystal Sword) Gambling
+a64 √øc4(Broad Sword) Gambling
+a65 √øc4(Long Sword) Gambling
+a66 √øc4(War Sword) Gambling
+a67 √øc4(Two-Handed Sword) Gambling
+a68 √øc4(Claymore) Gambling
+a69 √øc4(Giant Sword) Gambling
+a70 √øc4(Bastard Sword) Gambling
+a71 √øc4(Flamberge) Gambling
+a72 √øc4(Great Sword) Gambling
+a73 √øc4(Throwing Knife) Gambling
+a74 √øc4(Throwing Axe) Gambling
+a75 √øc4(Balanced Knife) Gambling
+a76 √øc4(Balanced Axe) Gambling
+a77 √øc4(Wand) Gambling
+a78 √øc4(Yew Wand) Gambling
+a79 √øc4(Bone Wand) Gambling
+a80 √øc4(Grim Wand) Gambling
+a81 √øc4(Stag Bow) Gambling
+a82 √øc4(Reflex Bow) Gambling
+a83 √øc4(Precision Bow) Gambling
+a84 √øc4(Maiden Spear) Gambling
+a85 √øc4(Maiden Pike) Gambling
+a86 √øc4(Maiden Javelin) Gambling
+a87 √øc4(Katar) Gambling
+a88 √øc4(Wrist Blade) Gambling
+a89 √øc4(Hatchet Hands) Gambling
+a90 √øc4(Cestus) Gambling
+a91 √øc4(Claws) Gambling
+a92 √øc4(Blade Talons) Gambling
+a93 √øc4(Scissors Katar) Gambling
+a94 √øc4(Ninja To) Gambling
+a95 √øc4(Tribal Spear) Gambling
+a96 √øc4(Oak Branch) Gambling
+a97 √øc4(Ritualistic Dagger) Gambling
+a98 √øc4(Wretched Scythe) Gambling
+a99 √øc4(Soul Hunter) Gambling
+b00 √øc4(Blessed Edge) Gambling
+b01 √øc4(Eagle Orb) Gambling
+b02 √øc4(Sacred Globe) Gambling
+b03 √øc4(Smoked Sphere) Gambling
+b04 √øc4(Clasped Orb) Gambling
+b05 √øc4(Jared's Stone) Gambling
+b06 √øc4(Mana Blade) Gambling
+b07 √øc4(Cap) Gambling
+b08 √øc4(Skull Cap) Gambling
+b09 √øc4(Helm) Gambling
+b10 √øc4(Full Helm) Gambling
+b11 √øc4(Great Helm) Gambling
+b12 √øc4(Mask) Gambling
+b13 √øc4(Crown) Gambling
+b14 √øc4(Bone Helm) Gambling
+b15 √øc4(Spirit Crown) Gambling
+b16 √øc4(Dwarven Circlet) Gambling
+b17 √øc4(Hachigane) Gambling
+b18 √øc4(Circlet) Gambling
+b19 √øc4(Quilted Armor) Gambling
+b20 √øc4(Leather Armor) Gambling
+b21 √øc4(Hard Leather Armor) Gambling
+b22 √øc4(Studded Leather) Gambling
+b23 √øc4(Ring Mail) Gambling
+b24 √øc4(Scale Mail) Gambling
+b25 √øc4(Chain Mail) Gambling
+b26 √øc4(Breast Plate) Gambling
+b27 √øc4(Splint Mail) Gambling
+b28 √øc4(Plate Mail) Gambling
+b29 √øc4(Field Plate) Gambling
+b30 √øc4(Gothic Plate) Gambling
+b31 √øc4(Full Plate Mail) Gambling
+b32 √øc4(Ancient Armor) Gambling
+b33 √øc4(Light Plate) Gambling
+b34 √øc4(Spiked Shoulder) Gambling
+b35 √øc4(Elven Chain) Gambling
+b36 √øc4(Cloak) Gambling
+b37 √øc4(Robe) Gambling
+b38 √øc4(Buckler) Gambling
+b39 √øc4(Small Shield) Gambling
+b40 √øc4(Large Shield) Gambling
+b41 √øc4(Kite Shield) Gambling
+b42 √øc4(Tower Shield) Gambling
+b43 √øc4(Gothic Shield) Gambling
+b44 √øc4(Bone Shield) Gambling
+b45 √øc4(Spiked Shield) Gambling
+b46 √øc4(Fortress Shield) Gambling
+b47 √øc4(Leather Gloves) Gambling
+b48 √øc4(Heavy Gloves) Gambling
+b49 √øc4(Chain Gloves) Gambling
+b50 √øc4(Light Gauntlets) Gambling
+b51 √øc4(Gauntlets) Gambling
+b52 √øc4(Iron Guards) Gambling
+b53 √øc4(Boots) Gambling
+b54 √øc4(Heavy Boots) Gambling
+b55 √øc4(Chain Boots) Gambling
+b56 √øc4(Light Plated Boots) Gambling
+b57 √øc4(Greaves) Gambling
+b58 √øc4(Crystal Boots) Gambling
+b59 √øc4(Sash) Gambling
+b60 √øc4(Light Belt) Gambling
+b61 √øc4(Belt) Gambling
+b62 √øc4(Heavy Belt) Gambling
+b63 √øc4(Plated Belt) Gambling
+b64 √øc4(Muscle Wrap) Gambling
+b65 √øc4(Wolf Head) Gambling
+b66 √øc4(Hawk Helm) Gambling
+b67 √øc4(Antlers) Gambling
+b68 √øc4(Falcon Mask) Gambling
+b69 √øc4(Spirit Mask) Gambling
+b70 √øc4(Jawbone Cap) Gambling
+b71 √øc4(Fanged Helm) Gambling
+b72 √øc4(Horned Helm) Gambling
+b73 √øc4(Assault Helm) Gambling
+b74 √øc4(Avenger Guard) Gambling
+b75 √øc4(Targe) Gambling
+b76 √øc4(Rondache) Gambling
+b77 √øc4(Heraldic Shield) Gambling
+b78 √øc4(Aerin Shield) Gambling
+b79 √øc4(Crown Shield) Gambling
+b80 √øc4(Preserved Head) Gambling
+b81 √øc4(Zombie Head) Gambling
+b82 √øc4(Unraveller Head) Gambling
+b83 √øc4(Gargoyle Head) Gambling
+b84 √øc4(Demon Head) Gambling
+b85 √øc4(Hand Axe) Gambling
+b86 √øc4(Axe) Gambling
+b87 √øc4(Double Axe) Gambling
+b88 √øc4(Military Pick) Gambling
+b89 √øc4(War Axe) Gambling
+b90 √øc4(Large Axe) Gambling
+b91 √øc4(Broad Axe) Gambling
+b92 √øc4(Battle Axe) Gambling
+b93 √øc4(Great Axe) Gambling
+b94 √øc4(Giant Axe) Gambling
+b95 √øc4(Short Bow) Gambling
+b96 √øc4(Hunter's Bow) Gambling
+b97 √øc4(Long Bow) Gambling
+b98 √øc4(Composite Bow) Gambling
+b99 √øc4(Short Battle Bow) Gambling
+c00 √øc4(Long Battle Bow) Gambling
+c01 √øc4(Short War Bow) Gambling
+c02 √øc4(Long War Bow) Gambling
+c03 √øc4(Light Crossbow) Gambling
+c04 √øc4(Crossbow) Gambling
+c05 √øc4(Heavy Crossbow) Gambling
+c06 √øc4(Repeating Crossbow) Gambling
+c07 √øc4(Dagger) Gambling
+c08 √øc4(Dirk) Gambling
+c09 √øc4(Kris) Gambling
+c10 √øc4(Blade) Gambling
+c11 √øc4(Javelin) Gambling
+c12 √øc4(Pilum) Gambling
+c13 √øc4(Short Spear) Gambling
+c14 √øc4(Glaive) Gambling
+c15 √øc4(Throwing Spear) Gambling
+c16 √øc4(Club) Gambling
+c17 √øc4(Spiked Club) Gambling
+c18 √øc4(Mace) Gambling
+c19 √øc4(Morning Star) Gambling
+c20 √øc4(Flail) Gambling
+c21 √øc4(War Hammer) Gambling
+c22 √øc4(Maul) Gambling
+c23 √øc4(Great Maul) Gambling
+c24 √øc4(Bardiche) Gambling
+c25 √øc4(Voulge) Gambling
+c26 √øc4(Scythe) Gambling
+c27 √øc4(Poleaxe) Gambling
+c28 √øc4(Halberd) Gambling
+c29 √øc4(War Scythe) Gambling
+c30 √øc4(Scepter) Gambling
+c31 √øc4(Grand Scepter) Gambling
+c32 √øc4(War Scepter) Gambling
+c33 √øc4(Great Scepter) Gambling
+c34 √øc4(Spear) Gambling
+c35 √øc4(Trident) Gambling
+c36 √øc4(Brandistock) Gambling
+c37 √øc4(Spetum) Gambling
+c38 √øc4(Pike) Gambling
+c39 √øc4(Short Staff) Gambling
+c40 √øc4(Long Staff) Gambling
+c41 √øc4(Gnarled Staff) Gambling
+c42 √øc4(Battle Staff) Gambling
+c43 √øc4(War Staff) Gambling
+c44 √øc4(Short Sword) Gambling
+c45 √øc4(Scimitar) Gambling
+c46 √øc4(Sabre) Gambling
+c47 √øc4(Falchion) Gambling
+c48 √øc4(Crystal Sword) Gambling
+c49 √øc4(Broad Sword) Gambling
+c50 √øc4(Long Sword) Gambling
+c51 √øc4(War Sword) Gambling
+c52 √øc4(Two-Handed Sword) Gambling
+c53 √øc4(Claymore) Gambling
+c54 √øc4(Giant Sword) Gambling
+c55 √øc4(Bastard Sword) Gambling
+c56 √øc4(Flamberge) Gambling
+c57 √øc4(Great Sword) Gambling
+c58 √øc4(Throwing Knife) Gambling
+c59 √øc4(Throwing Axe) Gambling
+c60 √øc4(Balanced Knife) Gambling
+c61 √øc4(Balanced Axe) Gambling
+c62 √øc4(Wand) Gambling
+c63 √øc4(Yew Wand) Gambling
+c64 √øc4(Bone Wand) Gambling
+c65 √øc4(Grim Wand) Gambling
+c66 √øc4(Stag Bow) Gambling
+c67 √øc4(Reflex Bow) Gambling
+c68 √øc4(Precision Bow) Gambling
+c69 √øc4(Maiden Spear) Gambling
+c70 √øc4(Maiden Pike) Gambling
+c71 √øc4(Maiden Javelin) Gambling
+c72 √øc4(Katar) Gambling
+c73 √øc4(Wrist Blade) Gambling
+c74 √øc4(Hatchet Hands) Gambling
+c75 √øc4(Cestus) Gambling
+c76 √øc4(Claws) Gambling
+c77 √øc4(Blade Talons) Gambling
+c78 √øc4(Scissors Katar) Gambling
+c79 √øc4(Ninja To) Gambling
+c80 √øc4(Tribal Spear) Gambling
+c81 √øc4(Oak Branch) Gambling
+c82 √øc4(Ritualistic Dagger) Gambling
+c83 √øc4(Wretched Scythe) Gambling
+c84 √øc4(Soul Hunter) Gambling
+c85 √øc4(Blessed Edge) Gambling
+c86 √øc4(Eagle Orb) Gambling
+c87 √øc4(Sacred Globe) Gambling
+c88 √øc4(Smoked Sphere) Gambling
+c89 √øc4(Clasped Orb) Gambling
+c90 √øc4(Jared's Stone) Gambling
+c91 √øc4(Mana Blade) Gambling
+c92 √øc4(Cap) Gambling
+c93 √øc4(Skull Cap) Gambling
+c94 √øc4(Helm) Gambling
+c95 √øc4(Full Helm) Gambling
+c96 √øc4(Great Helm) Gambling
+c97 √øc4(Mask) Gambling
+c98 √øc4(Crown) Gambling
+c99 √øc4(Bone Helm) Gambling
+d00 √øc4(Spirit Crown) Gambling
+d01 √øc4(Dwarven Circlet) Gambling
+d02 √øc4(Hachigane) Gambling
+d03 √øc4(Circlet) Gambling
+d04 √øc4(Quilted Armor) Gambling
+d05 √øc4(Leather Armor) Gambling
+d06 √øc4(Hard Leather Armor) Gambling
+d07 √øc4(Studded Leather) Gambling
+d08 √øc4(Ring Mail) Gambling
+d09 √øc4(Scale Mail) Gambling
+d10 √øc4(Chain Mail) Gambling
+d11 √øc4(Breast Plate) Gambling
+d12 √øc4(Splint Mail) Gambling
+d13 √øc4(Plate Mail) Gambling
+d14 √øc4(Field Plate) Gambling
+d15 √øc4(Gothic Plate) Gambling
+d16 √øc4(Full Plate Mail) Gambling
+d17 √øc4(Ancient Armor) Gambling
+d18 √øc4(Light Plate) Gambling
+d19 √øc4(Spiked Shoulder) Gambling
+d20 √øc4(Elven Chain) Gambling
+d21 √øc4(Cloak) Gambling
+d22 √øc4(Robe) Gambling
+d23 √øc4(Buckler) Gambling
+d24 √øc4(Small Shield) Gambling
+d25 √øc4(Large Shield) Gambling
+d26 √øc4(Kite Shield) Gambling
+d27 √øc4(Tower Shield) Gambling
+d28 √øc4(Gothic Shield) Gambling
+d29 √øc4(Bone Shield) Gambling
+d30 √øc4(Spiked Shield) Gambling
+d31 √øc4(Fortress Shield) Gambling
+d32 √øc4(Leather Gloves) Gambling
+d34 √øc4(Heavy Gloves) Gambling
+d35 √øc4(Chain Gloves) Gambling
+d36 √øc4(Light Gauntlets) Gambling
+d37 √øc4(Gauntlets) Gambling
+d38 √øc4(Iron Guards) Gambling
+d39 √øc4(Boots) Gambling
+d40 √øc4(Heavy Boots) Gambling
+d41 √øc4(Chain Boots) Gambling
+d42 √øc4(Light Plated Boots) Gambling
+d43 √øc4(Greaves) Gambling
+d44 √øc4(Crystal Boots) Gambling
+d45 √øc4(Sash) Gambling
+d46 √øc4(Light Belt) Gambling
+d47 √øc4(Belt) Gambling
+d48 √øc4(Heavy Belt) Gambling
+d49 √øc4(Plated Belt) Gambling
+d50 √øc4(Muscle Wrap) Gambling
+d51 √øc4(Wolf Head) Gambling
+d52 √øc4(Hawk Helm) Gambling
+d53 √øc4(Antlers) Gambling
+d54 √øc4(Falcon Mask) Gambling
+d55 √øc4(Spirit Mask) Gambling
+d56 √øc4(Jawbone Cap) Gambling
+d57 √øc4(Fanged Helm) Gambling
+d58 √øc4(Horned Helm) Gambling
+d59 √øc4(Assault Helm) Gambling
+d60 √øc4(Avenger Guard) Gambling
+d61 √øc4(Targe) Gambling
+d62 √øc4(Rondache) Gambling
+d63 √øc4(Heraldic Shield) Gambling
+d64 √øc4(Aerin Shield) Gambling
+d65 √øc4(Crown Shield) Gambling
+d66 √øc4(Preserved Head) Gambling
+d67 √øc4(Zombie Head) Gambling
+d68 √øc4(Unraveller Head) Gambling
+d69 √øc4(Gargoyle Head) Gambling
+d70 √øc4(Demon Head) Gambling
+d71 √øc4(Hand Axe) Gambling
+d72 √øc4(Axe) Gambling
+d73 √øc4(Double Axe) Gambling
+d74 √øc4(Military Pick) Gambling
+d75 √øc4(War Axe) Gambling
+d76 √øc4(Large Axe) Gambling
+d77 √øc4(Broad Axe) Gambling
+d78 √øc4(Battle Axe) Gambling
+d79 √øc4(Great Axe) Gambling
+d80 √øc4(Giant Axe) Gambling
+d81 √øc4(Short Bow) Gambling
+d82 √øc4(Hunter's Bow) Gambling
+d83 √øc4(Long Bow) Gambling
+d84 √øc4(Composite Bow) Gambling
+d85 √øc4(Short Battle Bow) Gambling
+d86 √øc4(Long Battle Bow) Gambling
+d87 √øc4(Short War Bow) Gambling
+d88 √øc4(Long War Bow) Gambling
+d89 √øc4(Light Crossbow) Gambling
+d90 √øc4(Crossbow) Gambling
+d91 √øc4(Heavy Crossbow) Gambling
+d92 √øc4(Repeating Crossbow) Gambling
+d93 √øc4(Dagger) Gambling
+d94 √øc4(Dirk) Gambling
+d95 √øc4(Kris) Gambling
+d96 √øc4(Blade) Gambling
+d97 √øc4(Javelin) Gambling
+d98 √øc4(Pilum) Gambling
+d99 √øc4(Short Spear) Gambling
+e00 √øc4(Glaive) Gambling
+e01 √øc4(Throwing Spear) Gambling
+e02 √øc4(Club) Gambling
+e03 √øc4(Spiked Club) Gambling
+e04 √øc4(Mace) Gambling
+e05 √øc4(Morning Star) Gambling
+e06 √øc4(Flail) Gambling
+e07 √øc4(War Hammer) Gambling
+e08 √øc4(Maul) Gambling
+e09 √øc4(Great Maul) Gambling
+e10 √øc4(Bardiche) Gambling
+e11 √øc4(Voulge) Gambling
+e12 √øc4(Scythe) Gambling
+e13 √øc4(Poleaxe) Gambling
+e14 √øc4(Halberd) Gambling
+e15 √øc4(War Scythe) Gambling
+e16 √øc4(Scepter) Gambling
+e17 √øc4(Grand Scepter) Gambling
+e18 √øc4(War Scepter) Gambling
+e19 √øc4(Great Scepter) Gambling
+e20 √øc4(Spear) Gambling
+e21 √øc4(Trident) Gambling
+e22 √øc4(Brandistock) Gambling
+e23 √øc4(Spetum) Gambling
+e24 √øc4(Pike) Gambling
+e25 √øc4(Short Staff) Gambling
+e26 √øc4(Long Staff) Gambling
+e27 √øc4(Gnarled Staff) Gambling
+e28 √øc4(Battle Staff) Gambling
+e29 √øc4(War Staff) Gambling
+e30 √øc4(Short Sword) Gambling
+e31 √øc4(Scimitar) Gambling
+e32 √øc4(Sabre) Gambling
+e33 √øc4(Falchion) Gambling
+e34 √øc4(Crystal Sword) Gambling
+e35 √øc4(Broad Sword) Gambling
+e36 √øc4(Long Sword) Gambling
+e37 √øc4(War Sword) Gambling
+e38 √øc4(Two-Handed Sword) Gambling
+e39 √øc4(Claymore) Gambling
+e40 √øc4(Giant Sword) Gambling
+e41 √øc4(Bastard Sword) Gambling
+e42 √øc4(Flamberge) Gambling
+e43 √øc4(Great Sword) Gambling
+e44 √øc4(Throwing Knife) Gambling
+e45 √øc4(Throwing Axe) Gambling
+e46 √øc4(Balanced Knife) Gambling
+e47 √øc4(Balanced Axe) Gambling
+e48 √øc4(Wand) Gambling
+e49 √øc4(Yew Wand) Gambling
+e50 √øc4(Bone Wand) Gambling
+e51 √øc4(Grim Wand) Gambling
+e52 √øc4(Stag Bow) Gambling
+e53 √øc4(Reflex Bow) Gambling
+e54 √øc4(Precision Bow) Gambling
+e55 √øc4(Maiden Spear) Gambling
+e56 √øc4(Maiden Pike) Gambling
+e57 √øc4(Maiden Javelin) Gambling
+e58 √øc4(Katar) Gambling
+e59 √øc4(Wrist Blade) Gambling
+e60 √øc4(Hatchet Hands) Gambling
+e61 √øc4(Cestus) Gambling
+e62 √øc4(Claws) Gambling
+e63 √øc4(Blade Talons) Gambling
+e64 √øc4(Scissors Katar) Gambling
+e65 √øc4(Ninja To) Gambling
+e66 √øc4(Tribal Spear) Gambling
+e67 √øc4(Oak Branch) Gambling
+e68 √øc4(Ritualistic Dagger) Gambling
+e69 √øc4(Wretched Scythe) Gambling
+e70 √øc4(Soul Hunter) Gambling
+e71 √øc4(Blessed Edge) Gambling
+e72 √øc4(Eagle Orb) Gambling
+e73 √øc4(Sacred Globe) Gambling
+e74 √øc4(Smoked Sphere) Gambling
+e75 √øc4(Clasped Orb) Gambling
+e76 √øc4(Jared's Stone) Gambling
+e77 √øc4(Mana Blade) Gambling
+e78 √øc4(Cap) Gambling
+e79 √øc4(Skull Cap) Gambling
+e80 √øc4(Helm) Gambling
+e81 √øc4(Full Helm) Gambling
+e82 √øc4(Great Helm) Gambling
+e83 √øc4(Mask) Gambling
+e84 √øc4(Crown) Gambling
+e85 √øc4(Bone Helm) Gambling
+e86 √øc4(Spirit Crown) Gambling
+e87 √øc4(Dwarven Circlet) Gambling
+e88 √øc4(Hachigane) Gambling
+e89 √øc4(Circlet) Gambling
+e90 √øc4(Quilted Armor) Gambling
+e91 √øc4(Leather Armor) Gambling
+e92 √øc4(Hard Leather Armor) Gambling
+e93 √øc4(Studded Leather) Gambling
+e94 √øc4(Ring Mail) Gambling
+e95 √øc4(Scale Mail) Gambling
+e96 √øc4(Chain Mail) Gambling
+e97 √øc4(Breast Plate) Gambling
+e98 √øc4(Splint Mail) Gambling
+e99 √øc4(Plate Mail) Gambling
+f00 √øc4(Field Plate) Gambling
+f01 √øc4(Gothic Plate) Gambling
+f02 √øc4(Full Plate Mail) Gambling
+f03 √øc4(Ancient Armor) Gambling
+f04 √øc4(Light Plate) Gambling
+f05 √øc4(Spiked Shoulder) Gambling
+f06 √øc4(Elven Chain) Gambling
+f07 √øc4(Cloak) Gambling
+f08 √øc4(Robe) Gambling
+f09 √øc4(Buckler) Gambling
+f10 √øc4(Small Shield) Gambling
+f11 √øc4(Large Shield) Gambling
+f12 √øc4(Kite Shield) Gambling
+f13 √øc4(Tower Shield) Gambling
+f14 √øc4(Gothic Shield) Gambling
+f15 √øc4(Bone Shield) Gambling
+f16 √øc4(Spiked Shield) Gambling
+f17 √øc4(Fortress Shield) Gambling
+f18 √øc4(Leather Gloves) Gambling
+f19 √øc4(Heavy Gloves) Gambling
+f20 √øc4(Chain Gloves) Gambling
+f21 √øc4(Light Gauntlets) Gambling
+f22 √øc4(Gauntlets) Gambling
+f23 √øc4(Iron Guards) Gambling
+f24 √øc4(Boots) Gambling
+f25 √øc4(Heavy Boots) Gambling
+f26 √øc4(Chain Boots) Gambling
+f27 √øc4(Light Plated Boots) Gambling
+f28 √øc4(Greaves) Gambling
+f29 √øc4(Crystal Boots) Gambling
+f30 √øc4(Sash) Gambling
+f31 √øc4(Light Belt) Gambling
+f32 √øc4(Belt) Gambling
+f33 √øc4(Heavy Belt) Gambling
+f34 √øc4(Plated Belt) Gambling
+f35 √øc4(Muscle Wrap) Gambling
+f36 √øc4(Wolf Head) Gambling
+f37 √øc4(Hawk Helm) Gambling
+f38 √øc4(Antlers) Gambling
+f39 √øc4(Falcon Mask) Gambling
+f40 √øc4(Spirit Mask) Gambling
+f41 √øc4(Jawbone Cap) Gambling
+f42 √øc4(Fanged Helm) Gambling
+f43 √øc4(Horned Helm) Gambling
+f44 √øc4(Assault Helm) Gambling
+f45 √øc4(Avenger Guard) Gambling
+f46 √øc4(Targe) Gambling
+f47 √øc4(Rondache) Gambling
+f48 √øc4(Heraldic Shield) Gambling
+f49 √øc4(Aerin Shield) Gambling
+f50 √øc4(Crown Shield) Gambling
+f51 √øc4(Preserved Head) Gambling
+f52 √øc4(Zombie Head) Gambling
+f53 √øc4(Unraveller Head) Gambling
+f54 √øc4(Gargoyle Head) Gambling
+f55 √øc4(Demon Head) Gambling
+f56 √øc4(Brass Knuckle) Gambling
+f57 √øc4(Brass Knuckle) Gambling
+f58 √øc4(Brass Knuckle) Gambling
+f59 √øc4(Battering Arm) Gambling
+f60 √øc4(Battering Arm) Gambling
+f61 √øc4(Battering Arm) Gambling
+qqq √øc5Anvil Stone
 t75 Multi Stocker
+cm7 √øc2Large Charm Downtime's Legacy
+dfc √øc4Devil's Food
 t17 Rerolling Orb
-mr0 Monster Ring 0
-mr1 Monster Ring 1
-mr2 Monster Ring 2
-mr3 Monster Ring 3
-mr4 Monster Ring 4
-ag1 Anya's Gift (exc)
-ag2 Anya's Gift (eli)
-ag9 Passive Enabler Maker
-r48 Hu Rune
-me0 Magic Eraser
-me1 Magic Eraser
-me2 Magic Eraser
-me3 Magic Eraser
-me4 Magic Eraser
-me5 Magic Eraser
-me6 Magic Eraser
-me7 Magic Eraser
-me8 Magic Eraser
+mr0 Ring
+mr1 Ring
+mr2 Ring
+mr3 Ring
+mr4 Ring
+mr5 Ring
+mr6 Ring
+mr7 Ring
+mr8 Ring
+mr9 Ring
+cm8 Noob's Odd Charm
+ag0 Anya's Gift
+ag1 Anya's Gift
+ag2 Anya's Gift
+ag8 Adventurer's Pack
+ag9 Small Charm
+xr0 √øc3Chipped Frozen Soul
+xr1 √øc5Chipped Shadow Quartz
+xr2 √øc1Chipped Bleeding Stone
+xr3 √øc9Chipped Burning Sulphur
+xr4 √øc3Chipped Dark Azurite
+xr5 √øc:Chipped Bitter Peridot
+xr6 √øc7Chipped Pulsing Opal
+xr7 √øc1Chipped Enigmatic Cinnabar
+xr8 √øc2Chipped Tomb Jade
+xr9 √øc/Chipped Solid Mercury
+xrx √øc8Chipped Storm Amber
+xry √øc;Chipped Tainted Tourmaline
+xt0 √øc3Frozen Soul
+xt1 √øc5Shadow Quartz
+xt2 √øc1Bleeding Stone
+xt3 √øc9Burning Sulphur
+xt4 √øc3Dark Azurite
+xt5 √øc:Bitter Peridot
+xt6 √øc7Pulsing Opal
+xt7 √øc1Enigmatic Cinnabar
+xt8 √øc2Tomb Jade
+xt9 √øc/Solid Mercury
+xtx √øc8Storm Amber
+xty √øc;Tainted Tourmaline
+ore √øc7Ore
+r48 √øc2Fu Rune
+r50 √øc;Null Rune
+r84 √øc3Moon Rune
+r85 √øc3Fire Rune
+r86 √øc3Water Rune
+r87 √øc3Wood Rune
+r88 √øc3Metal Rune
+r89 √øc3Earth Rune
+r90 √øc3Sun Rune
+r91 √øc3Storm Rune
+r92 √øc3Wind Rune
+r93 √øc3Force Rune
+r94 √øc3Life Rune
+r95 √øc3Death Rune
+r96 √øc3Heaven Rune
+r97 √øc3God Rune
+me0 Magic Eraser (Page 1)
+me1 Magic Eraser (Page 2)
+me2 Magic Eraser (Page 3)
+me3 Magic Eraser (Page 4)
+me4 Magic Eraser (Page 5)
+me5 Magic Eraser (Page 6)
+me6 Magic Eraser (Page 7)
+me7 Magic Eraser (Page 8)
+me8 Magic Eraser (Page 9)
 t18 Rerolling Orb
 t19 Rerolling Orb
 t20 Rerolling Orb
@@ -2629,314 +2941,144 @@ t27 Rerolling Orb
 t28 Rerolling Orb
 t29 Rerolling Orb
 t30 Rerolling Orb
-jwl Jewel (Old)
-cx0 Extra Small Charm
-cx9 Charm Token
-md1 Commander's Medallion 1 (soc)
-md3 Commander's Medallion 2 (soc)
-md5 Commander's Medallion 3 (soc)
-cap Cap/hat
-skp Skull Cap
-hlm Helm
-fhl Full Helm
-ghm Great Helm
-crn Crown
-msk Mask
-qui Quilted Armor
-lea Leather Armor
-hla Hard Leather Armor
-stu Studded Leather
-rng Ring Mail
-scl Scale Mail
-chn Chain Mail
-brs Breast Plate
-spl Splint Mail
-plt Plate Mail
-fld Field Plate
-gth Gothic Plate
-ful Full Plate Mail
-aar Ancient Armor
-ltp Light Plate
-buc Buckler
-sml Small Shield
-lrg Large Shield
-kit Kite Shield
-tow Tower Shield
-gts Gothic Shield
-lgl Gloves(L)
-vgl Heavy Gloves
-mgl Bracers(M)
-tgl Light Gauntlets
-hgl Gaunlets(H)
-lbt Leather Boots
-vbt Heavy Boots
-mbt Chain Boots
-tbt Light Plate Boots
-hbt Plate Boots
-lbl Sash(L)
-vbl Light Belt
-mbl Belt(M)
-tbl Heavy Belt
-hbl Girdle(H)
-bhm Bone Helm
-bsh Bone Shield
-spk Spiked Shield
-xap War Hat
-xkp Sallet
-xlm Casque
-xhl Basinet
-xrn Grand Crown
-xsk Death Mask
-xui Ghost Armor
-xea Serpentskin Armor
-xla Demonhide Armor
-xtu Trellised Armor
-xng Linked Mail
-xcl Tigulated Mail
-xhn Mesh Armor
-xrs Cuirass
-xpl Russet Armor
-xlt Templar Coat
-xld Sharktooth Armor
-xth Embossed Plate
-xul Chaos Armor
-xar Ornate Armor
-xtp Mage Plate
-xuc Defender
-xml Round Shield
-xrg Scutum
-xit Dragon Shield
-xow Pavise
-xts Ancient Shield
-xlg Demonhide Gloves
-xvg Sharkskin Gloves
-xmg Heavy Bracers
-xtg Battle Gauntlets
-xlb Demonhide Boots
-xvb Sharkskin Boots
-xmb Mesh Boots
-xtb Battle Boots
-xhb War Boots
-zlb Demonhide Sash
-zvb Sharkskin Belt
-zmb Mesh Belt
-ztb Battle Belt
-zhb War Belt
-xh9 Grim Helm
-xsh Grim Shield
-xpk Barbed Shield
-dr1 Wolf Head
-dr2 Hawk Helm
-dr3 Antlers
-dr4 Falcon Mask
-dr5 Spirit Mask
-ba1 Jawbone Cap
-ba2 Fanged Helm
-ba3 Horned Helm
-ba5 Avenger Guard
-pa1 Targe
-pa2 Rondache
-pa3 Heraldic Shield
-pa4 Aerin Shield
-pa5 Crown Shield
-ne1 Preserved Head
-ne2 Zombie Head
-ne3 Unraveller Head
-ne4 Gargoyle Head
-ne5 Demon Head
-ci0 Circlet
-ci1 Coronet
-ci2 Tiara
-ci3 Diadem
-uap Shako
-ukp Hydraskull
-ulm Armet
-uhl Giant Conch
-uhm Spired Helm
-urn Corona
-usk Demonhead
-uui Dusk Shroud
-uea Wyrmhide
-ula Scarab Husk
-utu Wire Fleece
-ung Diamond Mail
-ucl Loricated Mail
-uhn Boneweave
-urs Great Hauberk
-upl Balrog Skin
-ult Hellforged Plate
-uld Kraken Shell
-uth Lacquered Plate
-uul Shadow Plate
-uar Sacred Armor
-utp Archon Plate
-uuc Heater
-uml Luna
-urg Hyperion
-uit Monarch
-uow Aegis
-uts Ward
-ulg Bramble Mitts
-uvg Vampirebone Gloves
-umg Vambraces
-utg Crusader Gauntlets
-uhg Ogre Gauntlets
-ulb Wyrmhide Boots
-uvb Scarabshell Boots
-umb Boneweave Boots
-utb Mirrored Boots
-uhb Myrmidon Greaves
-ulc Spiderweb Sash
-uvc Vampirefang Belt
-umc Mithril Coil
-utc Troll Belt
-uhc Colossus Girdle
-uh9 Bone Visage
-ush Troll Nest
-upk Blade Barrier
-dr6 Alpha Helm
-dr7 Griffon Headress
-dr8 Hunter's Guise
-dr9 Sacred Feathers
-dra Totemic Mask
-ba6 Jawbone Visor
-ba7 Lion Helm
-ba8 Rage Mask
-baa Slayer Guard
-pa6 Akaran Targe
-pa7 Akaran Rondache
-pa8 Protector Shield
-pa9 Guilded Shield
-paa Royal Shield
-ne6 Mummified Trophy
-ne7 Fetish Trophy
-ne8 Sexton Trophy
-ne9 Cantor Trophy
-nea Heirophant Trophy
-drb Blood Spirt
-drc Sun Spirit
-drd Earth Spirit
-dre Sky Spirit
-drf Dream Spirit
-bab Carnage Helm
-bac Fury Visor
-bad Destroyer Helm
-bae Conquerer Crown
-baf Guardian Crown
-pab Sacred Targe
-pac Sacred Rondache
-pad Ancient Shield
-pae Zakarum Shield
-paf Vortex Shield
-neb Minion Skull
-ned Overseer Skull
-nee Succubae Skull
-nef Bloodlord Skull
-2ap Cap/hat
-2kp Skull Cap
-2lm Helm
-2hl Full Helm
-2hm Great Helm
-2rn Crown
-2sk Mask
-2ui Quilted Armor
-2ea Leather Armor
-2la Hard Leather Armor
-2tu Studded Leather
-2ng Ring Mail
-2cl Scale Mail
-2hn Chain Mail
-2rs Breast Plate
-2pl Splint Mail
-2lt Plate Mail
-2ld Field Plate
-2th Gothic Plate
-2ul Full Plate Mail
-2ar Ancient Armor
-2tp Light Plate
-2uc Buckler
-2ml Small Shield
-2rg Large Shield
-2it Kite Shield
-2ow Tower Shield
-2ts Gothic Shield
-2lg Gloves(L)
-2vg Heavy Gloves
-2mg Bracers(M)
-2tg Light Gauntlets
-2hg Gaunlets(H)
-2lb Leather Boots
-2vb Heavy Boots
-2mb Chain Boots
-2tb Light Plate Boots
-2hb Plate Boots
-3lb Sash(L)
-3vb Light Belt
-3mb Belt(M)
-3tb Heavy Belt
-3hb Girdle(H)
-2h9 Bone Helm
-2sh Bone Shield
-2pk Spiked Shield
-4ap War Hat
-4kp Sallet
-4lm Casque
-4hl Basinet
-4hm Winged Helm
-4rn Grand Crown
-4sk Death Mask
-4ui Ghost Armor
-4ea Serpentskin Armor
-4la Demonhide Armor
-4tu Trellised Armor
-4ng Linked Mail
-4cl Tigulated Mail
-4hn Mesh Armor
-4rs Cuirass
-4pl Russet Armor
-4lt Templar Coat
-4ld Sharktooth Armor
-4th Embossed Plate
-4ul Chaos Armor
-4ar Ornate Armor
-4tp Mage Plate
-4uc Defender
-4ml Round Shield
-4rg Scutum
-4it Dragon Shield
-4ow Pavise
-4ts Ancient Shield
-4lg Demonhide Gloves
-4vg Sharkskin Gloves
-4mg Heavy Bracers
-4tg Battle Gauntlets
-4hg War Gauntlets
-4lb Demonhide Boots
-4vb Sharkskin Boots
-4mb Mesh Boots
-4tb Battle Boots
-4hb War Boots
-5lb Demonhide Sash
-5vb Sharkskin Belt
-5mb Mesh Belt
-5tb Battle Belt
-5hb War Belt
-4h9 Grim Helm
-4sh Grim Shield
-4pk Barbed Shield
-qi2 Tiara
-qi3 Diadem
-qba Slayer Guard
-qda Totemic Mask
-qna Heirophant Trophy
-qp9 Guilded Shield
-qbc Fury Visor
-qbd Destroyer Helm
-qbe Conquerer Crown
-qdb Blood Spirt
-qdd Earth Spirit
-qde Sky Spirit
-qne Succubae Skull
-qnf Bloodlord Skull
-qpc Sacred Rondache
-qpe Zakarum Shield
+6gv Perfect Amethyst (6 Pack)
+6gy Perfect Topaz (6 Pack)
+6gb Perfect Saphire (6 Pack)
+6gg Perfect Emerald (6 Pack)
+6gr Perfect Ruby (6 Pack)
+6gw Perfect Diamond (6 Pack)
+6sk Perfect Skull (6 Pack)
+6gk Perfect Obsidian (6 Pack)
+jwl Jewel
+cx0 Small Charm
+cx9 Token
+xl0 √øc3Flawed Frozen Soul
+xl1 √øc5Flawed Shadow Quartz
+xl2 √øc1Flawed Bleeding Stone
+xl3 √øc9Flawed Burning Sulphur
+xl4 √øc3Flawed Dark Azurite
+xl5 √øc:Flawed Bitter Peridot
+xl6 √øc7Flawed Pulsing Opal
+xl7 √øc1Flawed Enigmatic Cinnabar
+xl8 √øc2Flawed Tomb Jade
+xl9 √øc/Flawed Solid Mercury
+xlx √øc8Flawed Storm Amber
+xly √øc;Flawed Tainted Tourmaline
+oil Rogin Oil
+rib Commander's Ribbon
+md0 Medallion of Archer
+md1 Medallion of Archer
+md2 Medallion of Caster
+md3 Medallion of Caster
+md4 Medallion of Caster
+md5 Medallion of Caster
+toa Right-click to reset Stat/Skill Points Token of Absolution
+sbk √øc4Not Radamant's Skill Book
+zz0 √øc1Rad√øc8ia√øc9nt √øc/Aura √øc5Stone
+srj √øc:Slurp √øc3Juice
+sbs √øc4Not Radamant's Skill Book
+urt Cube With √øc3Rerolling Orb√øc/ To Add √øc9750 Rare Ring Points√øc/√øc/ √øc8Ring Contract√øc/
+uat Cube With √øc3Rerolling Orb√øc/ To Add √øc9750 Rare Amulet Points√øc/√øc/ √øc8Amulet Contract√øc/
+mt1 √øc4Shifting Sands Tier 1
+mt2 √øc4Ancient Temple Tier 1
+mt3 √øc4Warped Worldstone Tier 1
+mt4 √øc4Chaos Palace Tier 1
+mt5 √øc4Lost Tombs Tier 1
+mt6 √øc4Hidden Durance Tier 1
+mt7 √øc4Shifting Sands Tier 2
+mt8 √øc4Ancient Temple Tier 2
+mt9 √øc4Warped Worldstone Tier 2
+m10 √øc4Chaos Palace Tier 2
+m11 √øc4Lost Tombs Tier 2
+m12 √øc4Hidden Durance Tier 2
+m13 √øc4Shifting Sands Tier 3
+m14 √øc4Ancient Temple Tier 3
+m15 √øc4Warped Worldstone Tier 3
+m16 √øc4Chaos Palace Tier 3
+m17 √øc4Lost Tombs Tier 3
+m18 √øc4Hidden Durance Tier 3
+m19 √øc4Shifting Sands Tier 4
+m20 √øc4Ancient Temple Tier 4
+m21 √øc4Warped Worldstone Tier 4
+m22 √øc4Chaos Palace Tier 4
+m23 √øc4Lost Tombs Tier 4
+m24 √øc4Hidden Durance Tier 4
+m25 √øc4Shifting Sands Tier 5
+m26 √øc4Ancient Temple Tier 5
+m27 √øc4Warped Worldstone Tier 5
+m28 √øc4Chaos Palace Tier 5
+m29 √øc4Lost Tombs Tier 5
+m30 √øc4Hidden Durance Tier 5
+m31 √øc4Shifting Sands Tier 6
+m32 √øc4Ancient Temple Tier 6
+m33 √øc4Warped Worldstone Tier 6
+m34 √øc4Chaos Palace Tier 6
+m35 √øc4Lost Tombs Tier 6
+m36 √øc4Hidden Durance Tier 6
+pp1 √øc;Draconic Geode√øc/
+1z1 √øc1Steak Platter√øc/
+ma1 √øc4Maple Branch√øc/
+yy1 √øc9Chef's Compendium√øc/
+hr1 √øc1Jack of Hearts√øc/
+so1 √øc3Soulstone√øc/
+um1 √øc1Diabolic Diaboleite√øc/
+um2 √øc3Mephitic Malachite√øc/
+um3 √øc9Baleful Bastnasite√øc/
+um4 √øc/Pained Petalite√øc/
+um5 √øc2Anguishing Andalusite√øc/
+um6 √øc;Convoking Covellite√øc/
+up1 √øc1Pure Diabolic Diaboleite√øc/
+up2 √øc3Pure Mephitic Malachite√øc/
+up3 √øc9Pure Baleful Bastnasite√øc/
+up4 √øc/Pure Pained Petalite√øc/
+up5 √øc2Pure Anguishing Andalusite√øc/
+up6 √øc;Pure Convoking Covellite√øc/
+x01 Multi Stocker II
+x02 Multi Stocker II
+x03 Multi Stocker II
+x04 Multi Stocker II
+x05 Multi Stocker II
+x06 Multi Stocker II
+x07 Multi Stocker II
+x08 Multi Stocker II
+x09 Multi Stocker II
+x10 Multi Stocker II
+zz1 Entropic Aura Stone
+zz2 Superconductive Aura Stone
+x1c Crystallized Radiance √øc1(Chromatic Brilliance Only)√øc/
+x2c Crystallized Entropy √øc1(Chromatic Brilliance Only)√øc/
+x3c Crystallized Superconductor √øc1(Chromatic Brilliance Only)√øc/
+0am an evil force
+1am an evil force
+2am an evil force
+3am an evil force
+4am an evil force
+5am an evil force
+6am an evil force
+7am an evil force
+8am an evil force
+9am an evil force
+1b1 √øc8The Undying Inferno
+1b2 √øc8The Frozen Waste
+1b3 √øc8The Static Plateau
+1b4 √øc8The Decaying Mire
+1b5 √øc8The Firmament Enduring
+1b6 √øc8The Nexus Arcana
+x0d Nexus Prism: Defiance √øc1(Nexus Crowns Only)√øc/
+x1d Nexus Prism: Cleansing √øc1(Nexus Crowns Only)√øc/
+x2d Nexus Prism: Resist Fire √øc1(Nexus Crowns Only)√øc/
+x3d Nexus Prism: Resist Cold √øc1(Nexus Crowns Only)√øc/
+x4d Nexus Prism: Resist Lightning √øc1(Nexus Crowns Only)√øc/
+x5d Nexus Prism: Vigour √øc1(Nexus Crowns Only)√øc/
+x6d Nexus Prism: Salvation √øc1(Nexus Crowns Only)√øc/
+x7d Nexus Prism: Doom √øc1(Nexus Crowns Only)√øc/
+x8d Nexus Prism: Arcane Vulnerability √øc1(Nexus Crowns Only)√øc/
+x9d Nexus Prism: Conviction √øc1(Nexus Crowns Only)√øc/
+1ts TESTING Exp
+vx9 Profane Effigy
+bh1 Ufrag's Heart
+bh2 Tyoh's Heart
+bh3 Emitnwod's Heart
+bh4 Effellarr's Heart
+bh5 Mudeyhnne's Heart
+bh6 Lyrtsa's Heart

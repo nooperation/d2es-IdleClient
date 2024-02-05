@@ -490,5 +490,36 @@ namespace IdleClient
 				}
 			}
 		}
-	}
+
+        internal List<CharacterEditor.Item> DebugGetItemList()
+        {
+            if (clients.Count == 0 || !clients[0].IsRunning)
+                return new List<CharacterEditor.Item>();
+
+            return clients[0].GetItems();
+        }
+        internal void DebugPickupItem(uint p)
+        {
+            if (clients.Count == 0 || !clients[0].IsRunning)
+                return;
+
+            clients[0].DebugPickupItem(p);
+        }
+
+        internal void DebugDropItem(uint p)
+        {
+            if (clients.Count == 0 || !clients[0].IsRunning)
+                return;
+
+            clients[0].DebugDropItem(p);
+        }
+
+        internal void DebugInteractWith(uint objectType, uint objectId)
+        {
+            if (clients.Count == 0 || !clients[0].IsRunning)
+                return;
+
+            clients[0].InteractWithObject(objectType, objectId);
+        }
+    }
 }

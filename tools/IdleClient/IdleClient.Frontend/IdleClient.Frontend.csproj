@@ -103,7 +103,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\IdleClient\IdleClient.csproj">
-      <Project>{CAC89690-0985-494A-AA62-CDBF5980AB54}</Project>
+      <Project>{cac89690-0985-494a-aa62-cdbf5980ab54}</Project>
       <Name>IdleClient</Name>
     </ProjectReference>
   </ItemGroup>

@@ -111,6 +111,46 @@
                     </Grid>
                 </Grid>
             </TabItem>
+            <TabItem Header="DEBUG" Name="tabItemDebug">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                        <GradientStop Color="{DynamicResource {x:Static SystemColors.GradientActiveCaptionColorKey}}" Offset="1"/>
+                        <GradientStop Color="White"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    <StackPanel Grid.Row="0" Orientation="Horizontal">
+                        <Button Name="buttonDebugPickDrop" Click="buttonDebugPickDrop_Click">Pick and Drop</Button>
+                        <Button Name="buttonDebugPickupItem" Click="buttonDebugPickupItem_Click">Pickup</Button>
+                        <Button Name="buttonDebugDropItem" Click="buttonDebugDropItem_Click">Drop</Button>
+                        <Label>ID</Label>
+                        <TextBox Width="64" Name="textBoxDebugItemId"></TextBox>
+                    </StackPanel>
+                    <StackPanel Grid.Row="1" Orientation="Horizontal">
+                        <Button Name="buttonDebugOpenStash" Click="buttonDebugOpenStash_Click">Open Stash</Button>
+                        <Label>Stash ID</Label>
+                        <TextBox Width="64" Name="textBoxDebugStashId"></TextBox>
+                        <Label>(Use .misc showinteractive)</Label>
+                    </StackPanel>
+
+                    <StackPanel Grid.Row="2"  Orientation="Horizontal">
+                        <Button Name="buttonDebugRefreshItemList" Click="buttonDebugRefreshItemList_Click">Refresh Item List</Button>
+                        <Label>(Only hit once, Reload bot after dropping listed items)</Label>
+                    </StackPanel>
+
+                    <ListBox Grid.Row="3"  Name="listBoxDebugItems" Height="185">
+                    </ListBox>
+
+
+                </Grid>
+            </TabItem>
         </TabControl>
 
         <GridSplitter  Grid.Row="0" Grid.Column="1" Width="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>

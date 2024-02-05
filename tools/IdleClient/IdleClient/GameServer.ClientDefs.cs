@@ -76,6 +76,105 @@ namespace IdleClient.Game
 	}
 
 	/// <summary>
+	/// Interacts with specified unit
+	/// </summary>
+	struct UnitInteractOut : IOutPacket
+	{
+		public uint ObjectType;
+		public uint ObjectId;
+
+		public UnitInteractOut(uint objectType, uint objectId)
+		{
+			this.ObjectType = objectType;
+			this.ObjectId = objectId;
+		}
+
+		#region IOutPacket Members
+
+		public byte[] GetBytes()
+		{
+			MemoryStream ms = new MemoryStream();
+			BinaryWriter bw = new BinaryWriter(ms);
+
+			bw.Write(ObjectType);
+			bw.Write(ObjectId);
+
+			return ms.ToArray();
+		}
+
+		public byte Id
+		{
+			get { return (byte)GameServerOutPacketType.UnitInteract; }
+		}
+
+		#endregion
+	}
+
+	/// <summary>
+	/// Drops item currently on cursor
+	/// </summary>
+	struct DropItemOut : IOutPacket
+	{
+		public uint ItemID;
+
+		public DropItemOut(uint itemID)
+		{
+			this.ItemID = itemID;
+		}
+
+		#region IOutPacket Members
+
+		public byte[] GetBytes()
+		{
+			MemoryStream ms = new MemoryStream();
+			BinaryWriter bw = new BinaryWriter(ms);
+
+			bw.Write(ItemID);
+
+			return ms.ToArray();
+		}
+
+		public byte Id
+		{
+			get { return (byte)GameServerOutPacketType.DropItem; }
+		}
+
+		#endregion
+	}
+
+	/// <summary>
+	/// Picks an item up from storage
+	/// </summary>
+	struct PickItemFromContainerOut : IOutPacket
+	{
+		public uint ItemID;
+
+		public PickItemFromContainerOut(uint itemID)
+		{
+			this.ItemID = itemID;
+		}
+
+		#region IOutPacket Members
+
+		public byte[] GetBytes()
+		{
+			MemoryStream ms = new MemoryStream();
+			BinaryWriter bw = new BinaryWriter(ms);
+
+			bw.Write(ItemID);
+
+			return ms.ToArray();
+		}
+
+		public byte Id
+		{
+			get { return (byte)GameServerOutPacketType.PickItemFromContainer; }
+		}
+
+		#endregion
+	}
+
+	/// <summary>
 	/// Sends an overhead message
 	/// </summary>
 	struct SendOverheadMessageOut : IOutPacket

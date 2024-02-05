@@ -302,5 +302,79 @@ namespace IdleClient.Frontend
 		{
 			driver.Terminate();
 		}
+
+		private void buttonDebugPickupItem_Click(object sender, RoutedEventArgs e)
+		{
+			if (String.IsNullOrWhiteSpace(textBoxDebugItemId.Text))
+			{
+				MessageBox.Show("Refresh item list or type in item id first!");
+				return;
+			}
+
+			uint itemId = UInt32.Parse(textBoxDebugItemId.Text);
+
+			driver.DebugPickupItem(itemId);
+		}
+
+		private void buttonDebugDropItem_Click(object sender, RoutedEventArgs e)
+		{
+			if (String.IsNullOrWhiteSpace(textBoxDebugItemId.Text))
+			{
+				MessageBox.Show("Refresh item list or type in item id first!");
+				return;
+			}
+
+			uint itemId = UInt32.Parse(textBoxDebugItemId.Text);
+			textBoxDebugItemId.Text = (itemId + 1).ToString();
+
+			driver.DebugDropItem(itemId);
+		}
+
+		private void buttonDebugRefreshItemList_Click(object sender, RoutedEventArgs e)
+		{
+			listBoxDebugItems.Items.Clear();
+			var items = driver.DebugGetItemList();
+			foreach (var item in items)
+			{
+				listBoxDebugItems.Items.Add(item.ItemID + "  " + item.ToString());
+			}
+			
+			if (items.Count > 0)
+			{
+				textBoxDebugItemId.Text = items[0].ItemID.ToString();
+			}
+		}
+
+		private void textServerOutput_TextChanged(object sender, TextChangedEventArgs e)
+		{
+			textServerOutput.ScrollToEnd();
+		}
+
+		private void buttonDebugOpenStash_Click(object sender, RoutedEventArgs e)
+		{
+			if (String.IsNullOrWhiteSpace(textBoxDebugStashId.Text))
+			{
+				MessageBox.Show("Use .misc showinteractive to get the stash ID!");
+				return;
+			}
+			uint stashId = uint.Parse(textBoxDebugStashId.Text);
+
+			driver.DebugInteractWith(2, stashId);
+		}
+
+		private void buttonDebugPickDrop_Click(object sender, RoutedEventArgs e)
+		{
+			if (String.IsNullOrWhiteSpace(textBoxDebugItemId.Text))
+			{
+				MessageBox.Show("Refresh item list or type in item id first!");
+				return;
+			}
+
+			uint itemId = UInt32.Parse(textBoxDebugItemId.Text);
+			textBoxDebugItemId.Text = (itemId + 1).ToString();
+
+			driver.DebugPickupItem(itemId);
+			driver.DebugDropItem(itemId);
+		}
 	}
 }
